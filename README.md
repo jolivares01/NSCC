@@ -1,3 +1,18 @@
+# Inicializar Capa Front
+npm run serve
+# Inicializar Capa BackEnd 
+1. python -m venv venv
+2. .\venv\Scripts\Activate.ps1
+
+para instalar fastAPI
+1. pip install fastapi uvicorn asyncpg httpx pydantic[email]
+
+Para ejecutar el gateway:
+1. python -m uvicorn main:app --reload --port 8000 (Se debe ejecutar dentro de la ruta del API)
+
+Validar Swagger de Api gestion de usuarios:
+http://localhost:8000/docs#/
+
 # Documentación de Arquitectura
 
 SCC_PROJECT_ROOT/
