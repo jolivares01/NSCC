@@ -10,7 +10,7 @@ const UserManagement = () => import("@/pages/GestionUsuarios.vue");
 const Reports = () => import("@/pages/Reportes.vue");
 const Reclamos = () => import("@/pages/GestionReclamos.vue");
 
-// Ayuda para carga segura: evita pantalla en blanco si falta el archivo .vue
+// Función de ayuda para carga segura: si el archivo no existe, carga Dashboard para evitar pantalla en blanco
 const safeImport = (path) => {
   return () => import(`@/pages/${path}`).catch(() => {
     console.warn(`Archivo ${path} no encontrado. Redirigiendo a Dashboard.`);
@@ -33,57 +33,64 @@ const routes = [
       {
         path: "dashboard",
         name: "Dashboard",
-        component: Dashboard
+        component: Dashboard,
+        meta: { roles: ['ROL_0001'] }
       },
+      // --- NUEVAS RUTAS PARA ADMINISTRADOR (ROL_0001) ---
       {
         path: "comisiones",
         name: "Comisiones",
-        component: safeImport("Comisiones.vue")
+        component: safeImport("Comisiones.vue"),
+        meta: { roles: ['ROL_0001'] }
       },
       {
         path: "activaciones",
         name: "Activaciones",
-        component: safeImport("Activaciones.vue")
+        component: safeImport("Activaciones.vue"),
+        meta: { roles: ['ROL_0001'] }
       },
       {
         path: "consulta-recargas",
         name: "Recargas",
-        component: safeImport("ConsultaRecargas.vue")
+        component: safeImport("ConsultaRecargas.vue"),
+        meta: { roles: ['ROL_0001'] }
       },
       {
         path: "comisiones-especiales",
         name: "Comisiones Especiales",
-        component: safeImport("ComisionesEspeciales.vue")
+        component: safeImport("ComisionesEspeciales.vue"),
+        meta: { roles: ['ROL_0001'] }
       },
       {
         path: "calculo",
         name: "Cálculo",
-        component: safeImport("Calculo.vue")
+        component: safeImport("Calculo.vue"),
+        meta: { roles: ['ROL_0001'] }
       },
-      {
-        path: "parametros-negocio", // Este nombre debe coincidir EXACTAMENTE con el de la DB
-        name: "Parámetros de Negocio",
-        component: safeImport("Parametros.vue")
-      },
+      // --- FIN DE NUEVAS RUTAS ---
       {
         path: "registrar-usuario",
         name: "Registrar Usuario",
-        component: () => import("@/pages/RegistrarUsuario.vue")
+        component: () => import("@/pages/RegistrarUsuario.vue"),
+        meta: { roles: ['ROL_0001'] }
       },
       {
         path: "gestion-usuarios",
         name: "Usuarios",
-        component: UserManagement
+        component: UserManagement,
+        meta: { roles: ['ROL_0001'] }
       },
       {
         path: "reportes",
         name: "Reportes",
-        component: Reports
+        component: Reports,
+        meta: { roles: ['ROL_0001', 'ROL_0002'] }
       },
       {
         path: "gestion-reclamos",
         name: "Reclamos",
-        component: Reclamos
+        component: Reclamos,
+        meta: { roles: ['ROL_0001', 'ROL_0002'] }
       }
     ]
   },
@@ -95,14 +102,10 @@ const router = new VueRouter({
   linkExactActiveClass: "active",
 });
 
-// GUARD DE NAVEGACIÓN DINÁMICO
+// GUARD DE NAVEGACIÓN
 router.beforeEach((to, from, next) => {
   const userRole = localStorage.getItem('user_role');
   const isLogged = !!userRole;
-  
-  // Obtenemos los paths permitidos desde localStorage (guardados al hacer login)
-  const storedPermissions = localStorage.getItem('user_permissions');
-  const allowedPaths = storedPermissions ? JSON.parse(storedPermissions) : [];
 
   if (to.meta.isPublic) {
     next();
@@ -110,21 +113,13 @@ router.beforeEach((to, from, next) => {
   else if (!isLogged) {
     next({ name: 'Login' });
   } 
+  else if (to.meta.roles && !to.meta.roles.includes(userRole)) {
+    // Si no tiene el rol, redirigir según su perfil para evitar bucles
+    const homePath = userRole === 'ROL_0001' ? '/dashboard' : '/gestion-reclamos';
+    next({ path: homePath });
+  } 
   else {
-    // Normalizamos el path actual para compararlo con la lista de la BD
-    const currentPath = to.path === '/' ? 'dashboard' : to.path.replace(/^\//, '');
-
-    // Verificación dinámica: ¿el path está en la lista permitida de la base de datos?
-    // Siempre permitimos el dashboard como fallback mínimo
-    if (currentPath === 'dashboard' || allowedPaths.includes(currentPath)) {
-      next();
-    } 
-    else {
-      // Si no tiene permiso, redirigir a una página segura según su rol
-      console.warn(`Acceso denegado a: ${currentPath}. No está en tus permisos.`);
-      const homePath = userRole === 'ROL_0001' ? '/dashboard' : '/gestion-reclamos';
-      next({ path: homePath });
-    }
+    next();
   }
 });
 

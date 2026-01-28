@@ -71,24 +71,34 @@ export default {
 
       this.loading = true;
       try {
-        // Llamada a tu API Gateway
-        const response = await axios.post('http://localhost:8000/api/v1/auth/login', this.user);
-        
-        const { id_rol, username } = response.data;
+        // 1. Llamada a la Autenticación
+        const authResponse = await axios.post('http://localhost:8000/api/v1/auth/login', this.user);
+        const { id_rol, username } = authResponse.data;
 
-        // Guardar sesión y rol en el navegador
+        // 2. NUEVA LLAMADA: Obtener permisos dinámicos desde el rol_services
+        // Esta llamada viaja a través del Gateway que configuramos anteriormente
+        const permissionsResponse = await axios.get(`http://localhost:8000/api/v1/roles/permissions/${id_rol}`);
+        const allowedPaths = permissionsResponse.data.paths;
+
+        // 3. Persistencia de la sesión y los permisos
         localStorage.setItem('user_role', id_rol);
         localStorage.setItem('user_name', username);
+        // Guardamos el array de paths como un string JSON
+        localStorage.setItem('user_permissions', JSON.stringify(allowedPaths));
 
         this.$notify({ type: 'success', icon: 'tim-icons icon-check-2', message: `Bienvenido, ${username}` });
 
-        // Redirección según ROL
+        // 4. Redirección basada en ROL
+        // El Router Guard ahora verificará 'user_permissions' inmediatamente al intentar entrar
         if (id_rol === 'ROL_0001') {
           this.$router.push('/dashboard');
-        } else if (id_rol === 'ROL_0002') {
-          this.$router.push('/reportes');
+        } else {
+          // Si es ROL_0002 o cualquier otro con permisos definidos
+          this.$router.push('/gestion-reclamos');
         }
+        
       } catch (error) {
+        console.error("Error en login:", error);
         const errorMsg = error.response?.data?.detail || 'Error de conexión con el servidor';
         this.$notify({ type: 'danger', icon: 'tim-icons icon-alert-circle-exc', message: errorMsg });
       } finally {

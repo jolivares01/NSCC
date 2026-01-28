@@ -24,7 +24,7 @@
           <sidebar-link to="/gestion-usuarios" name="Gestión de usuarios" icon="tim-icons icon-badge" />
         </sidebar-item>
         
-        <sidebar-link v-if="isAdmin" to="/parametros" name="Parametros DE NEGOCIO" icon="tim-icons icon-settings" />
+        <sidebar-link v-if="isAdmin" to="/parametros-negocio" name="Parametros DE NEGOCIO" icon="tim-icons icon-settings" />
       </template>
     </side-bar>
     
