@@ -1,0 +1,14 @@
+2026-04-06 09:50:42 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-06 09:50:42 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-04-06 09:50:43 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-06 09:50:43 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-04-06 09:50:46 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-04-06 09:50:46 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-06 09:51:05 | INFO     | E24455144    | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'E24455144'
+2026-04-06 09:51:05 | INFO     | E24455144    | USER-SERVICE    | Consulta finalizada. Usuario 'E24455144' encontrado.
+2026-04-06 09:51:10 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: E24455144
+2026-04-06 09:53:55 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-04-06 09:53:55 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-06 09:55:09 | INFO     | SYSTEM       | USER-SERVICE    | REGISTRO: Iniciando proceso para usuario 'OATEC38' solicitado por 'ADMIN_TEST'
+2026-04-06 09:55:09 | DEBUG    | SYSTEM       | USER-SERVICE    | Parámetros SP registrar_usuario: ('Gran Caracas Este', 'ZONA TECH, C.A.', 'OATEC38', 'ROL_0002', 'ADMIN_TEST', 'INTERNO', None, 'CO')
+2026-04-06 09:55:09 | INFO     | SYSTEM       | USER-SERVICE    | REGISTRO EXITOSO: Usuario 'OATEC38' creado correctamente.

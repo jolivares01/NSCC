@@ -1,0 +1,80 @@
+2026-04-11 21:17:27 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-11 21:17:27 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-11 21:17:27 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-11 21:17:27 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-11 21:17:27 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-11 21:17:27 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-11 21:17:27 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-11 21:17:27 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 22
+2026-04-11 21:17:27 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 14
+2026-04-11 21:17:27 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-11 21:18:03 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-11 21:18:03 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-11 21:18:03 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-11 21:18:03 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-11 21:18:03 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-11 21:18:03 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-11 21:18:03 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 22
+2026-04-11 21:18:03 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 14
+2026-04-11 21:18:03 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-11 21:18:03 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-11 21:27:57 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-11 21:27:57 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-11 21:27:57 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-11 21:27:57 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-11 21:27:57 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-11 21:27:57 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 22
+2026-04-11 21:27:57 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-11 21:27:57 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-11 21:27:57 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-11 21:27:58 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 14
+2026-04-11 21:41:30 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-11 21:41:30 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-11 21:41:30 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-11 21:41:30 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-11 21:41:30 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-11 21:41:30 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-11 21:41:30 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-11 21:41:30 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 22
+2026-04-11 21:41:30 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-11 21:41:30 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 14
+2026-04-11 21:44:56 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-11 21:44:56 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-11 21:44:56 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-11 21:44:56 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-11 21:44:56 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 22
+2026-04-11 21:44:56 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 14
+2026-04-11 21:44:56 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-11 21:44:56 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-11 21:44:56 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-11 21:44:56 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-11 21:53:40 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-11 21:53:40 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-11 21:53:40 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-11 21:53:40 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-11 21:53:40 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-11 21:53:40 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-11 21:53:40 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-11 21:53:40 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 22
+2026-04-11 21:53:40 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 14
+2026-04-11 21:53:40 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-11 21:53:47 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-11 21:53:47 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-11 21:53:47 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-11 21:53:47 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-11 21:53:47 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-11 21:53:47 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-11 21:53:47 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 22
+2026-04-11 21:53:47 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 14
+2026-04-11 21:53:47 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-11 21:53:47 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-11 21:54:06 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-11 21:54:06 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-11 21:54:06 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-11 21:54:06 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-11 21:54:06 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 14
+2026-04-11 21:54:06 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-11 21:54:06 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 22
+2026-04-11 21:54:06 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-11 21:54:06 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-11 21:54:06 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.

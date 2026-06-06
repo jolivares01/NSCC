@@ -1,0 +1,128 @@
+version: '3.8'
+
+services:
+  # --- INFRAESTRUCTURA: BASE DE DATOS LOCAL ---
+  db_postgres:
+    image: postgres:15-alpine
+    container_name: scc_db_postgres
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
+    ports:
+      - "5432:5432"
+    networks:
+      - scc_network
+
+  # --- API GATEWAY (Entrypoint) ---
+  api-gateway:
+    build:
+      context: .
+      dockerfile: api_gateway/Dockerfile
+    container_name: scc_api_gateway
+    ports:
+      - "8080:8080"
+    environment:
+      - SECRET_KEY=${SECRET_KEY}
+      - ALGORITHM=${ALGORITHM}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_HOST=${POSTGRES_HOST}
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_PORT=${POSTGRES_PORT}
+      - DB_SCHEMA=${DB_SCHEMA}
+      - TZ=${TZ}
+    depends_on:
+      - db_postgres
+    networks:
+      - scc_network
+
+  # --- PLANTILLA DE CONFIGURACIÓN PARA MICROSERVICIOS ---
+  # Usamos esto para no repetir las variables de Postgres en cada servicio
+  x-common-env: &pg_config
+    POSTGRES_USER: ${POSTGRES_USER}
+    POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    POSTGRES_HOST: ${POSTGRES_HOST}
+    POSTGRES_DB: ${POSTGRES_DB}
+    POSTGRES_PORT: ${POSTGRES_PORT}
+    DB_SCHEMA: ${DB_SCHEMA}
+    TZ: ${TZ}
+
+  # --- MICROSERVICIOS ---
+  auth-service:
+    build: ./scc_services/auth_service
+    container_name: scc_auth
+    environment: *pg_config
+    depends_on: [db_postgres]
+    networks: [scc_network]
+
+  user-service:
+    build: ./scc_services/user_service
+    container_name: scc_users
+    environment: *pg_config
+    depends_on: [db_postgres]
+    networks: [scc_network]
+
+  calculation-service:
+    build: ./scc_services/calculation_service
+    container_name: scc_calculation
+    environment:
+      <<: *pg_config
+      ORA_CRM_USER: ${ORA_CRM_USER}
+      ORA_CRM_PASS: ${ORA_CRM_PASS}
+      ORA_CRM_DSN: ${ORA_CRM_DSN}
+      ORA_SQL_USER: ${ORA_SQL_USER}
+      ORA_SQL_PASS: ${ORA_SQL_PASS}
+      ORA_SQL_DSN: ${ORA_SQL_DSN}
+    depends_on: [db_postgres]
+    networks: [scc_network]
+
+  business-rules-service:
+    build: ./scc_services/business_rules_service
+    container_name: scc_business_rules
+    environment: *pg_config
+    depends_on: [db_postgres]
+    networks: [scc_network]
+
+  claims-service:
+    build: ./scc_services/claims_service
+    container_name: scc_claims
+    environment: *pg_config
+    depends_on: [db_postgres]
+    networks: [scc_network]
+
+  dashboard-service:
+    build: ./scc_services/dashboard_service
+    container_name: scc_dashboard
+    environment: *pg_config
+    depends_on: [db_postgres]
+    networks: [scc_network]
+
+  report-service:
+    build: ./scc_services/report_service
+    container_name: scc_reports
+    environment: *pg_config
+    depends_on: [db_postgres]
+    networks: [scc_network]
+
+  rol-service:
+    build: ./scc_services/rol_services
+    container_name: scc_roles
+    environment: *pg_config
+    depends_on: [db_postgres]
+    networks: [scc_network]
+
+  # --- FRONT END ---
+  scc-front:
+    build: ./scc_front
+    container_name: scc_frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - api-gateway
+    networks:
+      - scc_network
+
+networks:
+  scc_network:
+    driver: bridge

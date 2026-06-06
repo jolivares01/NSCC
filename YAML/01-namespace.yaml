@@ -1,0 +1,11 @@
+---
+# 1. NAMESPACE - SCC
+# Define el aislamiento lógico para todos los recursos del proyecto Comisiones
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: comisiones
+  labels:
+    dominio: dominio_crm
+    entorno: produccion
+    proyecto: scc

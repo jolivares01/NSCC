@@ -1,0 +1,18 @@
+2026-04-08 23:50:05 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-08 23:50:05 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-08 23:50:05 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-08 23:50:05 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-08 23:50:05 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-08 23:50:05 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-08 23:50:05 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-08 23:50:05 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-08 23:50:05 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-08 23:50:05 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-08 23:50:45 | DEBUG    | admin        | BUSINESS-RULES  | Intentando actualizar regla lógica. Datos: {'operation_code': 'OT-014', 'rule_type': 'PLAN_RULE', 'amount_to_pay': '8', 'amount_percentege': '60', 'description': 'regla nueva cambio de plan prueba', 'description_original': 'regla nueva cambio de plan prueba', 'origin_plan_pattern': 'NOT:Inteligente Plus 6 GB,Inteligente Plus 12 GB,Datos Compartidos 200GB,Datos Compartidos 100GB', 'destination_plan_pattern': 'Inteligente Plus 6 GB', 'commissionable_flag': 'N'}
+2026-04-08 23:50:45 | INFO     | admin        | BUSINESS-RULES  | Regla OT-014 actualizada exitosamente.
+2026-04-08 23:50:45 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-08 23:50:45 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-08 23:50:45 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-08 23:50:45 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-08 23:50:46 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-08 23:50:46 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13

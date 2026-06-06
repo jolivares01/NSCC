@@ -1,0 +1,106 @@
+2026-04-09 07:47:38 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-42
+2026-04-09 07:47:38 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-09 07:47:38 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-09 07:47:52 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-42
+2026-04-09 07:47:52 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-09 07:47:52 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-09 07:48:12 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-09 07:48:55 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Reporte Excel generado con 140552 registros.
+2026-04-09 23:32:39 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-09 23:32:40 | ERROR    | E24455144    | CALCULATION-SERVICE | Error en migración activaciones: ORA-01017: invalid username/password; logon denied
+Help: https://docs.oracle.com/error-help/db/ora-01017/
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 302, in migrar_activaciones_oracle_to_pg
+    conn_ora = oracledb.connect(
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 1698, in connect
+    return conn_class(dsn=dsn, pool=pool, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 892, in __init__
+    impl.connect(params_impl)
+  File "src/oracledb/impl/thin/connection.pyx", line 526, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 522, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 465, in oracledb.thin_impl.ThinConnImpl._connect_with_params
+  File "src/oracledb/impl/thin/connection.pyx", line 446, in oracledb.thin_impl.ThinConnImpl._connect_with_description
+  File "src/oracledb/impl/thin/connection.pyx", line 415, in oracledb.thin_impl.ThinConnImpl._connect_with_address
+  File "src/oracledb/impl/thin/protocol.pyx", line 368, in oracledb.thin_impl.Protocol._connect_phase_two
+  File "src/oracledb/impl/thin/protocol.pyx", line 494, in oracledb.thin_impl.Protocol._process_message
+  File "src/oracledb/impl/thin/messages/base.pyx", line 102, in oracledb.thin_impl.Message._check_and_raise_exception
+oracledb.exceptions.DatabaseError: ORA-01017: invalid username/password; logon denied
+Help: https://docs.oracle.com/error-help/db/ora-01017/
+2026-04-09 23:36:03 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-09 23:36:04 | ERROR    | E24455144    | CALCULATION-SERVICE | Error en migración activaciones: ORA-01017: invalid username/password; logon denied
+Help: https://docs.oracle.com/error-help/db/ora-01017/
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 302, in migrar_activaciones_oracle_to_pg
+    conn_ora = oracledb.connect(
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 1698, in connect
+    return conn_class(dsn=dsn, pool=pool, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 892, in __init__
+    impl.connect(params_impl)
+  File "src/oracledb/impl/thin/connection.pyx", line 526, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 522, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 465, in oracledb.thin_impl.ThinConnImpl._connect_with_params
+  File "src/oracledb/impl/thin/connection.pyx", line 446, in oracledb.thin_impl.ThinConnImpl._connect_with_description
+  File "src/oracledb/impl/thin/connection.pyx", line 415, in oracledb.thin_impl.ThinConnImpl._connect_with_address
+  File "src/oracledb/impl/thin/protocol.pyx", line 368, in oracledb.thin_impl.Protocol._connect_phase_two
+  File "src/oracledb/impl/thin/protocol.pyx", line 494, in oracledb.thin_impl.Protocol._process_message
+  File "src/oracledb/impl/thin/messages/base.pyx", line 102, in oracledb.thin_impl.Message._check_and_raise_exception
+oracledb.exceptions.DatabaseError: ORA-01017: invalid username/password; logon denied
+Help: https://docs.oracle.com/error-help/db/ora-01017/
+2026-04-09 23:38:59 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-09 23:39:01 | ERROR    | E24455144    | CALCULATION-SERVICE | Error en migración activaciones: ORA-01017: invalid username/password; logon denied
+Help: https://docs.oracle.com/error-help/db/ora-01017/
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 302, in migrar_activaciones_oracle_to_pg
+    conn_ora = oracledb.connect(
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 1698, in connect
+    return conn_class(dsn=dsn, pool=pool, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 892, in __init__
+    impl.connect(params_impl)
+  File "src/oracledb/impl/thin/connection.pyx", line 526, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 522, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 465, in oracledb.thin_impl.ThinConnImpl._connect_with_params
+  File "src/oracledb/impl/thin/connection.pyx", line 446, in oracledb.thin_impl.ThinConnImpl._connect_with_description
+  File "src/oracledb/impl/thin/connection.pyx", line 415, in oracledb.thin_impl.ThinConnImpl._connect_with_address
+  File "src/oracledb/impl/thin/protocol.pyx", line 368, in oracledb.thin_impl.Protocol._connect_phase_two
+  File "src/oracledb/impl/thin/protocol.pyx", line 494, in oracledb.thin_impl.Protocol._process_message
+  File "src/oracledb/impl/thin/messages/base.pyx", line 102, in oracledb.thin_impl.Message._check_and_raise_exception
+oracledb.exceptions.DatabaseError: ORA-01017: invalid username/password; logon denied
+Help: https://docs.oracle.com/error-help/db/ora-01017/
+2026-04-09 23:40:41 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-09 23:40:43 | ERROR    | E24455144    | CALCULATION-SERVICE | Error en migración activaciones: ORA-01017: invalid username/password; logon denied
+Help: https://docs.oracle.com/error-help/db/ora-01017/
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 302, in migrar_activaciones_oracle_to_pg
+    conn_ora = oracledb.connect(
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 1698, in connect
+    return conn_class(dsn=dsn, pool=pool, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 892, in __init__
+    impl.connect(params_impl)
+  File "src/oracledb/impl/thin/connection.pyx", line 526, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 522, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 465, in oracledb.thin_impl.ThinConnImpl._connect_with_params
+  File "src/oracledb/impl/thin/connection.pyx", line 446, in oracledb.thin_impl.ThinConnImpl._connect_with_description
+  File "src/oracledb/impl/thin/connection.pyx", line 415, in oracledb.thin_impl.ThinConnImpl._connect_with_address
+  File "src/oracledb/impl/thin/protocol.pyx", line 368, in oracledb.thin_impl.Protocol._connect_phase_two
+  File "src/oracledb/impl/thin/protocol.pyx", line 494, in oracledb.thin_impl.Protocol._process_message
+  File "src/oracledb/impl/thin/messages/base.pyx", line 102, in oracledb.thin_impl.Message._check_and_raise_exception
+oracledb.exceptions.DatabaseError: ORA-01017: invalid username/password; logon denied
+Help: https://docs.oracle.com/error-help/db/ora-01017/
+2026-04-09 23:42:44 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-09 23:51:02 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-09 23:55:45 | INFO     | E24455144    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-43
+2026-04-09 23:55:45 | DEBUG    | E24455144    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-09 23:55:45 | INFO     | E24455144    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-09 23:56:01 | INFO     | E24455144    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-43
+2026-04-09 23:56:01 | DEBUG    | E24455144    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-09 23:56:01 | INFO     | E24455144    | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-09 23:56:33 | INFO     | E24455144    | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-09 23:57:05 | INFO     | E24455144    | CALCULATION-SERVICE | Reporte Excel generado con 140552 registros.

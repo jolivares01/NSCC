@@ -1,0 +1,40 @@
+2026-05-08 16:11:45 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-05-08 16:11:45 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-05-08 16:12:36 | INFO     | SYSTEM       | USER-SERVICE    | REGISTRO: Iniciando proceso para usuario 'E26283679' solicitado por 'ADMIN_TEST'
+2026-05-08 16:12:36 | DEBUG    | SYSTEM       | USER-SERVICE    | Parámetros SP registrar_usuario: ('Nacional', 'Corporativo', 'E26283679', 'ROL_0001', 'ADMIN_TEST', 'INTERNO', None, 'CO')
+2026-05-08 16:12:36 | INFO     | SYSTEM       | USER-SERVICE    | REGISTRO EXITOSO: Usuario 'E26283679' creado correctamente.
+2026-05-08 16:12:43 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-05-08 16:12:43 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-05-08 16:12:46 | INFO     | E26283679    | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'E26283679'
+2026-05-08 16:12:46 | INFO     | E26283679    | USER-SERVICE    | Consulta finalizada. Usuario 'E26283679' encontrado.
+2026-05-08 16:13:27 | INFO     | OATEC107     | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'OATEC107'
+2026-05-08 16:13:27 | INFO     | OATEC107     | USER-SERVICE    | Consulta finalizada. Usuario 'OATEC107' no existe.
+2026-05-08 16:13:32 | INFO     | OATEC38      | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'OATEC38'
+2026-05-08 16:13:32 | INFO     | OATEC38      | USER-SERVICE    | Consulta finalizada. Usuario 'OATEC38' encontrado.
+2026-05-08 16:13:41 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: OATEC38
+2026-05-08 16:15:05 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: OATEC38
+2026-05-08 16:15:09 | INFO     | LAR_7141_1   | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'LAR_7141_1'
+2026-05-08 16:15:09 | INFO     | LAR_7141_1   | USER-SERVICE    | Consulta finalizada. Usuario 'LAR_7141_1' encontrado.
+2026-05-08 16:15:10 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: LAR_7141_1
+2026-05-08 16:15:33 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-05-08 16:15:33 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-05-08 16:16:08 | INFO     | SYSTEM       | USER-SERVICE    | REGISTRO: Iniciando proceso para usuario 'OATEC107' solicitado por 'ADMIN_TEST'
+2026-05-08 16:16:08 | DEBUG    | SYSTEM       | USER-SERVICE    | Parámetros SP registrar_usuario: ('Gran Caracas Este', 'CLX VALENCIA, C.A. - CERRO VERDE', 'OATEC107', 'ROL_0002', 'ADMIN_TEST', 'EXTERNO', 'A', 'AI')
+2026-05-08 16:16:08 | INFO     | SYSTEM       | USER-SERVICE    | REGISTRO EXITOSO: Usuario 'OATEC107' creado correctamente.
+2026-05-08 16:16:11 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-05-08 16:16:11 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-05-08 16:16:12 | INFO     | OATEC107     | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'OATEC107'
+2026-05-08 16:16:12 | INFO     | OATEC107     | USER-SERVICE    | Consulta finalizada. Usuario 'OATEC107' encontrado.
+2026-05-08 16:16:18 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: OATEC107
+2026-05-08 16:16:23 | INFO     | SYSTEM       | USER-SERVICE    | ACTUALIZACIÓN: Usuario 'OATEC107' modificado por 'ADMIN_TEST'
+2026-05-08 16:16:23 | DEBUG    | SYSTEM       | USER-SERVICE    | Parámetros SP actualizar_usuario: ('OATEC107', 10, 'CLX VALENCIA, C.A. - CERRO VERDE', 'ROL_0002', False, 'ADMIN_TEST', 'A', 'AI')
+2026-05-08 16:16:23 | INFO     | SYSTEM       | USER-SERVICE    | ACTUALIZACIÓN EXITOSA: Usuario 'OATEC107' actualizado correctamente.
+2026-05-08 16:16:23 | INFO     | OATEC107     | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'OATEC107'
+2026-05-08 16:16:23 | INFO     | OATEC107     | USER-SERVICE    | Consulta finalizada. Usuario 'OATEC107' encontrado.
+2026-05-08 16:16:24 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: OATEC107
+2026-05-08 16:16:26 | INFO     | SYSTEM       | USER-SERVICE    | ACTUALIZACIÓN: Usuario 'OATEC107' modificado por 'ADMIN_TEST'
+2026-05-08 16:16:26 | DEBUG    | SYSTEM       | USER-SERVICE    | Parámetros SP actualizar_usuario: ('OATEC107', 10, 'CLX VALENCIA, C.A. - CERRO VERDE', 'ROL_0002', True, 'ADMIN_TEST', 'A', 'AI')
+2026-05-08 16:16:26 | INFO     | SYSTEM       | USER-SERVICE    | ACTUALIZACIÓN EXITOSA: Usuario 'OATEC107' actualizado correctamente.
+2026-05-08 16:16:26 | INFO     | OATEC107     | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'OATEC107'
+2026-05-08 16:16:26 | INFO     | OATEC107     | USER-SERVICE    | Consulta finalizada. Usuario 'OATEC107' encontrado.
+2026-05-08 16:16:30 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: OATEC107

@@ -1,0 +1,10 @@
+2026-04-30 11:52:27 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-30 11:52:27 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-30 11:52:27 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-30 11:52:27 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-30 11:52:27 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-30 11:52:27 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-30 11:52:27 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-30 11:52:27 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 24
+2026-04-30 11:52:28 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 18
+2026-04-30 11:52:28 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75

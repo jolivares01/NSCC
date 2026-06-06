@@ -1,0 +1,24 @@
+2026-04-10 15:50:50 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-10 15:50:50 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-04-10 15:51:43 | INFO     | SYSTEM       | USER-SERVICE    | REGISTRO: Iniciando proceso para usuario 'E09925917' solicitado por 'ADMIN_TEST'
+2026-04-10 15:51:43 | DEBUG    | SYSTEM       | USER-SERVICE    | Parámetros SP registrar_usuario: ('Nacional', 'Corporativo', 'E09925917', 'ROL_0001', 'ADMIN_TEST', 'INTERNO', None, 'CO')
+2026-04-10 15:51:43 | INFO     | SYSTEM       | USER-SERVICE    | REGISTRO EXITOSO: Usuario 'E09925917' creado correctamente.
+2026-04-10 15:52:01 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-10 15:52:01 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-04-10 15:52:05 | INFO     | E09925917    | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'E09925917'
+2026-04-10 15:52:05 | INFO     | E09925917    | USER-SERVICE    | Consulta finalizada. Usuario 'E09925917' encontrado.
+2026-04-10 15:52:15 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: E09925917
+2026-04-10 16:03:31 | INFO     | POR_4060_1   | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'POR_4060_1'
+2026-04-10 16:03:31 | INFO     | POR_4060_1   | USER-SERVICE    | Consulta finalizada. Usuario 'POR_4060_1' encontrado.
+2026-04-10 16:06:37 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: POR_4060_1
+2026-04-10 16:17:48 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: POR_4060_1
+2026-04-10 16:18:46 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: POR_4060_1
+2026-04-10 16:19:27 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: POR_4060_1
+2026-04-10 16:20:43 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: POR_4060_1
+2026-04-10 17:23:03 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-10 17:23:03 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-04-10 17:23:06 | INFO     | E24455144    | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'E24455144'
+2026-04-10 17:23:06 | INFO     | E24455144    | USER-SERVICE    | Consulta finalizada. Usuario 'E24455144' encontrado.
+2026-04-10 17:23:08 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: E24455144
+2026-04-10 17:23:26 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-10 17:23:26 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.

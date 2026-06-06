@@ -1,0 +1,129 @@
+---
+# 16. PV - CALCULATION PROPERTIES
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv-scc-calculation-service-props
+spec:
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadWriteMany
+  nfs:
+    server: 10.192.150.26
+    path: /properties/scc/calculation-service
+  persistentVolumeReclaimPolicy: Retain
+
+---
+# 17. PVC - CALCULATION PROPERTIES
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: pvc-scc-calculation-service-props
+  namespace: comisiones
+spec:
+  accessModes:
+    - ReadWriteMany
+  resources:
+    requests:
+      storage: 1Gi
+  volumeName: pv-scc-calculation-service-props
+
+---
+# 18. SERVICE - CALCULATION (INTERNO)
+apiVersion: v1
+kind: Service
+metadata:
+  name: calculation-service
+  namespace: comisiones
+  labels:
+    app: calculation-service
+    uso: motor_calculo_comisiones
+spec:
+  selector:
+    app: calculation-service
+  ports:
+    - protocol: TCP
+      port: 8000
+      targetPort: 8000
+
+---
+# 19. DEPLOYMENT - CALCULATION SERVICE
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: calculation-service
+  namespace: comisiones
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: calculation-service
+  template:
+    metadata:
+      labels:
+        app: calculation-service
+        encargado: dominio_crm
+        api: SCC.Calculation.Engine
+    spec:
+      containers:
+        - name: calculation-service
+          image: cfregistryvp01.corp.digitel.com.ve:444/calculation-service:1.0.0
+          ports:
+            - containerPort: 8000
+          resources:
+            requests:
+              cpu: "200m"
+              memory: "512Mi"
+            limits:
+              cpu: "1.5"
+              memory: "1Gi"
+          env:
+            # --- POSTGRES (Reglas de Negocio) ---
+            - name: POSTGRES_USER
+              valueFrom:
+                secretKeyRef: { name: scc-db-secrets, key: pg_user }
+            - name: POSTGRES_PASSWORD
+              valueFrom:
+                secretKeyRef: { name: scc-db-secrets, key: pg_pass }
+            - name: POSTGRES_HOST
+              valueFrom: { configMapKeyRef: { name: scc-config-global, key: POSTGRES_HOST } }
+            - name: POSTGRES_DB
+              valueFrom: { configMapKeyRef: { name: scc-config-global, key: POSTGRES_DB } }
+            - name: POSTGRES_PORT
+              valueFrom: { configMapKeyRef: { name: scc-config-global, key: POSTGRES_PORT } }
+            - name: DB_SCHEMA
+              valueFrom: { configMapKeyRef: { name: scc-config-global, key: DB_SCHEMA } }
+
+            # --- ORACLE 1: CRMGOLD ---
+            - name: ORA_CRM_USER
+              valueFrom:
+                secretKeyRef: { name: scc-db-secrets, key: ora_crm_user }
+            - name: ORA_CRM_PASS
+              valueFrom:
+                secretKeyRef: { name: scc-db-secrets, key: ora_crm_pass }
+            - name: ORA_CRM_DSN
+              valueFrom: { configMapKeyRef: { name: scc-config-global, key: ORA_CRM_DSN } }
+
+            # --- ORACLE 2: SQL360 ---
+            - name: ORA_SQL_USER
+              valueFrom:
+                secretKeyRef: { name: scc-db-secrets, key: ora_sql_user }
+            - name: ORA_SQL_PASS
+              valueFrom:
+                secretKeyRef: { name: scc-db-secrets, key: ora_sql_pass }
+            - name: ORA_SQL_DSN
+              valueFrom: { configMapKeyRef: { name: scc-config-global, key: ORA_SQL_DSN } }
+
+            # --- SEGURIDAD Y ENTORNO ---
+            - name: TZ
+              valueFrom: { configMapKeyRef: { name: scc-config-global, key: TZ } }
+            - name: http_proxy
+              valueFrom: { configMapKeyRef: { name: scc-config-global, key: http_proxy } }
+          volumeMounts:
+            - name: props
+              mountPath: /app/config
+      volumes:
+        - name: props
+          persistentVolumeClaim:
+            claimName: pvc-scc-calculation-service-props

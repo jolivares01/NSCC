@@ -1,0 +1,6 @@
+2026-05-04 10:58:48 | DEBUG    | E24455144    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-05-04 10:58:48 | INFO     | E24455144    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-05-04 10:58:48 | DEBUG    | E24455144    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-05-04 10:59:43 | DEBUG    | E24455144    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-05-04 10:59:43 | INFO     | E24455144    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-05-04 10:59:43 | DEBUG    | E24455144    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']

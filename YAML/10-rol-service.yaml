@@ -1,0 +1,126 @@
+---
+# 33. PV - ROL PROPERTIES
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv-scc-rol-service-props
+spec:
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadWriteMany
+  nfs:
+    server: 10.192.150.26
+    path: /properties/scc/rol-service
+  persistentVolumeReclaimPolicy: Retain
+
+---
+# 34. PVC - ROL PROPERTIES
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: pvc-scc-rol-service-props
+  namespace: comisiones
+spec:
+  accessModes:
+    - ReadWriteMany
+  resources:
+    requests:
+      storage: 1Gi
+  volumeName: pv-scc-rol-service-props
+
+---
+# 35. SERVICE - ROL (INTERNO)
+apiVersion: v1
+kind: Service
+metadata:
+  name: rol-service
+  namespace: comisiones
+  labels:
+    app: rol-service
+    uso: gestion_permisos_perfiles
+spec:
+  selector:
+    app: rol-service
+  ports:
+    - protocol: TCP
+      port: 8000
+      targetPort: 8000
+
+---
+# 36. DEPLOYMENT - ROL SERVICE
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rol-service
+  namespace: comisiones
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: rol-service
+  template:
+    metadata:
+      labels:
+        app: rol-service
+        encargado: dominio_crm
+        api: SCC.Rol.Management
+    spec:
+      containers:
+        - name: rol-service
+          image: cfregistryvp01.corp.digitel.com.ve:444/rol-service:1.0.0
+          ports:
+            - containerPort: 8000
+          resources:
+            requests:
+              cpu: "100m"
+              memory: "256Mi"
+            limits:
+              cpu: "0.5"
+              memory: "512Mi"
+          env:
+            # --- POSTGRES VARIABLES ---
+            - name: POSTGRES_USER
+              valueFrom:
+                secretKeyRef:
+                  name: scc-db-secrets
+                  key: pg_user
+            - name: POSTGRES_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: scc-db-secrets
+                  key: pg_pass
+            - name: POSTGRES_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: POSTGRES_HOST
+            - name: POSTGRES_DB
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: POSTGRES_DB
+            - name: POSTGRES_PORT
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: POSTGRES_PORT
+            - name: DB_SCHEMA
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: DB_SCHEMA
+
+            # --- PARÁMETROS GLOBALES ---
+            - name: TZ
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: TZ
+          volumeMounts:
+            - name: props
+              mountPath: /app/config
+      volumes:
+        - name: props
+          persistentVolumeClaim:
+            claimName: pvc-scc-rol-service-props

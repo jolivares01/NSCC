@@ -1,0 +1,14 @@
+2026-04-15 09:08:15 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-15 09:09:38 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-04
+2026-04-15 09:09:40 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-01
+2026-04-15 12:49:56 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-15 12:50:09 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-04
+2026-04-15 12:50:13 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-03
+2026-04-15 12:52:53 | INFO     | E24455144    | REPORT-SERVICE  | EXPORTACIÓN: Usuario E24455144 (ROL_0001) solicita reporte de comisiones para periodo 2026-03
+2026-04-15 12:52:53 | DEBUG    | E24455144    | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-15 12:52:55 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-03.xlsx
+2026-04-15 12:52:55 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 140552 registros.
+2026-04-15 12:54:27 | INFO     | E24455144    | REPORT-SERVICE  | EXPORT RESUMEN: Usuario E24455144 solicita Excel de resumen para 2026-03
+2026-04-15 12:54:27 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-03.xlsx
+2026-04-15 12:54:27 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Resumen con 1314 registros.
+2026-04-15 15:22:00 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.

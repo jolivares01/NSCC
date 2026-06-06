@@ -1,0 +1,126 @@
+---
+# 37. PV - USER PROPERTIES
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv-scc-user-service-props
+spec:
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadWriteMany
+  nfs:
+    server: 10.192.150.26
+    path: /properties/scc/user-service
+  persistentVolumeReclaimPolicy: Retain
+
+---
+# 38. PVC - USER PROPERTIES
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: pvc-scc-user-service-props
+  namespace: comisiones
+spec:
+  accessModes:
+    - ReadWriteMany
+  resources:
+    requests:
+      storage: 1Gi
+  volumeName: pv-scc-user-service-props
+
+---
+# 39. SERVICE - USER (INTERNO)
+apiVersion: v1
+kind: Service
+metadata:
+  name: user-service
+  namespace: comisiones
+  labels:
+    app: user-service
+    uso: gestion_datos_usuarios
+spec:
+  selector:
+    app: user-service
+  ports:
+    - protocol: TCP
+      port: 8000
+      targetPort: 8000
+
+---
+# 40. DEPLOYMENT - USER SERVICE
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: user-service
+  namespace: comisiones
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: user-service
+  template:
+    metadata:
+      labels:
+        app: user-service
+        encargado: dominio_crm
+        api: SCC.User.Management
+    spec:
+      containers:
+        - name: user-service
+          image: cfregistryvp01.corp.digitel.com.ve:444/user-service:1.0.0
+          ports:
+            - containerPort: 8000
+          resources:
+            requests:
+              cpu: "100m"
+              memory: "256Mi"
+            limits:
+              cpu: "1.0"
+              memory: "512Mi"
+          env:
+            # --- POSTGRES VARIABLES (Mapeo directo a Settings de Pydantic) ---
+            - name: POSTGRES_USER
+              valueFrom:
+                secretKeyRef:
+                  name: scc-db-secrets
+                  key: pg_user
+            - name: POSTGRES_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: scc-db-secrets
+                  key: pg_pass
+            - name: POSTGRES_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: POSTGRES_HOST
+            - name: POSTGRES_DB
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: POSTGRES_DB
+            - name: POSTGRES_PORT
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: POSTGRES_PORT
+            - name: DB_SCHEMA
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: DB_SCHEMA
+
+            # --- PARÁMETROS GLOBALES ---
+            - name: TZ
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: TZ
+          volumeMounts:
+            - name: props
+              mountPath: /app/config
+      volumes:
+        - name: props
+          persistentVolumeClaim:
+            claimName: pvc-scc-user-service-props

@@ -1,0 +1,10 @@
+2026-05-31 22:02:32 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-06
+2026-05-31 22:02:32 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-05-31 22:02:33 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-05-31 22:02:33 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-05-31 22:02:33 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-06
+2026-05-31 22:02:42 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-06
+2026-05-31 22:02:42 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-05-31 22:02:42 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-05-31 22:02:43 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-05-31 22:02:43 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-06

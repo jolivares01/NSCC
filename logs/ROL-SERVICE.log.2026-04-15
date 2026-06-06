@@ -1,0 +1,12 @@
+2026-04-15 09:08:33 | DEBUG    | admin        | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-15 09:08:33 | INFO     | admin        | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-15 09:08:33 | DEBUG    | admin        | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-15 09:09:19 | DEBUG    | E24455144    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-15 09:09:19 | INFO     | E24455144    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-15 09:09:19 | DEBUG    | E24455144    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-15 12:50:05 | DEBUG    | E24455144    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-15 12:50:05 | INFO     | E24455144    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-15 12:50:05 | DEBUG    | E24455144    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-15 15:22:10 | DEBUG    | E24455144    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-15 15:22:10 | INFO     | E24455144    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-15 15:22:10 | DEBUG    | E24455144    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']

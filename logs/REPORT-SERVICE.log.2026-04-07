@@ -1,0 +1,13 @@
+2026-04-07 11:58:49 | INFO     | E24455144    | REPORT-SERVICE  | Usuario E24455144 exportando Comisiones Especiales del periodo 2026-02
+2026-04-07 11:58:49 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Especiales_2026-02.xlsx
+2026-04-07 11:58:49 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Especiales con 1820 registros.
+2026-04-07 12:10:20 | INFO     | E24455144    | REPORT-SERVICE  | EXPORTACIÓN: Usuario E24455144 (ROL_0001) solicita reporte de comisiones para periodo 2026-04
+2026-04-07 12:10:20 | DEBUG    | E24455144    | REPORT-SERVICE  | Generando reporte global (Sábana de Comisiones)
+2026-04-07 12:10:21 | WARNING  | E24455144    | REPORT-SERVICE  | No se encontraron datos para exportar en el periodo 2026-04 para E24455144
+2026-04-07 12:10:36 | INFO     | E24455144    | REPORT-SERVICE  | EXPORTACIÓN: Usuario E24455144 (ROL_0001) solicita reporte de comisiones para periodo 2026-01
+2026-04-07 12:10:36 | DEBUG    | E24455144    | REPORT-SERVICE  | Generando reporte global (Sábana de Comisiones)
+2026-04-07 12:10:38 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-01.xlsx
+2026-04-07 12:10:38 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 121700 registros.
+2026-04-07 12:32:57 | INFO     | E24455144    | REPORT-SERVICE  | Usuario E24455144 exportando Comisiones Especiales del periodo 2026-02
+2026-04-07 12:32:57 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Especiales_2026-02.xlsx
+2026-04-07 12:32:57 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Especiales con 3640 registros.

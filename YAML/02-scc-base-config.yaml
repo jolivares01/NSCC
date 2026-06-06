@@ -1,0 +1,57 @@
+---
+# 2. SECRET - CREDENCIALES DE BASES DE DATOS Y SEGURIDAD
+apiVersion: v1
+kind: Secret
+metadata:
+  name: scc-db-secrets
+  namespace: comisiones
+  labels:
+    encargado: dominio_crm
+    uso: seguridad_bd
+type: Opaque
+data:
+  # --- POSTGRES (Común para todos) ---
+  # scc_user
+  pg_user: c2NjX3VzZXI=      
+  # Tu clave de postgres (Base64)
+  pg_pass: VHVQYXNzMTIz      
+  
+  # --- SEGURIDAD JWT (Para API Gateway y Auth Service) ---
+  # Clave de 2026 generada con Base64
+  # Generado con: echo -n "nu3v0s1st3m4d3calc8l0d3c0m1c10n3s_d1g1_s3cr3et_k3y_2026" | base64
+  scc_secret_key: bnUzdjBzMXN0M200ZDNjYWxjOGwwZDNjMG0xYzEwbmUzX2QxZ2lfczNjcjNldF9rM3lfMjAyNg==
+
+  # --- ORACLE CRM (Solo Calculation) ---
+  ora_crm_user: dXNlcl9jcm0=
+  ora_crm_pass: dG9rZW5fY3Jt
+  
+  # --- ORACLE SQL (Solo Calculation) ---
+  ora_sql_user: dXNlcl9zcWw=
+  ora_sql_pass: aG9sYV9xdWVfdGFs
+
+---
+# 3. CONFIGMAP - PARÁMETROS GLOBALES
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: scc-config-global
+  namespace: comisiones
+  labels:
+    encargado: dominio_crm
+    uso: configuracion_entorno
+data:
+  # Base de Datos (Parámetros técnicos no sensibles)
+  POSTGRES_HOST: "10.192.150.26"
+  POSTGRES_PORT: "5432"
+  POSTGRES_DB: "comisiones_db"
+  DB_SCHEMA: "scc_user, public"
+
+  # Oracle DSNs (Host y Service Name de la red Digitel)
+  ORA_CRM_DSN: "10.192.x.y:1521/srv_crm"
+  ORA_SQL_DSN: "10.192.x.z:1521/srv_sql"
+
+  # Entorno y Red Corporativa
+  TZ: "America/Caracas"
+  http_proxy: "http://proxy.corp.digitel.com.ve:8080"
+  https_proxy: "http://proxy.corp.digitel.com.ve:8080"
+  no_proxy: "localhost,127.0.0.1,10.192.150.26,comisiones.svc.cluster.local"

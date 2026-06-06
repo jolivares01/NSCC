@@ -1,0 +1,1058 @@
+2026-05-31 02:26:16 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 02:26:17 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 338.43ms
+2026-05-31 10:09:42 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 10:09:43 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 904.28ms
+2026-05-31 10:09:43 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 10:09:43 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.18ms
+2026-05-31 10:10:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 10:10:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 36.24ms
+2026-05-31 10:10:31 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 10:10:31 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 10:11:03 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 10:11:03 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 6.15ms
+2026-05-31 10:11:32 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 10:11:32 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.19ms
+2026-05-31 10:13:34 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 10:13:34 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.01ms
+2026-05-31 14:26:59 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:27:00 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1660.48ms
+2026-05-31 14:28:39 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:28:39 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 14.55ms
+2026-05-31 14:29:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:29:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 13.51ms
+2026-05-31 14:30:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:30:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.52ms
+2026-05-31 14:31:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:31:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 14:32:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:32:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.51ms
+2026-05-31 14:33:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:33:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.39ms
+2026-05-31 14:34:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:34:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 14:35:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:35:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.13ms
+2026-05-31 14:36:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:36:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 14:37:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:37:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.72ms
+2026-05-31 14:38:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:38:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.00ms
+2026-05-31 14:39:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:39:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.60ms
+2026-05-31 14:40:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:40:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 14:41:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:41:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 14:42:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:42:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 14:43:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:43:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 14:44:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:44:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.00ms
+2026-05-31 14:45:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:45:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.52ms
+2026-05-31 14:46:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:46:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.06ms
+2026-05-31 14:47:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:47:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.01ms
+2026-05-31 14:48:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:48:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 14:49:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:49:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.33ms
+2026-05-31 14:50:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:50:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.28ms
+2026-05-31 14:51:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:51:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 14:52:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:52:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 14:53:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:53:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.98ms
+2026-05-31 14:54:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:54:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.32ms
+2026-05-31 14:55:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:55:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.03ms
+2026-05-31 14:56:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:56:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 14:57:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:57:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.06ms
+2026-05-31 14:58:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:58:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.57ms
+2026-05-31 14:59:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 14:59:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 15:00:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:00:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.23ms
+2026-05-31 15:01:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:01:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.02ms
+2026-05-31 15:02:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:02:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.25ms
+2026-05-31 15:03:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:03:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.15ms
+2026-05-31 15:04:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:04:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.91ms
+2026-05-31 15:05:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:05:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.12ms
+2026-05-31 15:06:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:06:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 15:07:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:07:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.35ms
+2026-05-31 15:08:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:08:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.16ms
+2026-05-31 15:09:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:09:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 15:10:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:10:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 15:11:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:11:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 15:12:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:12:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.25ms
+2026-05-31 15:13:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:13:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 6.02ms
+2026-05-31 15:14:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:14:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 15:15:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:15:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 15:16:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:16:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.26ms
+2026-05-31 15:17:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:17:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 15:18:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:18:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.36ms
+2026-05-31 15:19:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:19:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.47ms
+2026-05-31 15:20:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:20:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 15:21:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:21:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.69ms
+2026-05-31 15:22:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:22:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.46ms
+2026-05-31 15:23:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:23:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.00ms
+2026-05-31 15:24:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:24:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 15:25:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:25:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 6.00ms
+2026-05-31 15:26:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:26:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.47ms
+2026-05-31 15:27:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:27:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.87ms
+2026-05-31 15:28:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:28:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.29ms
+2026-05-31 15:29:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:29:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 15:30:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:30:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.51ms
+2026-05-31 15:31:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:31:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.13ms
+2026-05-31 15:32:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:32:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 15:33:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:33:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.10ms
+2026-05-31 15:34:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:34:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 15:35:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:35:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 15:36:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:36:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 15:37:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:37:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.23ms
+2026-05-31 15:38:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:38:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 15:39:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:39:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.99ms
+2026-05-31 15:40:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:40:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 15:41:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:41:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.00ms
+2026-05-31 15:42:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:42:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 15:43:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:43:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 15:44:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:44:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.69ms
+2026-05-31 15:45:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:45:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.04ms
+2026-05-31 15:46:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:46:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.46ms
+2026-05-31 15:47:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:47:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.91ms
+2026-05-31 15:48:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:48:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.00ms
+2026-05-31 15:49:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:49:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.43ms
+2026-05-31 15:50:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:50:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 15:51:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:51:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 8.20ms
+2026-05-31 15:52:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:52:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 15:53:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:53:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.21ms
+2026-05-31 15:54:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:54:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.12ms
+2026-05-31 15:55:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:55:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 7.17ms
+2026-05-31 15:56:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:56:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 15:57:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:57:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 10.23ms
+2026-05-31 15:58:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:58:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.34ms
+2026-05-31 15:59:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 15:59:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 16:00:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:00:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.97ms
+2026-05-31 16:01:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:01:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 16:02:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:02:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 0.99ms
+2026-05-31 16:03:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:03:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 16:04:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:04:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 16:05:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:05:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.54ms
+2026-05-31 16:06:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:06:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.31ms
+2026-05-31 16:07:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:07:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 16:08:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:08:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 16:09:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:09:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 16:10:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:10:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.18ms
+2026-05-31 16:11:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:11:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.09ms
+2026-05-31 16:12:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:12:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.55ms
+2026-05-31 16:13:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:13:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.44ms
+2026-05-31 16:14:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:14:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 16:15:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:15:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 16:16:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:16:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.57ms
+2026-05-31 16:17:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:17:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.58ms
+2026-05-31 16:18:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:18:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.35ms
+2026-05-31 16:19:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:19:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.67ms
+2026-05-31 16:20:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:20:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.46ms
+2026-05-31 16:21:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:21:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.44ms
+2026-05-31 16:22:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:22:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.58ms
+2026-05-31 16:23:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:23:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.27ms
+2026-05-31 16:24:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:24:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.40ms
+2026-05-31 16:25:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:25:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 16:26:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:26:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.94ms
+2026-05-31 16:27:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:27:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 16:28:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:28:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 16:29:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:29:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.54ms
+2026-05-31 16:30:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:30:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 16:31:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:31:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 16:32:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:32:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.03ms
+2026-05-31 16:33:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:33:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.98ms
+2026-05-31 16:34:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:34:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 16:35:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:35:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 16:36:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:36:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 16:37:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:37:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 16:38:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:38:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 16:39:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:39:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 16:40:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:40:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.89ms
+2026-05-31 16:41:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:41:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 16:42:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:42:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 16:43:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:43:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.32ms
+2026-05-31 16:44:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:44:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.46ms
+2026-05-31 16:45:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:45:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.31ms
+2026-05-31 16:46:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:46:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.45ms
+2026-05-31 16:47:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:47:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.89ms
+2026-05-31 16:48:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:48:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.98ms
+2026-05-31 16:49:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:49:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 16:50:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:50:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.41ms
+2026-05-31 16:51:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:51:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 16:52:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:52:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.97ms
+2026-05-31 16:53:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:53:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 16:54:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:54:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.17ms
+2026-05-31 16:55:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:55:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.00ms
+2026-05-31 16:56:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:56:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.64ms
+2026-05-31 16:57:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:57:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.08ms
+2026-05-31 16:58:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:58:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.98ms
+2026-05-31 16:59:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 16:59:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.01ms
+2026-05-31 17:00:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:00:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.03ms
+2026-05-31 17:01:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:01:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 6.00ms
+2026-05-31 17:02:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:02:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.24ms
+2026-05-31 17:03:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:03:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 17:04:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:04:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.40ms
+2026-05-31 17:05:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:05:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 17:06:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:06:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.01ms
+2026-05-31 17:07:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:07:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.07ms
+2026-05-31 17:08:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:08:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 17:09:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:09:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.93ms
+2026-05-31 17:10:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:10:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.45ms
+2026-05-31 17:11:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:11:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 17:12:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:12:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 17:13:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:13:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 17:14:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:14:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 17:15:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:15:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.51ms
+2026-05-31 17:16:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:16:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 17:17:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:17:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.45ms
+2026-05-31 17:18:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:18:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.58ms
+2026-05-31 17:19:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:19:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 17:20:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:20:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 17:21:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:21:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 17:22:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:22:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.26ms
+2026-05-31 17:23:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:23:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.44ms
+2026-05-31 17:24:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:24:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 17:25:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:25:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.31ms
+2026-05-31 17:26:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:26:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 17:27:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:27:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.45ms
+2026-05-31 17:28:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:28:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.44ms
+2026-05-31 17:29:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:29:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 0.98ms
+2026-05-31 17:30:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:30:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.51ms
+2026-05-31 17:31:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:31:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.50ms
+2026-05-31 17:32:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:32:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.36ms
+2026-05-31 17:33:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:33:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 17:34:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:34:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.50ms
+2026-05-31 17:35:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:35:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 17:36:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:36:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.23ms
+2026-05-31 17:37:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:37:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.22ms
+2026-05-31 17:38:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:38:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 17:39:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:39:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.01ms
+2026-05-31 17:40:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:40:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.93ms
+2026-05-31 17:41:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:41:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.01ms
+2026-05-31 17:42:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:42:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 17:43:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:43:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.01ms
+2026-05-31 17:44:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:44:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 17:45:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:45:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 17:46:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:46:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 17:47:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:47:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 17:48:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:48:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 17:49:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:49:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.79ms
+2026-05-31 17:50:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:50:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.98ms
+2026-05-31 17:51:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:51:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 17:52:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:52:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.41ms
+2026-05-31 17:53:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:53:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.17ms
+2026-05-31 17:54:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:54:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.64ms
+2026-05-31 17:55:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:55:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.11ms
+2026-05-31 17:56:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:56:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 17:57:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:57:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.23ms
+2026-05-31 17:58:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:58:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 17:59:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 17:59:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.99ms
+2026-05-31 18:00:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:00:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 18:01:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:01:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.12ms
+2026-05-31 18:02:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:02:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.89ms
+2026-05-31 18:03:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:03:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.02ms
+2026-05-31 18:04:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:04:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.03ms
+2026-05-31 18:05:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:05:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 18:06:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:06:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 18:07:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:07:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.13ms
+2026-05-31 18:08:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:08:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.49ms
+2026-05-31 18:09:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:09:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.31ms
+2026-05-31 18:10:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:10:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 18:11:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:11:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.51ms
+2026-05-31 18:12:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:12:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.08ms
+2026-05-31 18:13:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:13:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 18:14:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:14:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.35ms
+2026-05-31 18:15:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:15:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 18:16:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:16:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 18:17:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:17:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 18:18:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:18:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 18:19:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:19:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.32ms
+2026-05-31 18:20:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:20:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.21ms
+2026-05-31 18:21:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:21:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 18:22:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:22:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.07ms
+2026-05-31 18:23:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:23:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 18:24:24 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:24:24 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.57ms
+2026-05-31 18:25:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:25:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 18:26:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:26:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 18:27:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:27:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.00ms
+2026-05-31 18:28:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:28:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.99ms
+2026-05-31 18:29:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:29:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 18:30:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:30:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.48ms
+2026-05-31 18:31:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:31:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.65ms
+2026-05-31 18:32:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:32:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.44ms
+2026-05-31 18:33:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:33:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.58ms
+2026-05-31 18:34:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:34:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.40ms
+2026-05-31 18:35:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:35:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.62ms
+2026-05-31 18:36:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:36:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.99ms
+2026-05-31 18:37:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:37:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.86ms
+2026-05-31 18:38:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:38:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.70ms
+2026-05-31 18:39:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:39:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.95ms
+2026-05-31 18:40:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:40:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 18:41:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:41:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.99ms
+2026-05-31 18:42:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:42:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.25ms
+2026-05-31 18:43:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:43:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.78ms
+2026-05-31 18:44:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:44:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 18:45:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:45:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.36ms
+2026-05-31 18:46:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:46:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 18:47:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:47:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 18:48:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:48:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.07ms
+2026-05-31 18:49:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:49:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 18:50:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:50:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 18:51:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:51:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 18:52:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:52:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 18:53:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:53:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.97ms
+2026-05-31 18:54:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:54:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.14ms
+2026-05-31 18:55:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:55:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 6.00ms
+2026-05-31 18:56:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:56:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.18ms
+2026-05-31 18:57:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:57:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 18:58:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:58:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.82ms
+2026-05-31 18:59:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 18:59:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.54ms
+2026-05-31 19:00:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:00:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.98ms
+2026-05-31 19:01:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:01:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.68ms
+2026-05-31 19:02:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:02:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.28ms
+2026-05-31 19:03:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:03:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.04ms
+2026-05-31 19:04:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:04:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.39ms
+2026-05-31 19:05:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:05:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.06ms
+2026-05-31 19:06:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:06:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 19:07:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:07:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 19:08:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:08:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.40ms
+2026-05-31 19:09:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:09:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.98ms
+2026-05-31 19:10:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:10:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.38ms
+2026-05-31 19:11:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:11:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.42ms
+2026-05-31 19:12:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:12:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.66ms
+2026-05-31 19:13:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:13:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 19:14:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:14:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.92ms
+2026-05-31 19:15:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:15:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.32ms
+2026-05-31 19:16:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:16:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.53ms
+2026-05-31 19:17:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:17:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 19:18:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:18:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 19:19:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:19:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.90ms
+2026-05-31 19:20:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:20:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 19:21:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:21:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.18ms
+2026-05-31 19:22:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:22:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.18ms
+2026-05-31 19:23:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:23:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.25ms
+2026-05-31 19:24:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:24:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.84ms
+2026-05-31 19:25:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:25:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.98ms
+2026-05-31 19:26:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:26:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.04ms
+2026-05-31 19:27:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:27:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 19:28:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:28:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.04ms
+2026-05-31 19:29:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:29:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.70ms
+2026-05-31 19:30:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:30:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.01ms
+2026-05-31 19:31:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:31:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.07ms
+2026-05-31 19:32:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:32:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.01ms
+2026-05-31 19:33:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:33:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.71ms
+2026-05-31 19:34:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:34:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.28ms
+2026-05-31 19:35:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:35:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 19:36:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:36:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 19:37:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:37:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.99ms
+2026-05-31 19:38:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:38:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.97ms
+2026-05-31 19:39:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:39:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.79ms
+2026-05-31 19:40:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:40:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 19:41:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:41:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 19:42:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:42:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.97ms
+2026-05-31 19:43:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:43:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.28ms
+2026-05-31 19:44:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:44:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.47ms
+2026-05-31 19:45:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:45:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.24ms
+2026-05-31 19:46:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:46:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 19:47:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:47:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.01ms
+2026-05-31 19:48:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:48:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.62ms
+2026-05-31 19:49:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:49:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.21ms
+2026-05-31 19:50:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:50:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 19:51:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:51:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.04ms
+2026-05-31 19:52:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:52:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.19ms
+2026-05-31 19:53:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:53:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 19:54:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:54:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.59ms
+2026-05-31 19:55:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:55:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 19:56:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:56:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.93ms
+2026-05-31 19:57:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:57:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 19:58:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:58:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.17ms
+2026-05-31 19:59:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 19:59:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 20:00:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:00:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.34ms
+2026-05-31 20:01:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:01:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.10ms
+2026-05-31 20:02:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:02:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.84ms
+2026-05-31 20:03:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:03:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 20:04:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:04:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 20:05:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:05:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.37ms
+2026-05-31 20:06:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:06:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.38ms
+2026-05-31 20:07:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:07:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.01ms
+2026-05-31 20:08:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:08:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 20:09:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:09:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.19ms
+2026-05-31 20:10:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:10:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.08ms
+2026-05-31 20:11:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:11:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.00ms
+2026-05-31 20:12:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:12:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.41ms
+2026-05-31 20:13:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:13:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.49ms
+2026-05-31 20:14:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:14:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 20:15:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:15:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 20:16:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:16:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.36ms
+2026-05-31 20:17:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:17:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.11ms
+2026-05-31 20:18:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:18:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.54ms
+2026-05-31 20:19:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:19:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.62ms
+2026-05-31 20:20:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:20:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.46ms
+2026-05-31 20:21:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:21:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 20:22:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:22:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 20:23:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:23:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 20:24:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:24:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.16ms
+2026-05-31 20:25:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:25:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.51ms
+2026-05-31 20:26:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:26:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.84ms
+2026-05-31 20:27:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:27:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.96ms
+2026-05-31 20:28:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:28:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 0.99ms
+2026-05-31 20:29:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:29:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.14ms
+2026-05-31 20:30:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:30:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.51ms
+2026-05-31 20:31:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:31:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.02ms
+2026-05-31 20:32:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:32:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.62ms
+2026-05-31 20:33:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:33:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 20:34:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:34:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 20:35:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:35:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 20:36:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:36:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.21ms
+2026-05-31 20:37:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:37:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.01ms
+2026-05-31 20:38:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:38:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 20:39:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:39:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.26ms
+2026-05-31 20:40:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:40:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.01ms
+2026-05-31 20:41:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:41:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 20:42:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:42:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.99ms
+2026-05-31 20:43:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:43:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.50ms
+2026-05-31 20:44:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:44:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.44ms
+2026-05-31 20:45:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:45:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 20:46:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:46:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.22ms
+2026-05-31 20:47:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:47:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.60ms
+2026-05-31 20:48:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:48:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.22ms
+2026-05-31 20:49:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:49:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.02ms
+2026-05-31 20:50:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:50:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 20:51:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:51:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.22ms
+2026-05-31 20:52:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:52:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 20:53:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:53:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.00ms
+2026-05-31 20:54:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:54:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.06ms
+2026-05-31 20:55:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:55:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 20:56:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:56:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.51ms
+2026-05-31 20:57:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:57:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 20:58:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:58:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 20:59:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 20:59:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.98ms
+2026-05-31 21:00:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:00:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.43ms
+2026-05-31 21:01:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:01:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 21:02:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:02:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 21:03:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:03:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 21:04:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:04:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.01ms
+2026-05-31 21:05:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:05:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 21:06:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:06:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.51ms
+2026-05-31 21:07:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:07:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 21:08:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:08:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 21:09:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:09:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.40ms
+2026-05-31 21:10:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:10:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.45ms
+2026-05-31 21:11:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:11:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.17ms
+2026-05-31 21:12:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:12:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 21:13:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:13:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 21:14:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:14:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.46ms
+2026-05-31 21:15:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:15:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.51ms
+2026-05-31 21:16:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:16:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 21:17:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:17:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 21:18:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:18:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 21:19:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:19:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 0.51ms
+2026-05-31 21:20:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:20:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.99ms
+2026-05-31 21:21:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:21:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.10ms
+2026-05-31 21:22:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:22:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 21:23:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:23:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.12ms
+2026-05-31 21:24:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:24:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 21:25:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:25:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.98ms
+2026-05-31 21:26:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:26:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.14ms
+2026-05-31 21:27:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:27:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.03ms
+2026-05-31 21:28:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:28:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 21:29:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:29:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.34ms
+2026-05-31 21:30:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:30:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.24ms
+2026-05-31 21:31:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:31:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 21:32:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:32:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 21:33:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:33:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.67ms
+2026-05-31 21:34:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:34:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 21:35:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:35:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 21:36:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:36:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.36ms
+2026-05-31 21:37:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:37:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.00ms
+2026-05-31 21:38:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:38:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.16ms
+2026-05-31 21:39:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:39:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.89ms
+2026-05-31 21:40:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:40:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 0.99ms
+2026-05-31 21:41:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:41:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.47ms
+2026-05-31 21:42:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:42:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.24ms
+2026-05-31 21:43:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:43:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.36ms
+2026-05-31 21:44:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:44:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.10ms
+2026-05-31 21:45:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:45:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 0.92ms
+2026-05-31 21:46:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:46:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.44ms
+2026-05-31 21:47:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:47:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.02ms
+2026-05-31 21:48:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:48:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.01ms
+2026-05-31 21:49:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:49:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.03ms
+2026-05-31 21:50:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:50:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 21:51:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:51:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 21:52:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:52:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 21:53:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:53:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.76ms
+2026-05-31 21:54:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:54:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.50ms
+2026-05-31 21:55:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:55:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.51ms
+2026-05-31 21:56:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:56:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.33ms
+2026-05-31 21:57:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:57:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.96ms
+2026-05-31 21:58:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:58:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 21:59:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 21:59:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.99ms
+2026-05-31 22:00:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:00:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.30ms
+2026-05-31 22:01:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:01:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.04ms
+2026-05-31 22:02:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:02:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 22:02:29 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:02:29 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 22:02:32 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/dashboard/metrics
+2026-05-31 22:02:32 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:02:33 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 454.05ms
+2026-05-31 22:02:33 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/dashboard/metrics | STATUS: 200 | TIEMPO: 852.26ms
+2026-05-31 22:02:37 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:02:37 | DEBUG    | INV_TOKEN    | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/reports/resumen-calculo
+2026-05-31 22:02:37 | INFO     | INV_TOKEN    | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/reports/resumen-calculo | STATUS: 401 | TIEMPO: 43.71ms
+2026-05-31 22:02:37 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 48.72ms
+2026-05-31 22:02:37 | DEBUG    | INV_TOKEN    | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/reports/incentivos-ventas
+2026-05-31 22:02:37 | INFO     | INV_TOKEN    | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/reports/incentivos-ventas | STATUS: 401 | TIEMPO: 3.00ms
+2026-05-31 22:02:42 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/auth/login
+2026-05-31 22:02:42 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/auth/login | STATUS: 200 | TIEMPO: 250.79ms
+2026-05-31 22:02:42 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/roles/permissions/ROL_0001
+2026-05-31 22:02:42 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/roles/permissions/ROL_0001 | STATUS: 200 | TIEMPO: 46.38ms
+2026-05-31 22:02:42 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/dashboard/metrics
+2026-05-31 22:02:42 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:02:42 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.43ms
+2026-05-31 22:02:43 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/dashboard/metrics | STATUS: 200 | TIEMPO: 747.75ms
+2026-05-31 22:02:47 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/reports/resumen-calculo
+2026-05-31 22:02:47 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/reports/incentivos-ventas
+2026-05-31 22:02:47 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/reports/resumen-calculo | STATUS: 200 | TIEMPO: 19.52ms
+2026-05-31 22:02:47 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:02:47 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 22:02:47 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/reports/incentivos-ventas | STATUS: 200 | TIEMPO: 58.14ms
+2026-05-31 22:02:52 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/reports/resumen-calculo
+2026-05-31 22:02:52 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/reports/resumen-calculo | STATUS: 200 | TIEMPO: 5.74ms
+2026-05-31 22:02:52 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/reports/incentivos-ventas
+2026-05-31 22:02:52 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/reports/incentivos-ventas | STATUS: 200 | TIEMPO: 4.01ms
+2026-05-31 22:03:00 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/reports/resumen-calculo
+2026-05-31 22:03:00 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/reports/incentivos-ventas
+2026-05-31 22:03:01 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/reports/resumen-calculo | STATUS: 200 | TIEMPO: 998.30ms
+2026-05-31 22:03:01 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/reports/incentivos-ventas | STATUS: 200 | TIEMPO: 816.45ms
+2026-05-31 22:03:17 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:03:17 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.49ms
+2026-05-31 22:03:47 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:03:47 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.99ms
+2026-05-31 22:04:18 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:04:18 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.34ms
+2026-05-31 22:04:47 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:04:47 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.19ms
+2026-05-31 22:05:18 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:05:18 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 22:05:47 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:05:47 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.01ms
+2026-05-31 22:06:18 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:06:18 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 22:07:19 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:07:19 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.48ms
+2026-05-31 22:08:20 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:08:20 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 22:09:21 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:09:21 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.52ms
+2026-05-31 22:10:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:10:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.00ms
+2026-05-31 22:11:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:11:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 22:12:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:12:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 22:13:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:13:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.50ms
+2026-05-31 22:14:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:14:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 22:15:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:15:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 22:16:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:16:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 22:17:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:17:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.17ms
+2026-05-31 22:18:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:18:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.49ms
+2026-05-31 22:19:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:19:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.51ms
+2026-05-31 22:20:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:20:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.36ms
+2026-05-31 22:21:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:21:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 22:22:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:22:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 22:23:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:23:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.36ms
+2026-05-31 22:24:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:24:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.87ms
+2026-05-31 22:25:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:25:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.40ms
+2026-05-31 22:26:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:26:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
+2026-05-31 22:27:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:27:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.00ms
+2026-05-31 22:28:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:28:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.41ms
+2026-05-31 22:29:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:29:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 6.52ms
+2026-05-31 22:30:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:30:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.50ms
+2026-05-31 22:31:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:31:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.49ms
+2026-05-31 22:32:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:32:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.31ms
+2026-05-31 22:33:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:33:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.51ms
+2026-05-31 22:34:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:34:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
+2026-05-31 22:35:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:35:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 22:36:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:36:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.00ms
+2026-05-31 22:37:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:37:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.70ms
+2026-05-31 22:38:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:38:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.72ms
+2026-05-31 22:39:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:39:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 22:40:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:40:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 22:41:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:41:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.44ms
+2026-05-31 22:42:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:42:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
+2026-05-31 22:43:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:43:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.22ms
+2026-05-31 22:44:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:44:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
+2026-05-31 22:45:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:45:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.78ms
+2026-05-31 22:46:22 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:46:22 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 5.61ms
+2026-05-31 22:47:23 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-05-31 22:47:23 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms

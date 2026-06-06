@@ -1,0 +1,155 @@
+2026-04-17 00:01:51 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 00:01:51 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 00:01:51 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 00:01:52 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 00:01:52 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 00:01:55 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-02
+2026-04-17 00:01:55 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 00:01:56 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 00:01:56 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 00:01:56 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-02
+2026-04-17 00:06:11 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 00:06:11 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 00:06:11 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 00:06:11 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 00:06:12 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 00:06:13 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-02
+2026-04-17 00:06:13 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 00:06:14 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 00:06:14 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 00:06:14 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-02
+2026-04-17 00:06:28 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-03
+2026-04-17 00:06:28 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 00:06:28 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 00:06:28 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 00:06:29 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-03
+2026-04-17 00:06:36 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-02
+2026-04-17 00:06:36 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 00:06:36 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 00:06:36 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 00:06:37 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-02
+2026-04-17 00:06:42 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-01
+2026-04-17 00:06:42 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 00:06:42 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 00:06:42 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 00:06:42 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-01
+2026-04-17 00:06:58 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-03
+2026-04-17 00:06:58 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 00:06:58 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 00:06:58 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 00:06:58 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-03
+2026-04-17 07:51:13 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 07:51:13 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 07:51:13 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 07:51:14 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 07:51:14 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 07:52:21 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 07:52:21 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 07:52:21 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 07:52:21 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 07:52:22 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 07:52:25 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-01
+2026-04-17 07:52:25 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 07:52:25 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 07:52:26 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 07:52:26 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-01
+2026-04-17 09:20:14 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 09:20:14 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 09:20:14 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 09:20:15 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 09:20:15 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 09:49:08 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 09:49:08 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 09:49:08 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 09:49:09 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 09:49:09 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 09:49:11 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-01
+2026-04-17 09:49:11 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 09:49:11 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 09:49:11 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 09:49:11 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-01
+2026-04-17 10:30:30 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 10:30:30 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 10:30:30 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 10:30:30 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 10:30:31 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 10:30:33 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-02
+2026-04-17 10:30:33 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 10:30:33 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 10:30:34 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 10:30:34 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-02
+2026-04-17 10:30:35 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-01
+2026-04-17 10:30:35 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 10:30:35 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 10:30:35 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 10:30:36 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-01
+2026-04-17 10:36:21 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-02
+2026-04-17 10:36:21 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 10:36:21 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 10:36:21 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 10:36:21 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-02
+2026-04-17 10:39:02 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 10:39:02 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 10:39:02 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 10:39:02 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 10:39:03 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 10:39:35 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 10:39:35 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 10:39:35 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 10:39:36 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 10:39:36 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 10:39:44 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-01
+2026-04-17 10:39:44 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 10:39:44 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 10:39:44 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 10:39:45 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-01
+2026-04-17 10:39:50 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 10:39:50 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 10:39:50 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 10:39:50 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 10:39:51 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 10:40:05 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-03
+2026-04-17 10:40:05 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 10:40:05 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 10:40:05 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 10:40:06 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-03
+2026-04-17 10:41:22 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-01
+2026-04-17 10:41:22 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 10:41:22 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 10:41:23 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 10:41:23 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-01
+2026-04-17 12:10:09 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 12:10:09 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 12:10:09 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 12:10:09 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 12:10:09 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 14:39:56 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 14:39:56 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 14:39:57 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 14:39:57 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 14:39:57 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 14:40:05 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 14:40:05 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 14:40:05 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 14:40:06 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 14:40:06 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 14:40:07 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-02
+2026-04-17 14:40:07 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 14:40:07 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 14:40:07 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 14:40:08 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-02
+2026-04-17 15:29:42 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 15:29:42 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 15:29:42 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 15:29:43 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 15:29:43 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-04-17 15:29:45 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-03
+2026-04-17 15:29:45 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 15:29:45 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 15:29:45 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 15:29:45 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-03
+2026-04-17 15:40:10 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-04-17 15:40:10 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-04-17 15:40:10 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-04-17 15:40:10 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-04-17 15:40:10 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04

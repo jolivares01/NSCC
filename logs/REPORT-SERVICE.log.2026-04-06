@@ -1,0 +1,5 @@
+2026-04-06 09:50:32 | INFO     | E24455144    | REPORT-SERVICE  | Usuario E24455144 exportando Comisiones Especiales del periodo 2026-04
+2026-04-06 09:50:32 | WARNING  | E24455144    | REPORT-SERVICE  | Sin registros especiales encontrados para 04/2026
+2026-04-06 09:58:15 | INFO     | OATEC38      | REPORT-SERVICE  | EXPORTACIÓN: Usuario OATEC38 (ROL_0002) solicita reporte de comisiones para periodo 2026-04
+2026-04-06 09:58:15 | DEBUG    | OATEC38      | REPORT-SERVICE  | Aplicando filtro de agente para: OATEC38
+2026-04-06 09:58:15 | WARNING  | OATEC38      | REPORT-SERVICE  | No se encontraron datos para exportar en el periodo 2026-04 para OATEC38

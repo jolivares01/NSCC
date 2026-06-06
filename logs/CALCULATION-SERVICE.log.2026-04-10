@@ -1,0 +1,40 @@
+2026-04-10 08:25:06 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando cruce CRMGOLD + SQL360 para recargas
+2026-04-10 08:40:29 | ERROR    | E24455144    | CALCULATION-SERVICE | Error en migración de recargas
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 392, in migrar_recargas_oracle_to_pg
+    for reload_date, comment in recargas:
+        ^^^^^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 2, got 1)
+2026-04-10 08:53:26 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración de recargas desde CRMGOLD
+2026-04-10 09:10:25 | ERROR    | E24455144    | CALCULATION-SERVICE | Error en migración de recargas
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 413, in migrar_recargas_oracle_to_pg
+    await pg_conn.copy_records_to_table(
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1127, in copy_records_to_table
+    return await self._protocol.copy_in(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 554, in copy_in
+  File "asyncpg/protocol/protocol.pyx", line 501, in asyncpg.protocol.protocol.BaseProtocol.copy_in
+  File "asyncpg/protocol/codecs/base.pyx", line 251, in asyncpg.protocol.protocol.Codec.encode
+  File "asyncpg/protocol/codecs/base.pyx", line 153, in asyncpg.protocol.protocol.Codec.encode_scalar
+  File "asyncpg/pgproto/codecs/datetime.pyx", line 147, in asyncpg.pgproto.pgproto.timestamp_encode
+TypeError: expected a datetime.date or datetime.datetime instance, got 'str'
+2026-04-10 09:28:08 | INFO     | admin        | CALCULATION-SERVICE | Iniciando migración de recargas desde CRMGOLD
+2026-04-10 09:49:38 | INFO     | admin        | CALCULATION-SERVICE | Migración finalizada. Registros insertados: 35182205
+2026-04-10 16:39:24 | INFO     | admin        | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-10 16:45:56 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-99
+2026-04-10 16:45:56 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-10 16:45:56 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-10 16:46:11 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-99
+2026-04-10 16:46:11 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-10 16:46:12 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-10 16:48:06 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-10 16:48:58 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Reporte Excel generado con 140552 registros.
+2026-04-10 16:51:59 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Iniciando publicación para periodo 2026-03-99. Total agentes: 354
+2026-04-10 16:51:59 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Ejecutando sp_operations_history...
+2026-04-10 16:52:00 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Actualizando flag de publicación para 354 agentes.
+2026-04-10 16:52:02 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Publicación exitosa para el periodo 2026-03-99
+2026-04-10 17:03:21 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando carga de archivo: comisiones_externas.txt
+2026-04-10 17:03:21 | DEBUG    | E24455144    | CALCULATION-SERVICE | Archivo leído: 1820 líneas.
+2026-04-10 17:03:21 | INFO     | E24455144    | CALCULATION-SERVICE | Limpiando tabla temporal e insertando nuevos registros especiales.
+2026-04-10 17:03:21 | INFO     | E24455144    | CALCULATION-SERVICE | Registros especiales procesados y guardados en historial.

@@ -1,0 +1,7 @@
+2026-06-02 09:18:47 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-06-02 09:18:47 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-06-02 09:19:16 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-06-02 09:19:16 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-06-02 09:19:26 | INFO     | BOL_4_1      | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'BOL_4_1'
+2026-06-02 09:19:26 | INFO     | BOL_4_1      | USER-SERVICE    | Consulta finalizada. Usuario 'BOL_4_1' encontrado.
+2026-06-02 09:19:50 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: BOL_4_1

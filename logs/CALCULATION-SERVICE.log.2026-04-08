@@ -1,0 +1,289 @@
+2026-04-08 00:04:15 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-20
+2026-04-08 00:04:15 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 00:04:15 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 00:04:32 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-20
+2026-04-08 00:04:32 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 00:04:33 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 00:07:44 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-08 00:07:44 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-08 00:07:44 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-08 00:07:44 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-08 00:07:44 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-08 00:08:19 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-08 00:13:54 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-21
+2026-04-08 00:13:54 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 00:13:54 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 00:14:43 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-21
+2026-04-08 00:14:44 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 00:14:44 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 00:14:47 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-08 00:14:47 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-08 00:14:47 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-08 00:14:47 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-08 00:14:47 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-08 00:15:28 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-08 00:20:00 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-22
+2026-04-08 00:20:00 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 00:20:00 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 00:20:20 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-22
+2026-04-08 00:20:20 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 00:20:20 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 00:20:29 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-08 00:20:29 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-08 00:20:29 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-08 00:20:29 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-08 00:20:29 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-08 00:21:09 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-08 10:24:36 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración Oracle -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-08 10:24:36 | DEBUG    | E24455144    | CALCULATION-SERVICE | Ejecutando SELECT en Oracle CRM36...
+2026-04-08 10:25:52 | INFO     | E24455144    | CALCULATION-SERVICE | Oracle respondió con 152690 registros.
+2026-04-08 10:25:52 | WARNING  | E24455144    | CALCULATION-SERVICE | Ejecutando TRUNCATE en scc_user.operations
+2026-04-08 10:25:52 | DEBUG    | E24455144    | CALCULATION-SERVICE | Cargando datos masivos a PostgreSQL...
+2026-04-08 10:25:53 | INFO     | E24455144    | CALCULATION-SERVICE | Migración finalizada exitosamente.
+2026-04-08 11:59:00 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración Oracle -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-08 11:59:00 | DEBUG    | E24455144    | CALCULATION-SERVICE | Ejecutando SELECT en Oracle CRM36...
+2026-04-08 12:00:14 | INFO     | E24455144    | CALCULATION-SERVICE | Oracle respondió con 152690 registros.
+2026-04-08 12:00:14 | WARNING  | E24455144    | CALCULATION-SERVICE | Ejecutando TRUNCATE en scc_user.operations
+2026-04-08 12:00:14 | DEBUG    | E24455144    | CALCULATION-SERVICE | Cargando datos masivos a PostgreSQL...
+2026-04-08 12:00:15 | INFO     | E24455144    | CALCULATION-SERVICE | Migración finalizada exitosamente.
+2026-04-08 12:15:09 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración de recargas desde 01.03.2026 hasta 31.03.2026
+2026-04-08 12:30:39 | INFO     | E24455144    | CALCULATION-SERVICE | Recargas obtenidas (CRMGOLD): 35315114
+2026-04-08 12:30:49 | INFO     | E24455144    | CALCULATION-SERVICE | GSMS válidos (SQL360): 114788
+2026-04-08 12:31:30 | INFO     | E24455144    | CALCULATION-SERVICE | Recargas válidas: 271870
+2026-04-08 12:31:30 | WARNING  | E24455144    | CALCULATION-SERVICE | TRUNCATE TABLE scc_user.recharge
+2026-04-08 12:40:18 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando carga de archivo: comisiones_externas.txt
+2026-04-08 12:40:18 | DEBUG    | E24455144    | CALCULATION-SERVICE | Archivo leído: 2066 líneas.
+2026-04-08 12:40:18 | INFO     | E24455144    | CALCULATION-SERVICE | Limpiando tabla temporal e insertando nuevos registros especiales.
+2026-04-08 12:40:18 | INFO     | E24455144    | CALCULATION-SERVICE | Registros especiales procesados y guardados en historial.
+2026-04-08 12:41:46 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando carga de archivo: comisiones_externas.txt
+2026-04-08 12:41:46 | DEBUG    | E24455144    | CALCULATION-SERVICE | Archivo leído: 2066 líneas.
+2026-04-08 12:41:46 | INFO     | E24455144    | CALCULATION-SERVICE | Limpiando tabla temporal e insertando nuevos registros especiales.
+2026-04-08 12:41:46 | INFO     | E24455144    | CALCULATION-SERVICE | Registros especiales procesados y guardados en historial.
+2026-04-08 21:17:32 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-23
+2026-04-08 21:17:32 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 21:17:32 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 21:17:43 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-23
+2026-04-08 21:17:43 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 21:17:43 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 21:17:53 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-08 21:17:53 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-08 21:17:53 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-08 21:17:53 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-08 21:17:53 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-08 21:18:17 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-08 21:24:36 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-24
+2026-04-08 21:24:36 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 21:24:36 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 21:24:47 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-24
+2026-04-08 21:24:47 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 21:24:47 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 21:31:51 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-08 21:31:51 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-08 21:31:51 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-08 21:31:51 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-08 21:31:51 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-08 21:32:08 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-08 22:05:56 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-25
+2026-04-08 22:05:56 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 22:05:56 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 22:05:58 | ERROR    | admin        | CALCULATION-SERVICE | Error crítico en ejecutar-calculo: no existe la columna «created_at»
+HINT:  Probablemente quiera hacer referencia a la columna «commission_multiplication.created_dt».
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 118, in ejecutar_proceso_calculo
+    await conn.execute("CALL scc_user.sp_motor_calculo()", timeout=300)
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 354, in execute
+    result = await self._protocol.query(query, timeout)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 369, in query
+asyncpg.exceptions.UndefinedColumnError: no existe la columna «created_at»
+HINT:  Probablemente quiera hacer referencia a la columna «commission_multiplication.created_dt».
+2026-04-08 22:07:02 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-25
+2026-04-08 22:07:02 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 22:07:02 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 22:07:04 | ERROR    | admin        | CALCULATION-SERVICE | Error crítico en ejecutar-calculo: no existe la columna r.division
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 118, in ejecutar_proceso_calculo
+    await conn.execute("CALL scc_user.sp_motor_calculo()", timeout=300)
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 354, in execute
+    result = await self._protocol.query(query, timeout)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 369, in query
+asyncpg.exceptions.UndefinedColumnError: no existe la columna r.division
+2026-04-08 22:13:05 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-25
+2026-04-08 22:13:05 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 22:13:05 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 22:13:07 | ERROR    | admin        | CALCULATION-SERVICE | Error crítico en ejecutar-calculo: no existe la columna «created_at»
+HINT:  Probablemente quiera hacer referencia a la columna «commission_multiplication.created_dt».
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 118, in ejecutar_proceso_calculo
+    await conn.execute("CALL scc_user.sp_motor_calculo()", timeout=300)
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 354, in execute
+    result = await self._protocol.query(query, timeout)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 369, in query
+asyncpg.exceptions.UndefinedColumnError: no existe la columna «created_at»
+HINT:  Probablemente quiera hacer referencia a la columna «commission_multiplication.created_dt».
+2026-04-08 22:13:24 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-25
+2026-04-08 22:13:24 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 22:13:24 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 22:13:26 | ERROR    | admin        | CALCULATION-SERVICE | Error crítico en ejecutar-calculo: no existe la columna co.operation_code
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 118, in ejecutar_proceso_calculo
+    await conn.execute("CALL scc_user.sp_motor_calculo()", timeout=300)
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 354, in execute
+    result = await self._protocol.query(query, timeout)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 369, in query
+asyncpg.exceptions.UndefinedColumnError: no existe la columna co.operation_code
+2026-04-08 22:15:39 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-25
+2026-04-08 22:15:39 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 22:15:39 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 22:15:55 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-25
+2026-04-08 22:15:55 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 22:15:55 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 22:16:11 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-08 22:16:11 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-08 22:16:11 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-08 22:16:11 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-08 22:16:11 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-08 22:16:31 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-08 22:21:55 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-26
+2026-04-08 22:21:55 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 22:21:55 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 22:22:09 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-26
+2026-04-08 22:22:09 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 22:22:09 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 22:22:12 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-08 22:22:12 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-08 22:22:12 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-08 22:22:12 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-08 22:22:12 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-08 22:22:52 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-08 22:27:05 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-27
+2026-04-08 22:27:05 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 22:27:05 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 22:27:22 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-27
+2026-04-08 22:27:22 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 22:27:22 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 22:27:26 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-08 22:27:26 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-08 22:27:26 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-08 22:27:26 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-08 22:27:26 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-08 22:27:59 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-08 22:35:25 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-28
+2026-04-08 22:35:25 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 22:35:25 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 22:35:40 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-28
+2026-04-08 22:35:41 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 22:35:41 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 22:35:43 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-08 22:35:43 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-08 22:35:43 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-08 22:35:43 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-08 22:35:43 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-08 22:36:18 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-08 22:42:31 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-29
+2026-04-08 22:42:31 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 22:42:31 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 22:42:48 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-29
+2026-04-08 22:42:48 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 22:42:48 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 22:42:56 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-08 22:42:56 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-08 22:42:56 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-08 22:42:56 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-08 22:42:56 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-08 22:43:29 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-08 22:47:27 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-30
+2026-04-08 22:47:27 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 22:47:27 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 22:47:44 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-30
+2026-04-08 22:47:44 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 22:47:45 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 22:47:48 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-08 22:47:48 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-08 22:47:48 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-08 22:47:48 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-08 22:47:48 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-08 22:48:25 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-08 23:03:31 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-31
+2026-04-08 23:03:31 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 23:03:31 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 23:03:48 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-31
+2026-04-08 23:03:48 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 23:03:48 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 23:03:52 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-08 23:04:16 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado con 140936 registros.
+2026-04-08 23:15:49 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-32
+2026-04-08 23:15:49 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 23:15:49 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 23:15:57 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-32
+2026-04-08 23:15:57 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 23:15:58 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 23:16:01 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-08 23:16:43 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado con 139296 registros.
+2026-04-08 23:20:23 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-33
+2026-04-08 23:20:23 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 23:20:23 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 23:20:32 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-33
+2026-04-08 23:20:32 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 23:20:32 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 23:20:37 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-08 23:21:00 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado con 139296 registros.
+2026-04-08 23:24:46 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-34
+2026-04-08 23:24:46 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 23:24:46 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 23:24:54 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-34
+2026-04-08 23:24:54 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 23:24:55 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 23:27:01 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-35
+2026-04-08 23:27:01 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 23:27:01 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 23:27:09 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-35
+2026-04-08 23:27:09 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 23:27:09 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 23:31:48 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-36
+2026-04-08 23:31:48 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 23:31:48 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 23:31:55 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-36
+2026-04-08 23:31:55 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 23:31:55 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 351 agentes encontrados.
+2026-04-08 23:34:42 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-37
+2026-04-08 23:34:42 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 23:34:42 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 23:34:51 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-37
+2026-04-08 23:34:51 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 23:34:51 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 23:41:03 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-38
+2026-04-08 23:41:03 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 23:41:03 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 23:41:13 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-38
+2026-04-08 23:41:13 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 23:41:13 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 23:42:49 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-39
+2026-04-08 23:42:49 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 23:42:49 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 23:43:00 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-39
+2026-04-08 23:43:00 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 23:43:00 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 23:46:25 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-34
+2026-04-08 23:46:25 | ERROR    | admin        | CALCULATION-SERVICE | El periodo 2026-03-34 ya fue procesado anteriormente.
+2026-04-08 23:46:33 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-35
+2026-04-08 23:46:33 | ERROR    | admin        | CALCULATION-SERVICE | El periodo 2026-03-35 ya fue procesado anteriormente.
+2026-04-08 23:46:51 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-40
+2026-04-08 23:46:51 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 23:46:51 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 23:47:03 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-40
+2026-04-08 23:47:03 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 23:47:03 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 23:47:08 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-08 23:47:54 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado con 137533 registros.
+2026-04-08 23:51:20 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-41
+2026-04-08 23:51:20 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-08 23:51:20 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-08 23:51:33 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-41
+2026-04-08 23:51:33 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-08 23:51:33 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-08 23:51:44 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-08 23:52:23 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado con 137519 registros.

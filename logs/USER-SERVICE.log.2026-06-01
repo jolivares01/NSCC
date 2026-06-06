@@ -1,0 +1,8 @@
+2026-06-01 23:27:54 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-06-01 23:27:54 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-06-01 23:27:56 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-06-01 23:27:56 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-06-01 23:27:59 | INFO     | AGENTE1      | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'AGENTE1'
+2026-06-01 23:27:59 | INFO     | AGENTE1      | USER-SERVICE    | Consulta finalizada. Usuario 'AGENTE1' no existe.
+2026-06-01 23:28:01 | INFO     | AGENTE1      | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'AGENTE1'
+2026-06-01 23:28:01 | INFO     | AGENTE1      | USER-SERVICE    | Consulta finalizada. Usuario 'AGENTE1' no existe.

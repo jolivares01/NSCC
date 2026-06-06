@@ -1,0 +1,8 @@
+2026-04-29 22:06:22 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-02
+2026-04-29 22:06:22 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-29 22:06:22 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-29 22:08:31 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-02
+2026-04-29 22:08:31 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-29 22:08:31 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 357 agentes encontrados.
+2026-04-29 22:08:37 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-29 22:09:45 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado con 140039 registros.

@@ -1,0 +1,23 @@
+2026-04-17 11:36:49 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-04-17 11:36:49 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-17 11:36:57 | INFO     | BOL_3473_2   | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'BOL_3473_2'
+2026-04-17 11:36:57 | INFO     | BOL_3473_2   | USER-SERVICE    | Consulta finalizada. Usuario 'BOL_3473_2' encontrado.
+2026-04-17 11:36:59 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: BOL_3473_2
+2026-04-17 11:37:12 | INFO     | SYSTEM       | USER-SERVICE    | ACTUALIZACIÓN: Usuario 'BOL_3473_2' modificado por 'ADMIN_TEST'
+2026-04-17 11:37:12 | DEBUG    | SYSTEM       | USER-SERVICE    | Parámetros SP actualizar_usuario: ('BOL_3473_2', 8, 'CONECTATE.COM, PTO. C.A. - ORINOKIA', 'ROL_0002', False, 'ADMIN_TEST', 'B', 'AI')
+2026-04-17 11:37:12 | INFO     | SYSTEM       | USER-SERVICE    | ACTUALIZACIÓN EXITOSA: Usuario 'BOL_3473_2' actualizado correctamente.
+2026-04-17 11:37:12 | INFO     | BOL_3473_2   | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'BOL_3473_2'
+2026-04-17 11:37:12 | INFO     | BOL_3473_2   | USER-SERVICE    | Consulta finalizada. Usuario 'BOL_3473_2' encontrado.
+2026-04-17 11:37:14 | INFO     | BOL_3473_2   | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'BOL_3473_2'
+2026-04-17 11:37:14 | INFO     | BOL_3473_2   | USER-SERVICE    | Consulta finalizada. Usuario 'BOL_3473_2' encontrado.
+2026-04-17 11:37:15 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: BOL_3473_2
+2026-04-17 12:17:30 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-17 12:17:30 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-04-17 12:17:32 | INFO     | ANZ_13672_   | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'ANZ_13672_2'
+2026-04-17 12:17:32 | INFO     | ANZ_13672_   | USER-SERVICE    | Consulta finalizada. Usuario 'ANZ_13672_2' encontrado.
+2026-04-17 12:17:33 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: ANZ_13672_2
+2026-04-17 12:17:39 | INFO     | SYSTEM       | USER-SERVICE    | ACTUALIZACIÓN: Usuario 'ANZ_13672_2' modificado por 'ADMIN_TEST'
+2026-04-17 12:17:39 | DEBUG    | SYSTEM       | USER-SERVICE    | Parámetros SP actualizar_usuario: ('ANZ_13672_2', 7, 'DISTRIBUIDORA E INVERSIONES JOB, MALAVER II', 'ROL_0002', True, 'ADMIN_TEST', 'A', 'AI')
+2026-04-17 12:17:39 | INFO     | SYSTEM       | USER-SERVICE    | ACTUALIZACIÓN EXITOSA: Usuario 'ANZ_13672_2' actualizado correctamente.
+2026-04-17 12:17:39 | INFO     | ANZ_13672_   | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'ANZ_13672_2'
+2026-04-17 12:17:39 | INFO     | ANZ_13672_   | USER-SERVICE    | Consulta finalizada. Usuario 'ANZ_13672_2' encontrado.

@@ -1,0 +1,57 @@
+2026-04-17 09:22:18 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.01.2026 hasta 31.01.2026
+2026-04-17 09:23:19 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración de recargas desde CRMGOLD
+2026-04-17 09:42:05 | INFO     | E24455144    | CALCULATION-SERVICE | Migración finalizada. Registros insertados: 31427477
+2026-04-17 09:43:19 | INFO     | E24455144    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-01-1
+2026-04-17 09:43:19 | DEBUG    | E24455144    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-17 09:43:19 | INFO     | E24455144    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-17 09:45:52 | INFO     | E24455144    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-01-1
+2026-04-17 09:45:52 | DEBUG    | E24455144    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-17 09:45:52 | INFO     | E24455144    | CALCULATION-SERVICE | Lista de publicación cargada: 355 agentes encontrados.
+2026-04-17 09:46:02 | INFO     | E24455144    | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-17 09:46:44 | INFO     | E24455144    | CALCULATION-SERVICE | Reporte Excel generado con 123580 registros.
+2026-04-17 09:49:00 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando publicación para periodo 2026-01-1. Total agentes: 355
+2026-04-17 09:49:00 | DEBUG    | E24455144    | CALCULATION-SERVICE | Ejecutando sp_operations_history...
+2026-04-17 09:49:02 | DEBUG    | E24455144    | CALCULATION-SERVICE | Actualizando flag de publicación para 355 agentes.
+2026-04-17 09:49:04 | INFO     | E24455144    | CALCULATION-SERVICE | Publicación exitosa para el periodo 2026-01-1
+2026-04-17 09:50:03 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.02.2026 hasta 28.02.2026
+2026-04-17 09:50:59 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración de recargas desde CRMGOLD
+2026-04-17 10:09:28 | INFO     | E24455144    | CALCULATION-SERVICE | Migración finalizada. Registros insertados: 32138138
+2026-04-17 10:25:50 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-02-1
+2026-04-17 10:25:50 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-17 10:25:50 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-17 10:27:44 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-02-1
+2026-04-17 10:27:44 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-17 10:27:44 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-17 11:06:51 | INFO     | E24455144    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-02-01
+2026-04-17 11:06:51 | DEBUG    | E24455144    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-17 11:06:51 | INFO     | E24455144    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-17 11:08:48 | INFO     | E24455144    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-02-01
+2026-04-17 11:08:48 | DEBUG    | E24455144    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-17 11:08:48 | INFO     | E24455144    | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-17 11:11:14 | INFO     | E24455144    | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-17 11:12:27 | INFO     | E24455144    | CALCULATION-SERVICE | Reporte Excel generado con 114444 registros.
+2026-04-17 14:40:44 | INFO     | E24455144    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-02-02
+2026-04-17 14:40:44 | DEBUG    | E24455144    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-17 14:40:44 | INFO     | E24455144    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-17 14:42:39 | INFO     | E24455144    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-02-02
+2026-04-17 14:42:39 | DEBUG    | E24455144    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-17 14:42:39 | INFO     | E24455144    | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-17 14:54:49 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando publicación para periodo 2026-02-02. Total agentes: 354
+2026-04-17 14:54:49 | DEBUG    | E24455144    | CALCULATION-SERVICE | Ejecutando sp_operations_history...
+2026-04-17 14:54:50 | DEBUG    | E24455144    | CALCULATION-SERVICE | Actualizando flag de publicación para 354 agentes.
+2026-04-17 14:54:52 | INFO     | E24455144    | CALCULATION-SERVICE | Publicación exitosa para el periodo 2026-02-02
+2026-04-17 14:55:09 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-17 14:56:04 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración de recargas desde CRMGOLD
+2026-04-17 15:21:46 | INFO     | E24455144    | CALCULATION-SERVICE | Migración finalizada. Registros insertados: 35182205
+2026-04-17 15:25:48 | INFO     | E24455144    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-1
+2026-04-17 15:25:48 | ERROR    | E24455144    | CALCULATION-SERVICE | El periodo 2026-03-1 ya fue procesado anteriormente.
+2026-04-17 15:25:56 | INFO     | E24455144    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-01
+2026-04-17 15:25:56 | DEBUG    | E24455144    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-17 15:25:56 | INFO     | E24455144    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-17 15:28:38 | INFO     | E24455144    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-01
+2026-04-17 15:28:38 | DEBUG    | E24455144    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-17 15:28:38 | INFO     | E24455144    | CALCULATION-SERVICE | Lista de publicación cargada: 357 agentes encontrados.
+2026-04-17 15:29:34 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando publicación para periodo 2026-03-01. Total agentes: 357
+2026-04-17 15:29:34 | DEBUG    | E24455144    | CALCULATION-SERVICE | Ejecutando sp_operations_history...
+2026-04-17 15:29:36 | DEBUG    | E24455144    | CALCULATION-SERVICE | Actualizando flag de publicación para 357 agentes.
+2026-04-17 15:29:38 | INFO     | E24455144    | CALCULATION-SERVICE | Publicación exitosa para el periodo 2026-03-01

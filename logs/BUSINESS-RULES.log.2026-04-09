@@ -1,0 +1,57 @@
+2026-04-09 07:59:54 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-09 07:59:54 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-09 07:59:54 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-09 07:59:54 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-09 07:59:54 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-09 07:59:54 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-09 07:59:54 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-09 07:59:54 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-09 07:59:54 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-09 07:59:54 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-09 11:53:41 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-09 11:53:41 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-09 11:53:42 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-09 11:53:42 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-09 11:53:42 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-09 11:53:42 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-09 11:53:42 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-09 11:53:42 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-09 11:53:42 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-09 11:53:42 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-09 11:57:24 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-09 11:57:24 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-09 11:57:24 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-09 11:57:24 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-09 11:57:24 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-09 11:57:24 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-09 11:57:24 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-09 11:57:24 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-09 11:57:24 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-09 11:57:24 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-09 22:38:20 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-09 22:38:38 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Plan P-192 actualizado por admin
+2026-04-09 22:38:38 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-09 22:38:42 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Plan P-192 actualizado por admin
+2026-04-09 22:38:42 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-09 22:39:13 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-09 22:39:28 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-09 22:40:21 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-09 22:40:21 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-09 22:40:21 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-09 22:40:21 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-09 22:40:21 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-09 22:40:21 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-09 22:40:21 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-09 22:40:21 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-09 22:40:21 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-09 22:40:21 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-09 23:32:10 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-09 23:32:10 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-09 23:32:10 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-09 23:32:10 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-09 23:32:10 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-09 23:32:10 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-09 23:32:10 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-09 23:32:10 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-09 23:32:10 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-09 23:32:10 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.

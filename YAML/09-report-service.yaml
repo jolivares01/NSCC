@@ -1,0 +1,148 @@
+---
+# 28. PV - REPORT PROPERTIES
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv-scc-report-service-props
+spec:
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadWriteMany
+  nfs:
+    server: 10.192.150.26
+    path: /properties/scc/report-service
+  persistentVolumeReclaimPolicy: Retain
+
+---
+# 29. PVC - REPORT PROPERTIES
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: pvc-scc-report-service-props
+  namespace: comisiones
+spec:
+  accessModes:
+    - ReadWriteMany
+  resources:
+    requests:
+      storage: 1Gi
+  volumeName: pv-scc-report-service-props
+
+---
+# 30. SERVICE - REPORT (INTERNO)
+apiVersion: v1
+kind: Service
+metadata:
+  name: report-service
+  namespace: comisiones
+  labels:
+    app: report-service
+    uso: generacion_reportes_excel
+spec:
+  selector:
+    app: report-service
+  ports:
+    - protocol: TCP
+      port: 8000
+      targetPort: 8000
+
+---
+# 31. DEPLOYMENT - REPORT SERVICE
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: report-service
+  namespace: comisiones
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: report-service
+  template:
+    metadata:
+      labels:
+        app: report-service
+        encargado: dominio_crm
+        api: SCC.Reports.Management
+    spec:
+      containers:
+        - name: report-service
+          image: cfregistryvp01.corp.digitel.com.ve:444/report-service:1.0.0
+          ports:
+            - containerPort: 8000
+          resources:
+            requests:
+              cpu: "200m"
+              memory: "512Mi"
+            limits:
+              cpu: "1.5"
+              memory: "1.5Gi"
+          env:
+            # --- POSTGRES VARIABLES ---
+            - name: POSTGRES_USER
+              valueFrom:
+                secretKeyRef:
+                  name: scc-db-secrets
+                  key: pg_user
+            - name: POSTGRES_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: scc-db-secrets
+                  key: pg_pass
+            - name: POSTGRES_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: POSTGRES_HOST
+            - name: POSTGRES_DB
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: POSTGRES_DB
+            - name: POSTGRES_PORT
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: POSTGRES_PORT
+            - name: DB_SCHEMA
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: DB_SCHEMA
+
+            # --- PARÁMETROS GLOBALES ---
+            - name: TZ
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: TZ
+          volumeMounts:
+            - name: props
+              mountPath: /app/config
+      volumes:
+        - name: props
+          persistentVolumeClaim:
+            claimName: pvc-scc-report-service-props
+
+---
+# 32. HPA - REPORT SERVICE
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: report-service-hpa
+  namespace: comisiones
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: report-service
+  minReplicas: 1
+  maxReplicas: 3
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type: Utilization
+          averageUtilization: 70

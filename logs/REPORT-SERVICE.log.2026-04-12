@@ -1,0 +1,77 @@
+2026-04-12 18:42:36 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-12 18:42:52 | INFO     | admin        | REPORT-SERVICE  | EXPORTACIÓN: Usuario admin (ROL_0001) solicita reporte de comisiones para periodo 2026-01
+2026-04-12 18:42:52 | DEBUG    | admin        | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-12 18:42:53 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-01.xlsx
+2026-04-12 18:42:53 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 121700 registros.
+2026-04-12 18:49:19 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 18:49:21 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 18:49:24 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-12 18:51:44 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 18:51:46 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 18:51:49 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-02
+2026-04-12 18:51:51 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 18:53:10 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 18:53:12 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 18:53:21 | INFO     | agente1      | REPORT-SERVICE  | EXPORTACIÓN: Usuario agente1 (ROL_0002) solicita reporte de comisiones para periodo 2026-01
+2026-04-12 18:53:21 | DEBUG    | agente1      | REPORT-SERVICE  | Aplicando filtro de agente para: agente1
+2026-04-12 18:53:22 | INFO     | agente1      | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-01.xlsx
+2026-04-12 18:53:22 | DEBUG    | agente1      | REPORT-SERVICE  | Procesando hoja: Mis_Comisiones con 1264 registros.
+2026-04-12 18:54:16 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-02
+2026-04-12 18:54:19 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-03
+2026-04-12 18:54:25 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 18:54:28 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 18:54:35 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-03
+2026-04-12 18:57:08 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 18:57:10 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 18:57:57 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 18:57:59 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 18:58:22 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 18:58:24 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-12 19:03:45 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 19:03:50 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 19:04:55 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 19:04:58 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-12 19:07:20 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 19:08:34 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 19:08:38 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-12 19:11:12 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 19:11:19 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 19:11:33 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-02
+2026-04-12 19:11:35 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-03
+2026-04-12 19:11:39 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 19:11:42 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-03
+2026-04-12 19:11:48 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 19:11:51 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 19:12:29 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-02
+2026-04-12 19:12:31 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-03
+2026-04-12 19:12:33 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 19:12:35 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 19:16:09 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 19:16:11 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 19:16:15 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-02
+2026-04-12 19:16:17 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-03
+2026-04-12 19:16:19 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 19:16:20 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 19:16:44 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 19:16:46 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-12 19:24:06 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 19:24:07 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-12 19:25:20 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 19:25:39 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 19:25:41 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-12 19:25:50 | INFO     | admin        | REPORT-SERVICE  | EXPORT RESUMEN: Usuario admin solicita Excel de resumen para 2026-01
+2026-04-12 19:25:51 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-01.xlsx
+2026-04-12 19:25:51 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Resumen con 1121 registros.
+2026-04-12 19:26:52 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 19:26:54 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 19:27:07 | INFO     | agente1      | REPORT-SERVICE  | EXPORT RESUMEN: Usuario agente1 solicita Excel de resumen para 2026-01
+2026-04-12 19:27:07 | INFO     | agente1      | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-01.xlsx
+2026-04-12 19:27:07 | DEBUG    | agente1      | REPORT-SERVICE  | Procesando hoja: Resumen con 4 registros.
+2026-04-12 19:30:22 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 19:30:25 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-12 19:30:40 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 19:30:41 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-12 19:31:39 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-12 19:31:42 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-12 19:31:56 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-12 19:31:58 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01

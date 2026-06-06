@@ -1,0 +1,226 @@
+2026-04-07 07:33:07 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración Oracle -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-07 07:33:07 | ERROR    | E24455144    | CALCULATION-SERVICE | Error crítico en migración de activaciones: DPY-4027: no configuration directory specified
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 218, in migrar_activaciones_oracle_to_pg
+    conn_ora = oracledb.connect(
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 1698, in connect
+    return conn_class(dsn=dsn, pool=pool, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 868, in __init__
+    dsn = params_impl.process_args(dsn, kwargs, thin)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "src/oracledb/impl/base/connect_params.pyx", line 574, in oracledb.base_impl.ConnectParamsImpl.process_args
+  File "src/oracledb/impl/base/connect_params.pyx", line 509, in oracledb.base_impl.ConnectParamsImpl.parse_connect_string
+  File "src/oracledb/impl/base/connect_params.pyx", line 507, in oracledb.base_impl.ConnectParamsImpl.parse_connect_string
+  File "src/oracledb/impl/base/connect_params.pyx", line 336, in oracledb.base_impl.ConnectParamsImpl._parse_connect_string
+  File "src/oracledb/impl/base/connect_params.pyx", line 1227, in oracledb.base_impl.TnsnamesFileReader.read_tnsnames
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\errors.py", line 199, in _raise_err
+    raise error.exc_type(error) from cause
+oracledb.exceptions.DatabaseError: DPY-4027: no configuration directory specified
+2026-04-07 07:43:59 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración Oracle -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-07 07:43:59 | ERROR    | E24455144    | CALCULATION-SERVICE | Error crítico en migración de activaciones: DPY-4027: no configuration directory specified
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 218, in migrar_activaciones_oracle_to_pg
+    conn_ora = oracledb.connect(
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 1698, in connect
+    return conn_class(dsn=dsn, pool=pool, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 868, in __init__
+    dsn = params_impl.process_args(dsn, kwargs, thin)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "src/oracledb/impl/base/connect_params.pyx", line 574, in oracledb.base_impl.ConnectParamsImpl.process_args
+  File "src/oracledb/impl/base/connect_params.pyx", line 509, in oracledb.base_impl.ConnectParamsImpl.parse_connect_string
+  File "src/oracledb/impl/base/connect_params.pyx", line 507, in oracledb.base_impl.ConnectParamsImpl.parse_connect_string
+  File "src/oracledb/impl/base/connect_params.pyx", line 336, in oracledb.base_impl.ConnectParamsImpl._parse_connect_string
+  File "src/oracledb/impl/base/connect_params.pyx", line 1227, in oracledb.base_impl.TnsnamesFileReader.read_tnsnames
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\errors.py", line 199, in _raise_err
+    raise error.exc_type(error) from cause
+oracledb.exceptions.DatabaseError: DPY-4027: no configuration directory specified
+2026-04-07 07:50:49 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración Oracle -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-07 07:50:50 | ERROR    | E24455144    | CALCULATION-SERVICE | Error crítico en migración de activaciones: DPY-6005: cannot connect to database (CONNECTION_ID=ALUn/JBQcQV9+a1motYZoA==).
+DPY-3010: connections to this database server version are not supported by python-oracledb in thin mode
+Help: https://python-oracledb.readthedocs.io/en/latest/user_guide/troubleshooting.html#dpy-3010
+Traceback (most recent call last):
+  File "src/oracledb/impl/thin/connection.pyx", line 404, in oracledb.thin_impl.ThinConnImpl._connect_with_address
+  File "src/oracledb/impl/thin/protocol.pyx", line 288, in oracledb.thin_impl.Protocol._connect_phase_one
+  File "src/oracledb/impl/thin/protocol.pyx", line 470, in oracledb.thin_impl.Protocol._process_message
+  File "src/oracledb/impl/thin/protocol.pyx", line 446, in oracledb.thin_impl.Protocol._process_message
+  File "src/oracledb/impl/thin/messages/connect.pyx", line 66, in oracledb.thin_impl.ConnectMessage.process
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\errors.py", line 199, in _raise_err
+    raise error.exc_type(error) from cause
+oracledb.exceptions.NotSupportedError: DPY-3010: connections to this database server version are not supported by python-oracledb in thin mode
+Help: https://python-oracledb.readthedocs.io/en/latest/user_guide/troubleshooting.html#dpy-3010
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 218, in migrar_activaciones_oracle_to_pg
+    conn_ora = oracledb.connect(
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 1698, in connect
+    return conn_class(dsn=dsn, pool=pool, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 892, in __init__
+    impl.connect(params_impl)
+  File "src/oracledb/impl/thin/connection.pyx", line 526, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 522, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 465, in oracledb.thin_impl.ThinConnImpl._connect_with_params
+  File "src/oracledb/impl/thin/protocol.pyx", line 446, in oracledb.thin_impl.Protocol._process_message
+  File "src/oracledb/impl/thin/connection.pyx", line 408, in oracledb.thin_impl.ThinConnImpl._connect_with_address
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\errors.py", line 199, in _raise_err
+    raise error.exc_type(error) from cause
+oracledb.exceptions.OperationalError: DPY-6005: cannot connect to database (CONNECTION_ID=ALUn/JBQcQV9+a1motYZoA==).
+DPY-3010: connections to this database server version are not supported by python-oracledb in thin mode
+Help: https://python-oracledb.readthedocs.io/en/latest/user_guide/troubleshooting.html#dpy-3010
+2026-04-07 12:28:24 | INFO     | E24455144    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-13
+2026-04-07 12:28:24 | DEBUG    | E24455144    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-07 12:28:24 | INFO     | E24455144    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-07 12:28:33 | INFO     | E24455144    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-13
+2026-04-07 12:28:33 | DEBUG    | E24455144    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-07 12:28:33 | INFO     | E24455144    | CALCULATION-SERVICE | Lista de publicación cargada: 351 agentes encontrados.
+2026-04-07 12:29:28 | INFO     | E24455144    | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-07 12:29:28 | DEBUG    | E24455144    | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-07 12:29:28 | DEBUG    | E24455144    | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-07 12:29:28 | DEBUG    | E24455144    | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-07 12:29:28 | DEBUG    | E24455144    | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-07 12:30:05 | INFO     | E24455144    | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-07 12:32:32 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando carga de archivo: comisiones_externas.txt
+2026-04-07 12:32:32 | DEBUG    | E24455144    | CALCULATION-SERVICE | Archivo leído: 1820 líneas.
+2026-04-07 12:32:32 | INFO     | E24455144    | CALCULATION-SERVICE | Limpiando tabla temporal e insertando nuevos registros especiales.
+2026-04-07 12:32:32 | INFO     | E24455144    | CALCULATION-SERVICE | Registros especiales procesados y guardados en historial.
+2026-04-07 14:23:35 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración Oracle -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-07 14:23:35 | DEBUG    | E24455144    | CALCULATION-SERVICE | Ejecutando SELECT en Oracle CRM36...
+2026-04-07 14:24:52 | INFO     | E24455144    | CALCULATION-SERVICE | Oracle respondió con 152690 registros.
+2026-04-07 14:24:52 | WARNING  | E24455144    | CALCULATION-SERVICE | Ejecutando TRUNCATE en scc_user.operations
+2026-04-07 14:24:52 | DEBUG    | E24455144    | CALCULATION-SERVICE | Cargando datos masivos a PostgreSQL...
+2026-04-07 14:24:53 | ERROR    | E24455144    | CALCULATION-SERVICE | Error crítico en migración de activaciones: expected a datetime.date or datetime.datetime instance, got 'str'
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 276, in migrar_activaciones_oracle_to_pg
+    await pg_conn.copy_records_to_table(
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1127, in copy_records_to_table
+    return await self._protocol.copy_in(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 554, in copy_in
+  File "asyncpg/protocol/protocol.pyx", line 501, in asyncpg.protocol.protocol.BaseProtocol.copy_in
+  File "asyncpg/protocol/codecs/base.pyx", line 251, in asyncpg.protocol.protocol.Codec.encode
+  File "asyncpg/protocol/codecs/base.pyx", line 153, in asyncpg.protocol.protocol.Codec.encode_scalar
+  File "asyncpg/pgproto/codecs/datetime.pyx", line 147, in asyncpg.pgproto.pgproto.timestamp_encode
+TypeError: expected a datetime.date or datetime.datetime instance, got 'str'
+2026-04-07 14:32:18 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración Oracle -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-07 14:32:18 | DEBUG    | E24455144    | CALCULATION-SERVICE | Ejecutando SELECT en Oracle CRM36...
+2026-04-07 14:34:57 | INFO     | E24455144    | CALCULATION-SERVICE | Oracle respondió con 152690 registros.
+2026-04-07 14:34:57 | WARNING  | E24455144    | CALCULATION-SERVICE | Ejecutando TRUNCATE en scc_user.operations
+2026-04-07 14:34:57 | DEBUG    | E24455144    | CALCULATION-SERVICE | Cargando datos masivos a PostgreSQL...
+2026-04-07 14:34:58 | ERROR    | E24455144    | CALCULATION-SERVICE | Error crítico en migración de activaciones: expected a datetime.date or datetime.datetime instance, got 'str'
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 276, in migrar_activaciones_oracle_to_pg
+    await pg_conn.copy_records_to_table(
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1127, in copy_records_to_table
+    return await self._protocol.copy_in(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 554, in copy_in
+  File "asyncpg/protocol/protocol.pyx", line 501, in asyncpg.protocol.protocol.BaseProtocol.copy_in
+  File "asyncpg/protocol/codecs/base.pyx", line 251, in asyncpg.protocol.protocol.Codec.encode
+  File "asyncpg/protocol/codecs/base.pyx", line 153, in asyncpg.protocol.protocol.Codec.encode_scalar
+  File "asyncpg/pgproto/codecs/datetime.pyx", line 147, in asyncpg.pgproto.pgproto.timestamp_encode
+TypeError: expected a datetime.date or datetime.datetime instance, got 'str'
+2026-04-07 14:40:30 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración Oracle -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-07 14:40:30 | DEBUG    | E24455144    | CALCULATION-SERVICE | Ejecutando SELECT en Oracle CRM36...
+2026-04-07 14:41:48 | INFO     | E24455144    | CALCULATION-SERVICE | Oracle respondió con 152690 registros.
+2026-04-07 14:41:48 | WARNING  | E24455144    | CALCULATION-SERVICE | Ejecutando TRUNCATE en scc_user.operations
+2026-04-07 14:41:48 | DEBUG    | E24455144    | CALCULATION-SERVICE | Cargando datos masivos a PostgreSQL...
+2026-04-07 14:41:48 | ERROR    | E24455144    | CALCULATION-SERVICE | Error crítico en migración de activaciones: expected str, got float
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 276, in migrar_activaciones_oracle_to_pg
+    await pg_conn.copy_records_to_table(
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1127, in copy_records_to_table
+    return await self._protocol.copy_in(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 554, in copy_in
+  File "asyncpg/protocol/protocol.pyx", line 501, in asyncpg.protocol.protocol.BaseProtocol.copy_in
+  File "asyncpg/protocol/codecs/base.pyx", line 251, in asyncpg.protocol.protocol.Codec.encode
+  File "asyncpg/protocol/codecs/base.pyx", line 153, in asyncpg.protocol.protocol.Codec.encode_scalar
+  File "asyncpg/pgproto/codecs/text.pyx", line 29, in asyncpg.pgproto.pgproto.text_encode
+  File "asyncpg/pgproto/codecs/text.pyx", line 12, in asyncpg.pgproto.pgproto.as_pg_string_and_size
+TypeError: expected str, got float
+2026-04-07 14:49:53 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración Oracle -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-07 14:49:53 | DEBUG    | E24455144    | CALCULATION-SERVICE | Ejecutando SELECT en Oracle CRM36...
+2026-04-07 14:51:10 | INFO     | E24455144    | CALCULATION-SERVICE | Oracle respondió con 152690 registros.
+2026-04-07 14:51:10 | WARNING  | E24455144    | CALCULATION-SERVICE | Ejecutando TRUNCATE en scc_user.operations
+2026-04-07 14:51:10 | DEBUG    | E24455144    | CALCULATION-SERVICE | Cargando datos masivos a PostgreSQL...
+2026-04-07 14:51:10 | ERROR    | E24455144    | CALCULATION-SERVICE | Error crítico en migración de activaciones: expected str, got float
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 276, in migrar_activaciones_oracle_to_pg
+    await pg_conn.copy_records_to_table(
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1127, in copy_records_to_table
+    return await self._protocol.copy_in(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 554, in copy_in
+  File "asyncpg/protocol/protocol.pyx", line 501, in asyncpg.protocol.protocol.BaseProtocol.copy_in
+  File "asyncpg/protocol/codecs/base.pyx", line 251, in asyncpg.protocol.protocol.Codec.encode
+  File "asyncpg/protocol/codecs/base.pyx", line 153, in asyncpg.protocol.protocol.Codec.encode_scalar
+  File "asyncpg/pgproto/codecs/text.pyx", line 29, in asyncpg.pgproto.pgproto.text_encode
+  File "asyncpg/pgproto/codecs/text.pyx", line 12, in asyncpg.pgproto.pgproto.as_pg_string_and_size
+TypeError: expected str, got float
+2026-04-07 14:57:09 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración Oracle -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-07 14:57:09 | DEBUG    | E24455144    | CALCULATION-SERVICE | Ejecutando SELECT en Oracle CRM36...
+2026-04-07 14:58:26 | INFO     | E24455144    | CALCULATION-SERVICE | Oracle respondió con 152690 registros.
+2026-04-07 14:58:26 | WARNING  | E24455144    | CALCULATION-SERVICE | Ejecutando TRUNCATE en scc_user.operations
+2026-04-07 14:58:26 | DEBUG    | E24455144    | CALCULATION-SERVICE | Cargando datos masivos a PostgreSQL...
+2026-04-07 14:58:27 | INFO     | E24455144    | CALCULATION-SERVICE | Migración finalizada exitosamente.
+2026-04-07 23:20:26 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-14
+2026-04-07 23:20:26 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-07 23:20:26 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-07 23:20:44 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-14
+2026-04-07 23:20:44 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-07 23:20:45 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-07 23:20:55 | INFO     | admin        | CALCULATION-SERVICE | Generando reporte Excel comisionable...
+2026-04-07 23:20:55 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Ventas
+2026-04-07 23:20:55 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Cambios
+2026-04-07 23:20:55 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: Reemplazos
+2026-04-07 23:20:55 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando datos para hoja: C2P
+2026-04-07 23:21:32 | INFO     | admin        | CALCULATION-SERVICE | Reporte Excel generado y enviado.
+2026-04-07 23:29:19 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2023-03-15
+2026-04-07 23:29:19 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-07 23:29:19 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-07 23:29:37 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2023-03-15
+2026-04-07 23:29:37 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-07 23:29:37 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-07 23:39:27 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2023-03-16
+2026-04-07 23:39:27 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-07 23:39:27 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-07 23:39:46 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2023-03-16
+2026-04-07 23:39:46 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-07 23:39:46 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-07 23:45:45 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2023-03-17
+2026-04-07 23:45:45 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-07 23:45:45 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-07 23:46:00 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2023-03-17
+2026-04-07 23:46:00 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-07 23:46:01 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-07 23:49:24 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-18
+2026-04-07 23:49:24 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-07 23:49:24 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-07 23:49:26 | ERROR    | admin        | CALCULATION-SERVICE | Error crítico en ejecutar-calculo: la sintaxis de entrada no es válida para tipo numeric: «»
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 105, in ejecutar_proceso_calculo
+    await conn.execute("CALL scc_user.sp_motor_calculo()", timeout=300)
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 354, in execute
+    result = await self._protocol.query(query, timeout)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 369, in query
+asyncpg.exceptions.InvalidTextRepresentationError: la sintaxis de entrada no es válida para tipo numeric: «»
+2026-04-07 23:50:25 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-18
+2026-04-07 23:50:25 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-07 23:50:25 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-07 23:50:41 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-18
+2026-04-07 23:50:41 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-07 23:50:41 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-07 23:53:32 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-19
+2026-04-07 23:53:32 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-07 23:53:32 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-07 23:53:48 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-19
+2026-04-07 23:53:48 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-07 23:53:48 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.

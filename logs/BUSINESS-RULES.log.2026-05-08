@@ -1,0 +1,18 @@
+2026-05-08 16:17:00 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-05-08 16:17:00 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-05-08 16:17:00 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-05-08 16:17:00 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-05-08 16:17:00 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-05-08 16:17:00 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-05-08 16:17:00 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-05-08 16:17:00 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-05-08 16:17:01 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 24
+2026-05-08 16:17:01 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 18
+2026-05-08 16:22:45 | DEBUG    | E24455144    | BUSINESS-RULES  | CONSTRUCTOR: Generando regla para OT: OT-014. Origen: NOT:Datos Compartidos 100GB,Datos Compartidos 200GB,Digitel Plan Internet 5G,Inteligente Plus 12 GB,Inteligente Plus 30 GB FAP,Inteligente Plus 6 GB, Destino: Inteligente Plus 12 GB
+2026-05-08 16:22:45 | INFO     | E24455144    | BUSINESS-RULES  | Nueva Regla Lógica registrada para OT OT-014.
+2026-05-08 16:22:45 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-05-08 16:22:45 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 24
+2026-05-08 16:22:45 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-05-08 16:22:45 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-05-08 16:22:45 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-05-08 16:22:45 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 19

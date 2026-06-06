@@ -1,0 +1,198 @@
+2026-04-07 11:56:47 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 11:56:47 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-07 11:56:47 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 11:56:47 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 11:56:47 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 11:56:47 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 11:56:47 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-07 11:56:47 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-07 11:56:47 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-07 11:56:47 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-07 11:59:42 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 11:59:42 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-07 11:59:42 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 11:59:42 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 11:59:42 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 11:59:42 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 11:59:42 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-07 11:59:42 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-07 11:59:42 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-07 11:59:42 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-07 12:33:30 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:33:30 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-07 12:33:30 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:33:30 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:33:30 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:33:30 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 12:33:30 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-07 12:33:30 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-07 12:33:30 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-07 12:33:30 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-07 12:36:24 | DEBUG    | E24455144    | BUSINESS-RULES  | Petición de actualización de plan recibida: {'id_plan': 'P-192', 'id_instance_type': 'IT148', 'channel': 'AA', 'amount_to_pay': '8', 'amount_percentage': '60', 'change_who': 'E24455144', 'is_active': True}
+2026-04-07 12:36:24 | INFO     | E24455144    | BUSINESS-RULES  | Plan P-192 actualizado por E24455144. Estado activo: True
+2026-04-07 12:36:24 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:36:24 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-07 12:36:24 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:36:24 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:36:24 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:36:24 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 12:36:29 | DEBUG    | E24455144    | BUSINESS-RULES  | Petición de actualización de plan recibida: {'id_plan': 'P-192', 'id_instance_type': 'IT148', 'channel': 'AA', 'amount_to_pay': '8', 'amount_percentage': '60', 'change_who': 'E24455144', 'is_active': False}
+2026-04-07 12:36:29 | INFO     | E24455144    | BUSINESS-RULES  | Plan P-192 actualizado por E24455144. Estado activo: False
+2026-04-07 12:36:29 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:36:29 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:36:29 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:36:29 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-07 12:36:29 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:36:29 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 12:36:44 | DEBUG    | E24455144    | BUSINESS-RULES  | Petición de actualización de plan recibida: {'id_plan': 'P-192', 'id_instance_type': 'IT148', 'channel': 'AA', 'amount_to_pay': '10', 'amount_percentage': '60', 'change_who': 'E24455144', 'is_active': False}
+2026-04-07 12:36:44 | INFO     | E24455144    | BUSINESS-RULES  | Plan P-192 actualizado por E24455144. Estado activo: False
+2026-04-07 12:36:44 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:36:44 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-07 12:36:44 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:36:44 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:36:44 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:36:44 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 12:36:50 | DEBUG    | E24455144    | BUSINESS-RULES  | Petición de actualización de plan recibida: {'id_plan': 'P-192', 'id_instance_type': 'IT148', 'channel': 'AA', 'amount_to_pay': '8', 'amount_percentage': '60', 'change_who': 'E24455144', 'is_active': False}
+2026-04-07 12:36:50 | INFO     | E24455144    | BUSINESS-RULES  | Plan P-192 actualizado por E24455144. Estado activo: False
+2026-04-07 12:36:50 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:36:50 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-07 12:36:50 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:36:50 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:36:50 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:36:50 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 12:42:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Petición de actualización de plan recibida: {'id_plan': 'P-192', 'id_instance_type': 'IT148', 'channel': 'AA', 'amount_to_pay': '10', 'amount_percentage': '60', 'change_who': 'E24455144', 'is_active': False}
+2026-04-07 12:42:19 | INFO     | E24455144    | BUSINESS-RULES  | Plan P-192 actualizado por E24455144. Estado activo: False
+2026-04-07 12:42:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:42:19 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-07 12:42:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:42:19 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 12:42:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:42:19 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:42:34 | DEBUG    | E24455144    | BUSINESS-RULES  | Petición de actualización de plan recibida: {'id_plan': 'P-192', 'id_instance_type': 'IT148', 'channel': 'AA', 'amount_to_pay': '8', 'amount_percentage': '60', 'change_who': 'E24455144', 'is_active': False}
+2026-04-07 12:42:34 | INFO     | E24455144    | BUSINESS-RULES  | Plan P-192 actualizado por E24455144. Estado activo: False
+2026-04-07 12:42:34 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:42:34 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:42:34 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:42:34 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-07 12:42:35 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:42:35 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 12:53:36 | DEBUG    | E24455144    | BUSINESS-RULES  | Insertando nuevo plan en comisiones: P-194
+2026-04-07 12:53:36 | INFO     | E24455144    | BUSINESS-RULES  | Nuevo plan comisionable creado: P-194 por E24455144
+2026-04-07 12:53:36 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:53:36 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 12:53:36 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:53:36 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:53:36 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:53:36 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 12:53:46 | DEBUG    | E24455144    | BUSINESS-RULES  | Petición de actualización de plan recibida: {'id_plan': 'P-194', 'id_instance_type': 'IT148', 'channel': 'AI', 'amount_to_pay': '8', 'amount_percentage': '60', 'change_who': 'E24455144', 'is_active': False}
+2026-04-07 12:53:46 | INFO     | E24455144    | BUSINESS-RULES  | Plan P-194 actualizado por E24455144. Estado activo: False
+2026-04-07 12:53:46 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:53:46 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:53:46 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:53:46 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 12:53:46 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:53:46 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 12:53:49 | DEBUG    | E24455144    | BUSINESS-RULES  | Petición de actualización de plan recibida: {'id_plan': 'P-194', 'id_instance_type': 'IT148', 'channel': 'AI', 'amount_to_pay': '8', 'amount_percentage': '60', 'change_who': 'E24455144', 'is_active': True}
+2026-04-07 12:53:49 | INFO     | E24455144    | BUSINESS-RULES  | Plan P-194 actualizado por E24455144. Estado activo: True
+2026-04-07 12:53:49 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:53:49 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:53:49 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:53:49 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:53:49 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 12:53:49 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 12:53:53 | DEBUG    | E24455144    | BUSINESS-RULES  | Petición de actualización de plan recibida: {'id_plan': 'P-194', 'id_instance_type': 'IT148', 'channel': 'AI', 'amount_to_pay': '8', 'amount_percentage': '60', 'change_who': 'E24455144', 'is_active': False}
+2026-04-07 12:53:53 | INFO     | E24455144    | BUSINESS-RULES  | Plan P-194 actualizado por E24455144. Estado activo: False
+2026-04-07 12:53:53 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:53:53 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:53:53 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:53:53 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 12:53:53 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:53:53 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-07 12:55:46 | DEBUG    | E24455144    | BUSINESS-RULES  | CONSTRUCTOR: Generando regla para OT: OT-068. Origen: %, Destino: 
+2026-04-07 12:55:46 | INFO     | E24455144    | BUSINESS-RULES  | Nueva Regla Lógica registrada para OT OT-068.
+2026-04-07 12:55:46 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:55:46 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 12:55:46 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:55:46 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:55:46 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:55:46 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 11
+2026-04-07 12:59:40 | DEBUG    | E24455144    | BUSINESS-RULES  | CONSTRUCTOR: Generando regla para OT: OT-014. Origen: NOT:Inteligente Plus 6 GB,Inteligente Plus 12 GB,Datos Compartidos 200GB,Datos Compartidos 100GB, Destino: Inteligente Plus 6 GB
+2026-04-07 12:59:40 | INFO     | E24455144    | BUSINESS-RULES  | Nueva Regla Lógica registrada para OT OT-014.
+2026-04-07 12:59:40 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 12:59:40 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 12:59:40 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 12:59:40 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 12:59:40 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 12:59:40 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 12
+2026-04-07 13:02:39 | DEBUG    | E24455144    | BUSINESS-RULES  | CONSTRUCTOR: Generando regla para OT: OT-010. Origen: %, Destino: %
+2026-04-07 13:02:39 | INFO     | E24455144    | BUSINESS-RULES  | Nueva Regla Lógica registrada para OT OT-010.
+2026-04-07 13:02:39 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 13:02:39 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 13:02:39 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 13:02:39 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 13:02:39 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 13:02:39 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-07 23:28:35 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 23:28:35 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 23:28:35 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 23:28:35 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 23:28:35 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 23:28:35 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-07 23:28:35 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-07 23:28:35 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-07 23:28:35 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-07 23:28:35 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-07 23:48:09 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 23:48:09 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 23:48:09 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 23:48:09 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-07 23:48:09 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-07 23:48:09 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-07 23:48:09 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 23:48:09 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-07 23:48:10 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-07 23:48:10 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 23:48:44 | DEBUG    | admin        | BUSINESS-RULES  | Intentando actualizar regla lógica. Datos: {'operation_code': 'OT-071', 'rule_type': 'PLAN_RULE', 'amount_to_pay': '5', 'amount_percentege': '', 'description': 'prueba volte', 'description_original': 'prueba volte', 'origin_plan_pattern': '%', 'destination_plan_pattern': '', 'commissionable_flag': 'N'}
+2026-04-07 23:48:44 | INFO     | admin        | BUSINESS-RULES  | Regla OT-071 actualizada exitosamente.
+2026-04-07 23:48:44 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 23:48:44 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 23:48:44 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 23:48:44 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 23:48:44 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 23:48:44 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-07 23:49:58 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 23:49:58 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 23:49:58 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-07 23:49:58 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-07 23:49:58 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 23:49:58 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 23:49:58 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 23:49:58 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-07 23:49:58 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-07 23:49:58 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-07 23:50:13 | DEBUG    | admin        | BUSINESS-RULES  | Intentando actualizar regla lógica. Datos: {'operation_code': 'OT-071', 'rule_type': 'PLAN_RULE', 'amount_to_pay': '5', 'amount_percentege': '0', 'description': 'prueba volte', 'description_original': 'prueba volte', 'origin_plan_pattern': '%', 'destination_plan_pattern': '', 'commissionable_flag': 'N'}
+2026-04-07 23:50:13 | INFO     | admin        | BUSINESS-RULES  | Regla OT-071 actualizada exitosamente.
+2026-04-07 23:50:13 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 23:50:13 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 23:50:13 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 23:50:13 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 23:50:13 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 23:50:13 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-07 23:52:55 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 23:52:55 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 23:52:55 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 23:52:55 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-07 23:52:55 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-07 23:52:55 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13
+2026-04-07 23:52:55 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 23:52:55 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-07 23:52:55 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-07 23:52:55 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 23:53:03 | DEBUG    | admin        | BUSINESS-RULES  | Intentando actualizar regla lógica. Datos: {'operation_code': 'OT-071', 'rule_type': 'PLAN_RULE', 'amount_to_pay': '5', 'amount_percentege': '0', 'description': 'prueba volte', 'description_original': 'prueba volte', 'origin_plan_pattern': '%', 'destination_plan_pattern': '', 'commissionable_flag': 'Y'}
+2026-04-07 23:53:03 | INFO     | admin        | BUSINESS-RULES  | Regla OT-071 actualizada exitosamente.
+2026-04-07 23:53:03 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-07 23:53:03 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 20
+2026-04-07 23:53:03 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-07 23:53:03 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-07 23:53:03 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-07 23:53:03 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 13

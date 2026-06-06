@@ -1,0 +1,16 @@
+2026-04-30 11:20:53 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-04
+2026-04-30 11:20:53 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-30 11:20:56 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-01
+2026-04-30 11:20:56 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-30 11:21:06 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-01.xlsx
+2026-04-30 11:21:06 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 954 registros.
+2026-04-30 11:34:15 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-04
+2026-04-30 11:34:15 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-30 11:34:19 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-01
+2026-04-30 11:34:19 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-30 11:34:52 | INFO     | E24455144    | REPORT-SERVICE  | EXPORT RESUMEN: Usuario E24455144 solicita Excel detallado para 2026-01
+2026-04-30 11:34:52 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-01.xlsx
+2026-04-30 11:34:52 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Resumen_Detallado con 1317 registros.
+2026-04-30 11:40:57 | INFO     | E24455144    | REPORT-SERVICE  | EXPORT MONTO FIJO: Usuario E24455144 solicita reporte para 2026-01
+2026-04-30 11:40:58 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Reporte_Monto_Fijo_2026-01.xlsx
+2026-04-30 11:40:58 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Monto_Fijo_Postventa con 346 registros.

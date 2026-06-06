@@ -1,0 +1,155 @@
+2026-04-29 22:16:05 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 22:16:05 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 22:16:08 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-29 22:16:08 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 22:16:52 | INFO     | admin        | REPORT-SERVICE  | EXPORT RESUMEN: Usuario admin solicita Excel de resumen para 2026-01
+2026-04-29 22:16:53 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-01.xlsx
+2026-04-29 22:16:53 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Resumen con 1317 registros.
+2026-04-29 22:23:48 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 22:23:48 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 22:23:50 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-29 22:23:50 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 22:24:42 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 22:24:42 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 22:24:44 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-29 22:24:44 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 22:31:20 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 22:31:20 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 22:31:23 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-29 22:31:23 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 22:32:26 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 22:32:26 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 22:32:28 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-29 22:32:28 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 22:36:29 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 22:36:29 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 22:36:32 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 22:36:32 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 22:36:34 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-29 22:36:34 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 22:37:13 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 22:37:13 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 22:37:15 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-29 22:37:15 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 22:37:33 | INFO     | admin        | REPORT-SERVICE  | EXPORT RESUMEN: Usuario admin solicita Excel de resumen para 2026-01
+2026-04-29 22:37:33 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-01.xlsx
+2026-04-29 22:37:33 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Resumen con 1317 registros.
+2026-04-29 22:39:21 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-01.xlsx
+2026-04-29 22:39:21 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 954 registros.
+2026-04-29 22:40:02 | INFO     | admin        | REPORT-SERVICE  | Exportando Especiales periodo 2026-01
+2026-04-29 22:40:02 | WARNING  | admin        | REPORT-SERVICE  | Sin registros especiales para 01/2026
+2026-04-29 22:40:04 | INFO     | admin        | REPORT-SERVICE  | Exportando Especiales periodo 2026-01
+2026-04-29 22:40:04 | WARNING  | admin        | REPORT-SERVICE  | Sin registros especiales para 01/2026
+2026-04-29 22:42:37 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 22:42:37 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 22:42:42 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-29 22:42:42 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 22:42:46 | INFO     | admin        | REPORT-SERVICE  | EXPORT RESUMEN: Usuario admin solicita Excel de resumen para 2026-01
+2026-04-29 22:42:46 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-01.xlsx
+2026-04-29 22:42:46 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Resumen_General con 355 registros.
+2026-04-29 22:43:17 | INFO     | admin        | REPORT-SERVICE  | EXPORT RESUMEN: Usuario admin solicita Excel de resumen para 2026-01
+2026-04-29 22:43:18 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-01.xlsx
+2026-04-29 22:43:18 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Resumen_General con 355 registros.
+2026-04-29 22:44:52 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 22:44:52 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 22:44:55 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-29 22:44:55 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 22:44:57 | INFO     | admin        | REPORT-SERVICE  | EXPORT RESUMEN: Usuario admin solicita Excel detallado para 2026-01
+2026-04-29 22:44:57 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-01.xlsx
+2026-04-29 22:44:57 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Resumen_Detallado con 1317 registros.
+2026-04-29 23:17:26 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-29 23:17:26 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-29 23:17:37 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 23:17:37 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 23:17:40 | INFO     | admin        | REPORT-SERVICE  | EXPORT MONTO FIJO: Usuario admin solicita reporte para 2026-04
+2026-04-29 23:17:40 | ERROR    | admin        | REPORT-SERVICE  | Error en export-monto-fijo: structure of query does not match function result type
+DETAIL:  Returned type character varying(10) does not match expected type date in column "period_id" (position 4).
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\report_service\app\router.py", line 370, in export_monto_fijo
+    rows = await conn.fetch(query, start_date_obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 694, in fetch
+    return await self._execute(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1873, in _execute
+    result, _ = await self.__execute(
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1970, in __execute
+    result, stmt = await self._do_execute(
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 2033, in _do_execute
+    result = await executor(stmt, None)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 205, in bind_execute
+asyncpg.exceptions.DatatypeMismatchError: structure of query does not match function result type
+DETAIL:  Returned type character varying(10) does not match expected type date in column "period_id" (position 4).
+2026-04-29 23:17:44 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-29 23:17:44 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 23:18:11 | INFO     | admin        | REPORT-SERVICE  | EXPORT MONTO FIJO: Usuario admin solicita reporte para 2026-01
+2026-04-29 23:18:11 | ERROR    | admin        | REPORT-SERVICE  | Error en export-monto-fijo: structure of query does not match function result type
+DETAIL:  Returned type character varying(10) does not match expected type date in column "period_id" (position 4).
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\report_service\app\router.py", line 370, in export_monto_fijo
+    rows = await conn.fetch(query, start_date_obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 694, in fetch
+    return await self._execute(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1873, in _execute
+    result, _ = await self.__execute(
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1970, in __execute
+    result, stmt = await self._do_execute(
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 2033, in _do_execute
+    result = await executor(stmt, None)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 205, in bind_execute
+asyncpg.exceptions.DatatypeMismatchError: structure of query does not match function result type
+DETAIL:  Returned type character varying(10) does not match expected type date in column "period_id" (position 4).
+2026-04-29 23:18:21 | INFO     | admin        | REPORT-SERVICE  | EXPORTACIÓN: Usuario admin (ROL_0001) solicita reporte de comisiones para periodo 2026-01
+2026-04-29 23:18:21 | DEBUG    | admin        | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-29 23:18:22 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-01.xlsx
+2026-04-29 23:18:22 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 123580 registros.
+2026-04-29 23:19:53 | INFO     | admin        | REPORT-SERVICE  | EXPORT MONTO FIJO: Usuario admin solicita reporte para 2026-01
+2026-04-29 23:19:53 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Reporte_Monto_Fijo_2026-01.xlsx
+2026-04-29 23:19:53 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Monto_Fijo_Postventa con 346 registros.
+2026-04-29 23:20:47 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-03
+2026-04-29 23:20:47 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-03
+2026-04-29 23:20:49 | INFO     | admin        | REPORT-SERVICE  | EXPORT MONTO FIJO: Usuario admin solicita reporte para 2026-03
+2026-04-29 23:20:49 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Reporte_Monto_Fijo_2026-03.xlsx
+2026-04-29 23:20:49 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Monto_Fijo_Postventa con 349 registros.
+2026-04-29 23:29:11 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-29 23:29:11 | INFO     | agente1      | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 23:29:13 | INFO     | agente1      | REPORT-SERVICE  | EXPORT MONTO FIJO: Usuario agente1 solicita reporte para 2026-04
+2026-04-29 23:29:15 | INFO     | agente1      | REPORT-SERVICE  | EXPORT MONTO FIJO: Usuario agente1 solicita reporte para 2026-04
+2026-04-29 23:29:20 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-29 23:29:20 | INFO     | agente1      | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 23:29:22 | INFO     | agente1      | REPORT-SERVICE  | EXPORT MONTO FIJO: Usuario agente1 solicita reporte para 2026-01
+2026-04-29 23:29:25 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-02
+2026-04-29 23:29:25 | INFO     | agente1      | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-29 23:29:27 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-03
+2026-04-29 23:29:27 | INFO     | agente1      | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-03
+2026-04-29 23:29:29 | INFO     | agente1      | REPORT-SERVICE  | EXPORT MONTO FIJO: Usuario agente1 solicita reporte para 2026-03
+2026-04-29 23:29:33 | INFO     | agente1      | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-03.xlsx
+2026-04-29 23:29:55 | INFO     | agente1      | REPORT-SERVICE  | EXPORTACIÓN: Usuario agente1 (ROL_0002) solicita reporte de comisiones para periodo 2026-03
+2026-04-29 23:29:55 | DEBUG    | agente1      | REPORT-SERVICE  | Aplicando filtro de agente para: agente1
+2026-04-29 23:29:55 | WARNING  | agente1      | REPORT-SERVICE  | Sin datos para agente1 en el periodo 2026-03
+2026-04-29 23:30:56 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-01
+2026-04-29 23:30:57 | INFO     | agente1      | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-29 23:37:55 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-29 23:37:55 | INFO     | agente1      | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 23:38:01 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-03
+2026-04-29 23:38:01 | INFO     | agente1      | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-03
+2026-04-29 23:38:15 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-29 23:38:15 | INFO     | agente1      | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 23:40:12 | INFO     | agente1      | REPORT-SERVICE  | RESUMEN: Usuario agente1 solicita vista previa para periodo 2026-04
+2026-04-29 23:40:12 | INFO     | agente1      | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 23:41:03 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-29 23:41:03 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-29 23:41:07 | INFO     | admin        | REPORT-SERVICE  | EXPORT MONTO FIJO: Usuario admin solicita reporte para 2026-04
+2026-04-29 23:41:08 | INFO     | admin        | REPORT-SERVICE  | Exportando Especiales periodo 2026-04
+2026-04-29 23:41:08 | WARNING  | admin        | REPORT-SERVICE  | Sin registros especiales para 04/2026
+2026-04-29 23:41:10 | INFO     | admin        | REPORT-SERVICE  | EXPORTACIÓN: Usuario admin (ROL_0001) solicita reporte de comisiones para periodo 2026-04
+2026-04-29 23:41:10 | DEBUG    | admin        | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-29 23:41:10 | WARNING  | admin        | REPORT-SERVICE  | Sin datos para admin en el periodo 2026-04

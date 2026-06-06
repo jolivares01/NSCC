@@ -1,0 +1,60 @@
+2026-04-17 00:00:17 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Intentando actualizar regla lógica. Datos: {'operation_code': 'OT-001', 'rule_type': 'PLAN_RULE_AMOUNT', 'amount_to_pay': '30', 'amount_percentege': '0', 'description': 'pago de comisión monto fijo FWA', 'description_original': 'pago de comisión monto fijo FWA', 'origin_plan_pattern': None, 'destination_plan_pattern': None, 'commissionable_flag': 'N'}
+2026-04-17 00:00:17 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Regla OT-001 actualizada exitosamente.
+2026-04-17 00:00:17 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-17 00:00:17 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 23
+2026-04-17 00:00:17 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-17 00:00:17 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-17 00:00:17 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-17 00:00:17 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 18
+2026-04-17 00:00:46 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Intentando actualizar regla lógica. Datos: {'operation_code': 'OT-001', 'rule_type': 'PLAN_RULE_PERCENTAGE', 'amount_to_pay': '0', 'amount_percentege': '25', 'description': 'comisioón al 25% por incentivo', 'description_original': 'comisioón al 25% por incentivo', 'origin_plan_pattern': None, 'destination_plan_pattern': None, 'commissionable_flag': 'N'}
+2026-04-17 00:00:46 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Regla OT-001 actualizada exitosamente.
+2026-04-17 00:00:46 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-17 00:00:46 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-17 00:00:46 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 23
+2026-04-17 00:00:46 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-17 00:00:46 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-17 00:00:46 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 18
+2026-04-17 00:00:59 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Intentando actualizar regla lógica. Datos: {'operation_code': 'OT-001', 'rule_type': 'PLAN_RULE_PERCENTAGE', 'amount_to_pay': '0', 'amount_percentege': '25', 'description': 'comisioón al 25% por incentivo', 'description_original': 'comisioón al 25% por incentivo', 'origin_plan_pattern': None, 'destination_plan_pattern': None, 'commissionable_flag': 'Y'}
+2026-04-17 00:00:59 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Regla OT-001 actualizada exitosamente.
+2026-04-17 00:00:59 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-17 00:00:59 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 23
+2026-04-17 00:00:59 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-17 00:00:59 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-17 00:00:59 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-17 00:00:59 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 18
+2026-04-17 00:04:51 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-17 00:04:51 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-17 00:04:51 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-17 00:04:51 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-17 00:04:51 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-17 00:04:51 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 23
+2026-04-17 00:04:51 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-17 00:04:51 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-17 00:04:51 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-17 00:04:52 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 18
+2026-04-17 11:55:34 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-17 11:55:34 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 23
+2026-04-17 11:55:34 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-17 11:55:34 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-17 11:55:34 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-17 11:55:34 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 18
+2026-04-17 11:55:34 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-17 11:55:34 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-17 11:55:34 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-17 11:55:34 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-17 12:01:54 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Insertando nuevo plan en comisiones: P-215
+2026-04-17 12:01:54 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Nuevo plan comisionable creado: P-215 por E24455144
+2026-04-17 12:01:54 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-17 12:01:54 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 24
+2026-04-17 12:01:54 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-17 12:01:54 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-17 12:01:54 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-17 12:01:54 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 18
+2026-04-17 12:02:03 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Petición de actualización de plan recibida: {'id_plan': 'P-215', 'id_instance_type': 'IT152', 'channel': 'AA', 'amount_to_pay': '8', 'amount_percentage': '60', 'change_who': 'E24455144', 'is_active': False}
+2026-04-17 12:02:03 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Plan P-215 actualizado por E24455144. Estado activo: False
+2026-04-17 12:02:03 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-17 12:02:04 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-17 12:02:04 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-17 12:02:04 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 24
+2026-04-17 12:02:04 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-17 12:02:04 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 18

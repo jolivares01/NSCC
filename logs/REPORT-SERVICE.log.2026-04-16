@@ -1,0 +1,193 @@
+2026-04-16 21:47:29 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-16 21:47:39 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-16 21:50:16 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 21:50:18 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-16 21:55:22 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 21:55:23 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 21:55:30 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 21:57:32 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 21:57:44 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 21:58:14 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-16 22:01:00 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 22:01:00 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Usuario admin consulta incentivos para periodo 2026-04
+2026-04-16 22:01:04 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-03
+2026-04-16 22:01:04 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Usuario admin consulta incentivos para periodo 2026-03
+2026-04-16 22:01:16 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-03.xlsx
+2026-04-16 22:01:16 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 961 registros.
+2026-04-16 22:01:37 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-02
+2026-04-16 22:01:38 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Usuario admin consulta incentivos para periodo 2026-02
+2026-04-16 22:01:43 | ERROR    | admin        | REPORT-SERVICE  | Error exportando incentivos: 404: No hay incentivos calculados para este periodo
+2026-04-16 22:01:55 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-16 22:01:55 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Usuario admin consulta incentivos para periodo 2026-01
+2026-04-16 22:01:58 | ERROR    | admin        | REPORT-SERVICE  | Error exportando incentivos: 404: No hay incentivos calculados para este periodo
+2026-04-16 22:06:06 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 22:06:06 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Usuario admin consulta incentivos para periodo 2026-04
+2026-04-16 22:06:13 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 22:06:13 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Usuario admin consulta incentivos para periodo 2026-04
+2026-04-16 22:06:16 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-02
+2026-04-16 22:06:16 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Usuario admin consulta incentivos para periodo 2026-02
+2026-04-16 22:06:20 | ERROR    | admin        | REPORT-SERVICE  | Error exportando incentivos: invalid input for query argument $1: datetime.date(2026, 2, 1) (expected str, got date)
+2026-04-16 22:06:26 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-16 22:06:26 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Usuario admin consulta incentivos para periodo 2026-01
+2026-04-16 22:06:28 | ERROR    | admin        | REPORT-SERVICE  | Error exportando incentivos: invalid input for query argument $1: datetime.date(2026, 1, 1) (expected str, got date)
+2026-04-16 22:07:08 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-03
+2026-04-16 22:07:09 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Usuario admin consulta incentivos para periodo 2026-03
+2026-04-16 22:07:11 | ERROR    | admin        | REPORT-SERVICE  | Error exportando incentivos: invalid input for query argument $1: datetime.date(2026, 3, 1) (expected str, got date)
+2026-04-16 22:11:57 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-03.xlsx
+2026-04-16 22:11:57 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 961 registros.
+2026-04-16 22:20:32 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 22:20:33 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-16 22:20:38 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-03
+2026-04-16 22:20:38 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-03
+2026-04-16 22:20:59 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-02
+2026-04-16 22:20:59 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-16 22:21:03 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-02.xlsx
+2026-04-16 22:21:03 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 5 registros.
+2026-04-16 22:21:36 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-16 22:21:36 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-16 22:21:39 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-03
+2026-04-16 22:21:39 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-03
+2026-04-16 22:39:37 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 22:39:37 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-16 22:39:41 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-03
+2026-04-16 22:39:41 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-03
+2026-04-16 22:42:03 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-03.xlsx
+2026-04-16 22:42:03 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 961 registros.
+2026-04-16 22:50:41 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-16 22:50:41 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-16 22:50:51 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 22:50:51 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-16 22:50:55 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-03
+2026-04-16 22:50:55 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-03
+2026-04-16 22:51:10 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-02
+2026-04-16 22:51:10 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-16 22:51:13 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-16 22:51:13 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-16 22:51:15 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-01.xlsx
+2026-04-16 22:51:15 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 942 registros.
+2026-04-16 23:22:17 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 23:22:17 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-16 23:22:17 | ERROR    | admin        | REPORT-SERVICE  | Error en vista previa incentivos: los tipos character varying y integer no son coincidentes en COALESCE
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\report_service\app\router.py", line 290, in get_incentivos_ventas
+    rows = await conn.fetch(query, start_date_obj, 'OT-001')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 694, in fetch
+    return await self._execute(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1873, in _execute
+    result, _ = await self.__execute(
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1970, in __execute
+    result, stmt = await self._do_execute(
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 2033, in _do_execute
+    result = await executor(stmt, None)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 205, in bind_execute
+asyncpg.exceptions.DatatypeMismatchError: los tipos character varying y integer no son coincidentes en COALESCE
+2026-04-16 23:22:20 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-03
+2026-04-16 23:22:20 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-03
+2026-04-16 23:22:20 | ERROR    | admin        | REPORT-SERVICE  | Error en vista previa incentivos: los tipos character varying y integer no son coincidentes en COALESCE
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\report_service\app\router.py", line 290, in get_incentivos_ventas
+    rows = await conn.fetch(query, start_date_obj, 'OT-001')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 694, in fetch
+    return await self._execute(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1873, in _execute
+    result, _ = await self.__execute(
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1970, in __execute
+    result, stmt = await self._do_execute(
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 2033, in _do_execute
+    result = await executor(stmt, None)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 205, in bind_execute
+asyncpg.exceptions.DatatypeMismatchError: los tipos character varying y integer no son coincidentes en COALESCE
+2026-04-16 23:22:23 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-02
+2026-04-16 23:22:23 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-16 23:22:23 | ERROR    | admin        | REPORT-SERVICE  | Error en vista previa incentivos: los tipos character varying y integer no son coincidentes en COALESCE
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\report_service\app\router.py", line 290, in get_incentivos_ventas
+    rows = await conn.fetch(query, start_date_obj, 'OT-001')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 694, in fetch
+    return await self._execute(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1873, in _execute
+    result, _ = await self.__execute(
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1970, in __execute
+    result, stmt = await self._do_execute(
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 2033, in _do_execute
+    result = await executor(stmt, None)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 205, in bind_execute
+asyncpg.exceptions.DatatypeMismatchError: los tipos character varying y integer no son coincidentes en COALESCE
+2026-04-16 23:22:26 | ERROR    | admin        | REPORT-SERVICE  | Error exportando incentivos: los tipos character varying y integer no son coincidentes en COALESCE
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\report_service\app\router.py", line 316, in export_incentivos
+    rows = await conn.fetch(
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 694, in fetch
+    return await self._execute(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1873, in _execute
+    result, _ = await self.__execute(
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1970, in __execute
+    result, stmt = await self._do_execute(
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 2033, in _do_execute
+    result = await executor(stmt, None)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 205, in bind_execute
+asyncpg.exceptions.DatatypeMismatchError: los tipos character varying y integer no son coincidentes en COALESCE
+2026-04-16 23:23:13 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 23:23:13 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-16 23:23:16 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-02
+2026-04-16 23:23:16 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-16 23:23:18 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-02.xlsx
+2026-04-16 23:23:18 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 5 registros.
+2026-04-16 23:24:47 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 23:24:47 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-16 23:24:49 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-02
+2026-04-16 23:24:49 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-16 23:24:52 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-02.xlsx
+2026-04-16 23:24:52 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 5 registros.
+2026-04-16 23:25:35 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-16 23:25:35 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-16 23:25:37 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-02
+2026-04-16 23:25:37 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-16 23:25:42 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-02.xlsx
+2026-04-16 23:25:42 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 5 registros.
+2026-04-16 23:26:15 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-16 23:26:15 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-16 23:26:18 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-01.xlsx
+2026-04-16 23:26:18 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 942 registros.
+2026-04-16 23:46:42 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 23:46:42 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-16 23:46:48 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-03
+2026-04-16 23:46:48 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-03
+2026-04-16 23:47:34 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-16 23:47:34 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-16 23:47:38 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-03
+2026-04-16 23:47:38 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-03
+2026-04-16 23:47:41 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-02
+2026-04-16 23:47:41 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-16 23:47:48 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-16 23:47:49 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-16 23:48:01 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-02
+2026-04-16 23:48:01 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-16 23:48:03 | INFO     | admin        | REPORT-SERVICE  | EXPORTACIÓN: Usuario admin (ROL_0001) solicita reporte de comisiones para periodo 2026-02
+2026-04-16 23:48:03 | DEBUG    | admin        | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-16 23:48:03 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-02.xlsx
+2026-04-16 23:48:03 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 582 registros.
+2026-04-16 23:48:43 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-02.xlsx
+2026-04-16 23:48:43 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 5 registros.
+2026-04-16 23:49:52 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-01
+2026-04-16 23:49:52 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01

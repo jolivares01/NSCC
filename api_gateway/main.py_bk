@@ -1,0 +1,38 @@
+from fastapi import FastAPI
+from starlette.middleware.cors import CORSMiddleware
+
+# Importar router y ciclo de vida del servicio de usuarios
+from user_service.app.router import router as user_router
+from user_service.app.database import create_db_pool, close_db_pool
+
+app = FastAPI(title="API Gateway SCC")
+
+# CORS
+origins = [
+    "http://localhost:8000",
+    "http://127.0.0.1:8000",
+    "null",
+    "*"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Ciclo de vida del gateway: inicializa el pool del servicio de usuarios
+@app.on_event("startup")
+async def startup():
+    print("Inicializando pool de conexiones para user_service desde el gateway...")
+    await create_db_pool(app)
+
+@app.on_event("shutdown")
+async def shutdown():
+    print("Cerrando pool de conexiones para user_service desde el gateway...")
+    await close_db_pool(app)
+
+# Montar el router del servicio de usuarios
+app.include_router(user_router, prefix="/api", tags=["Usuarios"])

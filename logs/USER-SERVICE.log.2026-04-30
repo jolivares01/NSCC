@@ -1,0 +1,13 @@
+2026-04-30 11:43:24 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-30 11:43:24 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-04-30 11:44:11 | INFO     | SYSTEM       | USER-SERVICE    | REGISTRO: Iniciando proceso para usuario 'E09027436' solicitado por 'ADMIN_TEST'
+2026-04-30 11:44:11 | DEBUG    | SYSTEM       | USER-SERVICE    | Parámetros SP registrar_usuario: ('Nacional', 'Corporativo', 'E09027436', 'ROL_0001', 'ADMIN_TEST', 'INTERNO', None, 'CO')
+2026-04-30 11:44:11 | INFO     | SYSTEM       | USER-SERVICE    | REGISTRO EXITOSO: Usuario 'E09027436' creado correctamente.
+2026-04-30 11:44:16 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de tipos de usuario.
+2026-04-30 11:44:16 | DEBUG    | SYSTEM       | USER-SERVICE    | Consultando catálogo de canales.
+2026-04-30 11:44:19 | INFO     | E09027436    | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'E09027436'
+2026-04-30 11:44:19 | INFO     | E09027436    | USER-SERVICE    | Consulta finalizada. Usuario 'E09027436' encontrado.
+2026-04-30 11:44:26 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: E09027436
+2026-04-30 11:47:23 | INFO     | BOL_4_1      | USER-SERVICE    | CONSULTA: Buscando información detallada del usuario 'BOL_4_1'
+2026-04-30 11:47:23 | INFO     | BOL_4_1      | USER-SERVICE    | Consulta finalizada. Usuario 'BOL_4_1' encontrado.
+2026-04-30 11:47:32 | DEBUG    | SYSTEM       | USER-SERVICE    | Buscando datos completos para edición del usuario: BOL_4_1

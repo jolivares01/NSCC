@@ -1,0 +1,9 @@
+2026-04-13 07:54:28 | DEBUG    | admin        | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-13 07:54:28 | INFO     | admin        | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-13 07:54:28 | DEBUG    | admin        | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-13 07:55:51 | DEBUG    | agente1      | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0002
+2026-04-13 07:55:51 | INFO     | agente1      | ROL-SERVICE     | Permisos cargados para ROL_0002: 2 rutas autorizadas.
+2026-04-13 07:55:51 | DEBUG    | agente1      | ROL-SERVICE     | Paths autorizados para ROL_0002: ['reportes', 'gestion-reclamos']
+2026-04-13 07:56:11 | DEBUG    | admin        | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-13 07:56:11 | INFO     | admin        | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-13 07:56:11 | DEBUG    | admin        | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']

@@ -1,0 +1,11 @@
+2026-04-15 09:10:26 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-15 09:35:12 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración de recargas desde CRMGOLD
+2026-04-15 09:57:10 | INFO     | E24455144    | CALCULATION-SERVICE | Migración finalizada. Registros insertados: 35182205
+2026-04-15 11:13:33 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-97
+2026-04-15 11:13:33 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-15 11:13:33 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-15 11:15:40 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-97
+2026-04-15 11:15:40 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-15 11:15:41 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Lista de publicación cargada: 356 agentes encontrados.
+2026-04-15 12:46:46 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-15 12:48:07 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Reporte Excel generado con 139906 registros.

@@ -1,0 +1,23 @@
+2026-04-05 22:22:23 | INFO     | admin        | CALCULATION-SERVICE | Iniciando migración Oracle -> PG desde 01.03.2026 hasta 31.03.2026
+2026-04-05 22:22:26 | ERROR    | admin        | CALCULATION-SERVICE | Error crítico en migración de activaciones: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 217, in migrar_activaciones_oracle_to_pg
+    conn_ora = oracledb.connect(
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 1698, in connect
+    return conn_class(dsn=dsn, pool=pool, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\oracledb\connection.py", line 892, in __init__
+    impl.connect(params_impl)
+  File "src/oracledb/impl/thin/connection.pyx", line 526, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 522, in oracledb.thin_impl.ThinConnImpl.connect
+  File "src/oracledb/impl/thin/connection.pyx", line 461, in oracledb.thin_impl.ThinConnImpl._connect_with_params
+  File "src/oracledb/impl/base/connect_params.pyx", line 1094, in oracledb.base_impl.DescriptionList.set_active_children
+  File "src/oracledb/impl/base/connect_params.pyx", line 656, in oracledb.base_impl.ConnectParamsNode._set_active_children
+  File "src/oracledb/impl/base/connect_params.pyx", line 656, in oracledb.base_impl.ConnectParamsNode._set_active_children
+  File "src/oracledb/impl/base/connect_params.pyx", line 777, in oracledb.base_impl.AddressList._set_active_children
+  File "src/oracledb/impl/base/connect_params.pyx", line 723, in oracledb.base_impl.Address.resolve_host_name
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed

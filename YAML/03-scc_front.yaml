@@ -1,0 +1,105 @@
+---
+# 4. PV - FRONT LOGS
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv-scc-front-logs
+spec:
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadWriteMany
+  nfs:
+    server: 10.192.150.26
+    path: /logs/scc/scc-front
+  persistentVolumeReclaimPolicy: Retain
+
+---
+# 5. PVC - FRONT LOGS
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: pvc-scc-front-logs
+  namespace: comisiones
+spec:
+  accessModes:
+    - ReadWriteMany
+  resources:
+    requests:
+      storage: 1Gi
+  volumeName: pv-scc-front-logs
+
+---
+# 6. SERVICE - FRONT (ENTRYPOINT)
+apiVersion: v1
+kind: Service
+metadata:
+  name: scc-front-service
+  namespace: comisiones
+  labels:
+    app: scc-front
+    uso: web_publica
+spec:
+  type: LoadBalancer
+  selector:
+    app: scc-front
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+
+---
+# 7. DEPLOYMENT - FRONT (VUE.JS + NGINX)
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: scc-front
+  namespace: comisiones
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: scc-front
+  template:
+    metadata:
+      labels:
+        app: scc-front
+        encargado: dominio_crm
+        api: SCC.Front.UI
+    spec:
+      containers:
+        - name: scc-front
+          image: cfregistryvp01.corp.digitel.com.ve:444/scc-front:1.0.0
+          ports:
+            - containerPort: 80
+          resources:
+            requests:
+              cpu: "50m"
+              memory: "128Mi"
+            limits:
+              cpu: "200m"
+              memory: "256Mi"
+          env:
+            # Hereda TZ y Proxies del ConfigMap Global
+            - name: TZ
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: TZ
+            - name: http_proxy
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: http_proxy
+            - name: https_proxy
+              valueFrom:
+                configMapKeyRef:
+                  name: scc-config-global
+                  key: https_proxy
+          volumeMounts:
+            - name: logs
+              mountPath: /var/log/nginx
+      volumes:
+        - name: logs
+          persistentVolumeClaim:
+            claimName: pvc-scc-front-logs

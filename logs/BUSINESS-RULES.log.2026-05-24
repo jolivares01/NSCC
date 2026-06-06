@@ -1,0 +1,10 @@
+2026-05-24 20:45:53 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-05-24 20:45:53 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 24
+2026-05-24 20:45:53 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-05-24 20:45:53 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-05-24 20:45:53 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-05-24 20:45:53 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 19
+2026-05-24 20:45:53 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-05-24 20:45:53 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-05-24 20:45:53 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-05-24 20:45:53 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.

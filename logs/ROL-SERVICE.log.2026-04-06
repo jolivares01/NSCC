@@ -1,0 +1,12 @@
+2026-04-06 07:42:57 | DEBUG    | E24455144    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-06 07:42:57 | INFO     | E24455144    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-06 07:42:57 | DEBUG    | E24455144    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-06 09:53:52 | DEBUG    | E24455144    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-06 09:53:52 | INFO     | E24455144    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-06 09:53:52 | DEBUG    | E24455144    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-06 09:57:50 | DEBUG    | OATEC38      | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0002
+2026-04-06 09:57:50 | INFO     | OATEC38      | ROL-SERVICE     | Permisos cargados para ROL_0002: 2 rutas autorizadas.
+2026-04-06 09:57:50 | DEBUG    | OATEC38      | ROL-SERVICE     | Paths autorizados para ROL_0002: ['reportes', 'gestion-reclamos']
+2026-04-06 09:58:37 | DEBUG    | E24455144    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-06 09:58:37 | INFO     | E24455144    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-06 09:58:37 | DEBUG    | E24455144    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']

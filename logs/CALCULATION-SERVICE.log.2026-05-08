@@ -1,0 +1,12 @@
+2026-05-08 15:43:20 | INFO     | E24455144    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2025-05-02
+2026-05-08 15:43:20 | DEBUG    | E24455144    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-05-08 15:43:20 | INFO     | E24455144    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-05-08 15:45:18 | INFO     | E24455144    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2025-05-02
+2026-05-08 15:45:18 | DEBUG    | E24455144    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-05-08 15:45:18 | INFO     | E24455144    | CALCULATION-SERVICE | Lista de publicación cargada: 356 agentes encontrados.
+2026-05-08 15:47:13 | INFO     | E24455144    | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-05-08 15:48:31 | INFO     | E24455144    | CALCULATION-SERVICE | Reporte Excel generado con 130361 registros.
+2026-05-08 16:00:11 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando publicación para periodo 2025-05-02. Total agentes: 356
+2026-05-08 16:00:11 | DEBUG    | E24455144    | CALCULATION-SERVICE | Ejecutando sp_operations_history...
+2026-05-08 16:00:12 | DEBUG    | E24455144    | CALCULATION-SERVICE | Actualizando flag de publicación para 356 agentes.
+2026-05-08 16:00:15 | INFO     | E24455144    | CALCULATION-SERVICE | Publicación exitosa para el periodo 2025-05-02

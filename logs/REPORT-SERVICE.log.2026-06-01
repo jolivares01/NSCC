@@ -1,0 +1,114 @@
+2026-06-01 09:55:50 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-06-01 09:56:03 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-06
+2026-06-01 09:56:03 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-06
+2026-06-01 09:56:06 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-06-01 09:56:06 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-06-01 09:56:13 | INFO     | admin        | REPORT-SERVICE  | EXPORTACIÓN: Usuario admin (ROL_0001) solicita reporte de comisiones para periodo 2026-04
+2026-06-01 09:56:13 | DEBUG    | admin        | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-06-01 09:56:17 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-04.xlsx
+2026-06-01 09:56:17 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 130361 registros.
+2026-06-01 14:53:58 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-06-01 14:53:58 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-06-01 14:54:10 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-06
+2026-06-01 14:54:10 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-06
+2026-06-01 14:54:36 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-06-01 14:54:36 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-06-01 21:01:39 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-06-01 21:01:39 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-06-01 21:01:54 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-06
+2026-06-01 21:01:54 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-06
+2026-06-01 21:01:57 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-06-01 21:01:57 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-06-01 21:23:54 | INFO     | admin        | REPORT-SERVICE  | EXPORTACIÓN: Usuario admin (ROL_0001) solicita reporte de comisiones para periodo 2026-04
+2026-06-01 21:23:54 | DEBUG    | admin        | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-06-01 21:23:55 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-04.xlsx
+2026-06-01 21:23:55 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 125808 registros.
+2026-06-01 21:25:49 | INFO     | admin        | REPORT-SERVICE  | CONSULTA INDIVIDUAL: Usuario admin (ROL_0001) consulta SP consolidado para Agente: CAR_64598_1 en Periodo: 2026-04
+2026-06-01 21:25:51 | WARNING  | admin        | REPORT-SERVICE  | Sin registros en SP para el agente CAR_64598_1 en el periodo 2026-04
+2026-06-01 21:26:24 | INFO     | admin        | REPORT-SERVICE  | CONSULTA INDIVIDUAL: Usuario admin (ROL_0001) consulta SP consolidado para Agente: CAR_64598_1 en Periodo: 2026-04
+2026-06-01 21:26:26 | WARNING  | admin        | REPORT-SERVICE  | Sin registros en SP para el agente CAR_64598_1 en el periodo 2026-04
+2026-06-01 21:53:09 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) consulta periodo Front: 2026-06 para Agente: CAR_64598_1
+2026-06-01 21:53:09 | ERROR    | admin        | REPORT-SERVICE  | Error crítico ejecutando sp_consulta_comisiones_por_mes: la referencia a la columna «period_id» es ambigua
+DETAIL:  Podría referirse tanto a una variable PL/pgSQL como a una columna de una tabla.
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\report_service\app\router.py", line 429, in get_comisiones_agente_total
+    rows = await conn.fetch(query, ano_int, mes_int, agente_a_consultar)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 694, in fetch
+    return await self._execute(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1873, in _execute
+    result, _ = await self.__execute(
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1970, in __execute
+    result, stmt = await self._do_execute(
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 2033, in _do_execute
+    result = await executor(stmt, None)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 205, in bind_execute
+asyncpg.exceptions.AmbiguousColumnError: la referencia a la columna «period_id» es ambigua
+DETAIL:  Podría referirse tanto a una variable PL/pgSQL como a una columna de una tabla.
+2026-06-01 21:53:15 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) consulta periodo Front: 2026-04 para Agente: CAR_64598_1
+2026-06-01 21:53:15 | ERROR    | admin        | REPORT-SERVICE  | Error crítico ejecutando sp_consulta_comisiones_por_mes: la referencia a la columna «period_id» es ambigua
+DETAIL:  Podría referirse tanto a una variable PL/pgSQL como a una columna de una tabla.
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\report_service\app\router.py", line 429, in get_comisiones_agente_total
+    rows = await conn.fetch(query, ano_int, mes_int, agente_a_consultar)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 694, in fetch
+    return await self._execute(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1873, in _execute
+    result, _ = await self.__execute(
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1970, in __execute
+    result, stmt = await self._do_execute(
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 2033, in _do_execute
+    result = await executor(stmt, None)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 205, in bind_execute
+asyncpg.exceptions.AmbiguousColumnError: la referencia a la columna «period_id» es ambigua
+DETAIL:  Podría referirse tanto a una variable PL/pgSQL como a una columna de una tabla.
+2026-06-01 21:58:38 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) consulta periodo Front: 2026-04 para Agente: CAR_64598_1
+2026-06-01 22:06:18 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) consulta periodo Front: 2026-04 para Agente: CAR_64598_1
+2026-06-01 22:07:07 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) consulta periodo Front: 2026-02 para Agente: CAR_64598_1
+2026-06-01 22:09:09 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) consulta periodo Front: 2026-07 para Agente: CAR_64598_1
+2026-06-01 22:09:09 | WARNING  | admin        | REPORT-SERVICE  | Sin registros en el mes 2026-7 para el agente CAR_64598_1
+2026-06-01 22:09:13 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) consulta periodo Front: 2026-04 para Agente: CAR_64598_1
+2026-06-01 22:10:34 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) consulta periodo Front: 2026-04 para Agente: CAR_64598_1
+2026-06-01 22:10:43 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) consulta periodo Front: 2026-02 para Agente: CAR_64598_1
+2026-06-01 22:20:15 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) consulta periodo Front: 2026-06 para Agente: CAR_64598_1
+2026-06-01 22:20:15 | WARNING  | admin        | REPORT-SERVICE  | Sin registros en el mes 2026-6 para el agente CAR_64598_1
+2026-06-01 22:20:24 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) consulta periodo Front: 2026-04 para Agente: CAR_64598_1
+2026-06-01 23:08:20 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-06-01 23:08:49 | INFO     | agente1      | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario agente1 (ROL_0002) consulta periodo Front: 2026-01 para Agente: CAR_64598_1
+2026-06-01 23:08:49 | WARNING  | agente1      | REPORT-SERVICE  | Acceso bloqueado: El usuario agente1 intentó consultar al agente CAR_64598_1
+2026-06-01 23:08:53 | INFO     | agente1      | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario agente1 (ROL_0002) consulta periodo Front: 2026-02 para Agente: CAR_64598_1
+2026-06-01 23:08:53 | WARNING  | agente1      | REPORT-SERVICE  | Acceso bloqueado: El usuario agente1 intentó consultar al agente CAR_64598_1
+2026-06-01 23:12:28 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-06
+2026-06-01 23:12:28 | WARNING  | admin        | REPORT-SERVICE  | Sin registros en 2026-6 para el agente APU_38357_2
+2026-06-01 23:12:31 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-04
+2026-06-01 23:13:27 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-04
+2026-06-01 23:21:10 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-01
+2026-06-01 23:23:22 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-06
+2026-06-01 23:23:22 | WARNING  | admin        | REPORT-SERVICE  | Sin registros en 2026-6 para el agente agente1
+2026-06-01 23:23:26 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-01
+2026-06-01 23:28:11 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-01
+2026-06-01 23:31:28 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-06
+2026-06-01 23:31:29 | WARNING  | admin        | REPORT-SERVICE  | Sin registros en 2026-6 para el agente agente1
+2026-06-01 23:31:33 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-01
+2026-06-01 23:32:47 | INFO     | agente1      | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario agente1 (ROL_0002) solicita periodo Front: 2026-06
+2026-06-01 23:32:47 | WARNING  | agente1      | REPORT-SERVICE  | Sin registros en 2026-6 para el agente agente1
+2026-06-01 23:32:50 | INFO     | agente1      | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario agente1 (ROL_0002) solicita periodo Front: 2026-01
+2026-06-01 23:33:06 | INFO     | agente1      | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario agente1 (ROL_0002) solicita periodo Front: 2026-06
+2026-06-01 23:33:06 | WARNING  | agente1      | REPORT-SERVICE  | Sin registros en 2026-6 para el agente agente1
+2026-06-01 23:33:14 | INFO     | agente1      | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario agente1 (ROL_0002) solicita periodo Front: 2026-01
+2026-06-01 23:33:36 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-06
+2026-06-01 23:33:36 | WARNING  | admin        | REPORT-SERVICE  | Sin registros en 2026-6 para el agente agente1
+2026-06-01 23:33:40 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-01
+2026-06-01 23:37:48 | INFO     | admin        | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario admin (ROL_0001) solicita periodo Front: 2026-02
+2026-06-01 23:39:49 | INFO     | agente1      | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario agente1 (ROL_0002) solicita periodo Front: 2026-06
+2026-06-01 23:39:49 | WARNING  | agente1      | REPORT-SERVICE  | Sin registros en 2026-6 para el agente agente1
+2026-06-01 23:39:54 | INFO     | agente1      | REPORT-SERVICE  | CONSULTA MENSUAL: Usuario agente1 (ROL_0002) solicita periodo Front: 2026-01

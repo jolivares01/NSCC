@@ -1,0 +1,81 @@
+2026-04-17 00:01:46 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-17 00:01:46 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-17 00:01:58 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-17 00:01:58 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-17 00:02:01 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-02
+2026-04-17 00:02:01 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-17 00:02:03 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Incentivos_2026-02.xlsx
+2026-04-17 00:02:03 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Incentivos_Ventas con 5 registros.
+2026-04-17 00:07:23 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-04-17 00:07:23 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-17 07:51:15 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-17 07:51:15 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-17 10:29:53 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-17 10:29:53 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-17 10:36:26 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-04
+2026-04-17 10:36:26 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-17 10:36:28 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-02
+2026-04-17 10:36:28 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-17 10:36:31 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-01
+2026-04-17 10:36:31 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-17 10:37:12 | INFO     | E24455144    | REPORT-SERVICE  | EXPORT RESUMEN: Usuario E24455144 solicita Excel de resumen para 2026-01
+2026-04-17 10:37:13 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-01.xlsx
+2026-04-17 10:37:13 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Resumen con 1317 registros.
+2026-04-17 12:09:55 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-17 12:09:55 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-17 12:10:13 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-04
+2026-04-17 12:10:13 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-17 12:10:25 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-01
+2026-04-17 12:10:25 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-17 12:19:48 | INFO     | ANZ_13672_   | REPORT-SERVICE  | RESUMEN: Usuario ANZ_13672_2 solicita vista previa para periodo 2026-04
+2026-04-17 12:19:48 | INFO     | ANZ_13672_   | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-17 12:19:54 | INFO     | ANZ_13672_   | REPORT-SERVICE  | RESUMEN: Usuario ANZ_13672_2 solicita vista previa para periodo 2026-01
+2026-04-17 12:19:54 | INFO     | ANZ_13672_   | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-17 12:20:32 | INFO     | ANZ_13672_   | REPORT-SERVICE  | EXPORT RESUMEN: Usuario ANZ_13672_2 solicita Excel de resumen para 2026-01
+2026-04-17 12:20:32 | INFO     | ANZ_13672_   | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-01.xlsx
+2026-04-17 12:20:32 | DEBUG    | ANZ_13672_   | REPORT-SERVICE  | Procesando hoja: Resumen con 4 registros.
+2026-04-17 12:21:23 | INFO     | ANZ_13672_   | REPORT-SERVICE  | RESUMEN: Usuario ANZ_13672_2 solicita vista previa para periodo 2026-04
+2026-04-17 12:21:23 | INFO     | ANZ_13672_   | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-17 12:21:31 | INFO     | ANZ_13672_   | REPORT-SERVICE  | RESUMEN: Usuario ANZ_13672_2 solicita vista previa para periodo 2026-01
+2026-04-17 12:21:31 | INFO     | ANZ_13672_   | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-17 12:21:40 | INFO     | ANZ_13672_   | REPORT-SERVICE  | RESUMEN: Usuario ANZ_13672_2 solicita vista previa para periodo 2026-02
+2026-04-17 12:21:40 | INFO     | ANZ_13672_   | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-17 12:21:42 | INFO     | ANZ_13672_   | REPORT-SERVICE  | RESUMEN: Usuario ANZ_13672_2 solicita vista previa para periodo 2026-01
+2026-04-17 12:21:42 | INFO     | ANZ_13672_   | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-17 12:22:04 | INFO     | ANZ_13672_   | REPORT-SERVICE  | EXPORTACIÓN: Usuario ANZ_13672_2 (ROL_0002) solicita reporte de comisiones para periodo 2026-01
+2026-04-17 12:22:04 | DEBUG    | ANZ_13672_   | REPORT-SERVICE  | Aplicando filtro de agente para: ANZ_13672_2
+2026-04-17 12:22:04 | INFO     | ANZ_13672_   | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-01.xlsx
+2026-04-17 12:22:04 | DEBUG    | ANZ_13672_   | REPORT-SERVICE  | Procesando hoja: Mis_Comisiones con 116 registros.
+2026-04-17 15:37:57 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-04
+2026-04-17 15:37:57 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-17 15:38:02 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-01
+2026-04-17 15:38:02 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-01
+2026-04-17 15:38:13 | INFO     | E24455144    | REPORT-SERVICE  | EXPORTACIÓN: Usuario E24455144 (ROL_0001) solicita reporte de comisiones para periodo 2026-01
+2026-04-17 15:38:13 | DEBUG    | E24455144    | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-17 15:38:15 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-01.xlsx
+2026-04-17 15:38:15 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 123580 registros.
+2026-04-17 15:39:44 | INFO     | E24455144    | REPORT-SERVICE  | EXPORT RESUMEN: Usuario E24455144 solicita Excel de resumen para 2026-01
+2026-04-17 15:39:44 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-01.xlsx
+2026-04-17 15:39:44 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Resumen con 1317 registros.
+2026-04-17 15:40:00 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-17 15:40:00 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-17 15:40:13 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-04
+2026-04-17 15:40:13 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-04-17 15:40:15 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-02
+2026-04-17 15:40:15 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-02
+2026-04-17 15:40:25 | INFO     | E24455144    | REPORT-SERVICE  | EXPORTACIÓN: Usuario E24455144 (ROL_0001) solicita reporte de comisiones para periodo 2026-02
+2026-04-17 15:40:25 | DEBUG    | E24455144    | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-17 15:40:26 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-02.xlsx
+2026-04-17 15:40:26 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 114451 registros.
+2026-04-17 15:45:35 | INFO     | E24455144    | REPORT-SERVICE  | EXPORT RESUMEN: Usuario E24455144 solicita Excel de resumen para 2026-02
+2026-04-17 15:45:35 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-02.xlsx
+2026-04-17 15:45:35 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Resumen con 1279 registros.
+2026-04-17 15:45:53 | INFO     | E24455144    | REPORT-SERVICE  | RESUMEN: Usuario E24455144 solicita vista previa para periodo 2026-03
+2026-04-17 15:45:53 | INFO     | E24455144    | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-03
+2026-04-17 15:45:56 | INFO     | E24455144    | REPORT-SERVICE  | EXPORTACIÓN: Usuario E24455144 (ROL_0001) solicita reporte de comisiones para periodo 2026-03
+2026-04-17 15:45:56 | DEBUG    | E24455144    | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-17 15:45:58 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-03.xlsx
+2026-04-17 15:45:58 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 140039 registros.
+2026-04-17 15:48:24 | INFO     | E24455144    | REPORT-SERVICE  | EXPORT RESUMEN: Usuario E24455144 solicita Excel de resumen para 2026-03
+2026-04-17 15:48:25 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-03.xlsx
+2026-04-17 15:48:25 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Resumen con 1320 registros.

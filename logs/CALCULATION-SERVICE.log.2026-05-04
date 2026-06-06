@@ -1,0 +1,4 @@
+2026-05-04 10:59:58 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.04.2026 hasta 30.04.2026
+2026-05-04 11:02:04 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.04.2026 hasta 30.04.2026
+2026-05-04 11:09:48 | INFO     | E24455144    | CALCULATION-SERVICE | Iniciando migración de recargas desde CRMGOLD
+2026-05-04 11:34:58 | INFO     | E24455144    | CALCULATION-SERVICE | Migración finalizada. Registros insertados: 32043837

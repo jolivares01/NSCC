@@ -1,0 +1,26 @@
+2026-04-09 21:40:02 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | Error de validación de JWT: Signature has expired
+2026-04-09 21:40:18 | INFO     | admin        | REPORT-SERVICE  | Usuario admin exportando Comisiones Especiales del periodo 2026-04
+2026-04-09 21:40:18 | WARNING  | admin        | REPORT-SERVICE  | Sin registros especiales encontrados para 04/2026
+2026-04-09 21:40:22 | INFO     | admin        | REPORT-SERVICE  | Usuario admin exportando Comisiones Especiales del periodo 2026-01
+2026-04-09 21:40:22 | WARNING  | admin        | REPORT-SERVICE  | Sin registros especiales encontrados para 01/2026
+2026-04-09 21:40:28 | INFO     | admin        | REPORT-SERVICE  | EXPORTACIÓN: Usuario admin (ROL_0001) solicita reporte de comisiones para periodo 2026-02
+2026-04-09 21:40:28 | DEBUG    | admin        | REPORT-SERVICE  | Generando reporte global (Sábana de Comisiones)
+2026-04-09 21:40:28 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-02.xlsx
+2026-04-09 21:40:28 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 582 registros.
+2026-04-09 21:41:33 | INFO     | admin        | REPORT-SERVICE  | EXPORTACIÓN: Usuario admin (ROL_0001) solicita reporte de comisiones para periodo 2026-01
+2026-04-09 21:41:33 | DEBUG    | admin        | REPORT-SERVICE  | Generando reporte global (Sábana de Comisiones)
+2026-04-09 21:41:34 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-01.xlsx
+2026-04-09 21:41:34 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 121700 registros.
+2026-04-09 22:26:59 | INFO     | INV_TOKEN    | REPORT-SERVICE  | EXPORTACIÓN: Usuario admin (ROL_0001) solicita reporte de comisiones para periodo 2026-01
+2026-04-09 22:26:59 | DEBUG    | INV_TOKEN    | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-09 22:27:00 | INFO     | INV_TOKEN    | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-01.xlsx
+2026-04-09 22:27:01 | DEBUG    | INV_TOKEN    | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 121700 registros.
+2026-04-09 23:58:51 | INFO     | E24455144    | REPORT-SERVICE  | EXPORTACIÓN: Usuario E24455144 (ROL_0001) solicita reporte de comisiones para periodo 2026-04
+2026-04-09 23:58:51 | DEBUG    | E24455144    | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-09 23:58:52 | WARNING  | E24455144    | REPORT-SERVICE  | Sin datos para E24455144 en el periodo 2026-04
+2026-04-09 23:58:53 | INFO     | E24455144    | REPORT-SERVICE  | Exportando Especiales periodo 2026-04
+2026-04-09 23:58:53 | WARNING  | E24455144    | REPORT-SERVICE  | Sin registros especiales para 04/2026
+2026-04-09 23:58:59 | INFO     | E24455144    | REPORT-SERVICE  | EXPORTACIÓN: Usuario E24455144 (ROL_0001) solicita reporte de comisiones para periodo 2026-02
+2026-04-09 23:58:59 | DEBUG    | E24455144    | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-09 23:58:59 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-02.xlsx
+2026-04-09 23:58:59 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 582 registros.

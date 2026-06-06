@@ -1,0 +1,14 @@
+2026-05-28 14:23:12 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-05
+2026-05-28 14:23:12 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-05
+2026-05-28 14:23:15 | INFO     | admin        | REPORT-SERVICE  | RESUMEN: Usuario admin solicita vista previa para periodo 2026-04
+2026-05-28 14:23:15 | INFO     | admin        | REPORT-SERVICE  | INCENTIVOS: Consulta vista previa para 2026-04
+2026-05-28 14:23:20 | INFO     | admin        | REPORT-SERVICE  | EXPORT RESUMEN: Usuario admin solicita Excel detallado para 2026-04
+2026-05-28 14:23:21 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-04.xlsx
+2026-05-28 14:23:21 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Resumen_Detallado con 1333 registros.
+2026-05-28 14:23:28 | INFO     | admin        | REPORT-SERVICE  | EXPORTACIÓN: Usuario admin (ROL_0001) solicita reporte de comisiones para periodo 2026-04
+2026-05-28 14:23:28 | DEBUG    | admin        | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-05-28 14:23:31 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-04.xlsx
+2026-05-28 14:23:31 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 130361 registros.
+2026-05-28 14:50:06 | INFO     | admin        | REPORT-SERVICE  | EXPORT RESUMEN: Usuario admin solicita Excel detallado para 2026-04
+2026-05-28 14:50:07 | INFO     | admin        | REPORT-SERVICE  | Generando archivo Excel: Resumen_Calculo_2026-04.xlsx
+2026-05-28 14:50:07 | DEBUG    | admin        | REPORT-SERVICE  | Procesando hoja: Resumen_Detallado con 1333 registros.

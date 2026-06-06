@@ -1,0 +1,17 @@
+2026-04-10 15:43:36 | INFO     | E24455144    | REPORT-SERVICE  | EXPORTACIÓN: Usuario E24455144 (ROL_0001) solicita reporte de comisiones para periodo 2026-01
+2026-04-10 15:43:36 | DEBUG    | E24455144    | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-10 15:43:38 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-01.xlsx
+2026-04-10 15:43:39 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 121700 registros.
+2026-04-10 15:49:18 | INFO     | E24455144    | REPORT-SERVICE  | Exportando Especiales periodo 2026-01
+2026-04-10 15:49:18 | WARNING  | E24455144    | REPORT-SERVICE  | Sin registros especiales para 01/2026
+2026-04-10 15:49:24 | INFO     | E24455144    | REPORT-SERVICE  | Exportando Especiales periodo 2026-02
+2026-04-10 15:49:24 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Especiales_2026-02.xlsx
+2026-04-10 15:49:24 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Especiales con 3640 registros.
+2026-04-10 16:52:27 | ERROR    | INV_TOKEN    | REPORT-SERVICE  | El token ha expirado.
+2026-04-10 16:52:45 | INFO     | E24455144    | REPORT-SERVICE  | EXPORTACIÓN: Usuario E24455144 (ROL_0001) solicita reporte de comisiones para periodo 2026-03
+2026-04-10 16:52:45 | DEBUG    | E24455144    | REPORT-SERVICE  | Generando reporte global (Sábana)
+2026-04-10 16:52:47 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Comisiones_2026-03.xlsx
+2026-04-10 16:52:47 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Sabana_Comisiones con 140552 registros.
+2026-04-10 17:03:32 | INFO     | E24455144    | REPORT-SERVICE  | Exportando Especiales periodo 2026-03
+2026-04-10 17:03:32 | INFO     | E24455144    | REPORT-SERVICE  | Generando archivo Excel: Especiales_2026-03.xlsx
+2026-04-10 17:03:32 | DEBUG    | E24455144    | REPORT-SERVICE  | Procesando hoja: Especiales con 4132 registros.

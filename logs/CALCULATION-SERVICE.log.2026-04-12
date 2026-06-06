@@ -1,0 +1,36 @@
+2026-04-12 12:58:21 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-100
+2026-04-12 12:58:21 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-12 12:58:21 | ERROR    | INV_TOKEN    | CALCULATION-SERVICE | Error crítico en ejecutar-calculo: el valor es demasiado largo para el tipo character varying(10)
+Traceback (most recent call last):
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\scc_services\calculation_service\app\router.py", line 94, in ejecutar_proceso_calculo
+    await conn.execute("INSERT INTO scc_user.commission_multiplication (period_id, amount, created_who) VALUES ($1, $2, 'JOLIVARES')", params.period_id, params.amount)
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 357, in execute
+    _, status, _ = await self._execute(
+                   ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1873, in _execute
+    result, _ = await self.__execute(
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 1970, in __execute
+    result, stmt = await self._do_execute(
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Lib\site-packages\asyncpg\connection.py", line 2033, in _do_execute
+    result = await executor(stmt, None)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg/protocol/protocol.pyx", line 205, in bind_execute
+asyncpg.exceptions.StringDataRightTruncationError: el valor es demasiado largo para el tipo character varying(10)
+2026-04-12 12:59:34 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-91
+2026-04-12 12:59:34 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-12 12:59:34 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-12 13:01:39 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-91
+2026-04-12 13:01:39 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-12 13:01:40 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-12 13:12:32 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-12 13:13:17 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Reporte Excel generado con 139906 registros.
+2026-04-12 17:25:03 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-03-92
+2026-04-12 17:25:03 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-04-12 17:25:03 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-04-12 17:27:06 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-03-92
+2026-04-12 17:27:06 | DEBUG    | INV_TOKEN    | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-04-12 17:27:06 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Lista de publicación cargada: 354 agentes encontrados.
+2026-04-12 17:27:17 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Generando reporte Excel unificado...
+2026-04-12 17:28:22 | INFO     | INV_TOKEN    | CALCULATION-SERVICE | Reporte Excel generado con 139906 registros.

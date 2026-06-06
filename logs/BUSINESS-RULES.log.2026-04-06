@@ -1,0 +1,66 @@
+2026-04-06 07:34:22 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-06 07:34:22 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-06 07:34:22 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-06 07:34:22 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-06 07:34:22 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-06 07:34:22 | INFO     | INV_TOKEN    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-06 07:34:22 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-06 07:34:22 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-06 07:34:22 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-06 07:34:22 | DEBUG    | INV_TOKEN    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-06 07:43:16 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-06 07:43:16 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-06 07:43:16 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-06 07:43:16 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-06 07:43:16 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-06 07:43:16 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-06 07:43:16 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-06 07:43:16 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-06 07:43:16 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-06 07:43:16 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-06 07:51:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-06 07:51:19 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-06 07:51:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-06 07:51:19 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-06 07:51:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-06 07:51:19 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-06 07:51:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-06 07:51:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-06 07:51:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-06 07:51:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-06 07:55:47 | DEBUG    | E24455144    | BUSINESS-RULES  | Intentando actualizar regla lógica. Datos: {'operation_code': 'OT-014', 'rule_type': 'PLAN_RULE', 'amount_to_pay': None, 'amount_percentege': None, 'description': 'Cualquier plan a 30 GB - Comisionable', 'description_original': 'Cualquier plan a 30 GB - Comisionable', 'origin_plan_pattern': '%', 'destination_plan_pattern': 'INTELIGENTE PLUS 30 GB', 'commissionable_flag': 'N'}
+2026-04-06 07:55:47 | INFO     | E24455144    | BUSINESS-RULES  | Regla OT-014 actualizada exitosamente.
+2026-04-06 07:55:47 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-06 07:55:47 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-06 07:55:47 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-06 07:55:47 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-06 07:55:47 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-06 07:55:47 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-06 07:55:52 | DEBUG    | E24455144    | BUSINESS-RULES  | Intentando actualizar regla lógica. Datos: {'operation_code': 'OT-014', 'rule_type': 'PLAN_RULE', 'amount_to_pay': None, 'amount_percentege': None, 'description': 'Cualquier plan a 30 GB - Comisionable', 'description_original': 'Cualquier plan a 30 GB - Comisionable', 'origin_plan_pattern': '%', 'destination_plan_pattern': 'INTELIGENTE PLUS 30 GB', 'commissionable_flag': 'Y'}
+2026-04-06 07:55:52 | INFO     | E24455144    | BUSINESS-RULES  | Regla OT-014 actualizada exitosamente.
+2026-04-06 07:55:52 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-06 07:55:52 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-06 07:55:52 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-06 07:55:52 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-06 07:55:52 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-06 07:55:52 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-06 09:51:31 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-06 09:51:31 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-06 09:51:31 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-06 09:51:31 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-06 09:51:31 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-06 09:51:31 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-06 09:51:31 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-06 09:51:31 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10
+2026-04-06 09:51:31 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-06 09:51:31 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-06 14:08:58 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-04-06 14:08:58 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-04-06 14:08:58 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-04-06 14:08:58 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-04-06 14:08:58 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-04-06 14:08:58 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
+2026-04-06 14:08:58 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 19
+2026-04-06 14:08:58 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-04-06 14:08:58 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-04-06 14:08:58 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 10

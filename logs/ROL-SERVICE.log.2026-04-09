@@ -1,0 +1,24 @@
+2026-04-09 21:40:11 | DEBUG    | admin        | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-09 21:40:11 | INFO     | admin        | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-09 21:40:11 | DEBUG    | admin        | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-09 22:26:50 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-09 22:26:50 | INFO     | INV_TOKEN    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-09 22:26:50 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-09 22:48:57 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-09 22:48:57 | INFO     | INV_TOKEN    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-09 22:48:57 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-09 22:54:01 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0002
+2026-04-09 22:54:01 | INFO     | INV_TOKEN    | ROL-SERVICE     | Permisos cargados para ROL_0002: 2 rutas autorizadas.
+2026-04-09 22:54:01 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Paths autorizados para ROL_0002: ['reportes', 'gestion-reclamos']
+2026-04-09 22:54:11 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-09 22:54:11 | INFO     | INV_TOKEN    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-09 22:54:11 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-09 22:58:27 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-09 22:58:27 | INFO     | INV_TOKEN    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-09 22:58:27 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-09 22:58:53 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-09 22:58:53 | INFO     | INV_TOKEN    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-09 22:58:53 | DEBUG    | INV_TOKEN    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']
+2026-04-09 23:31:58 | DEBUG    | E24455144    | ROL-SERVICE     | Solicitud de carga de permisos para el rol: ROL_0001
+2026-04-09 23:31:58 | INFO     | E24455144    | ROL-SERVICE     | Permisos cargados para ROL_0001: 11 rutas autorizadas.
+2026-04-09 23:31:58 | DEBUG    | E24455144    | ROL-SERVICE     | Paths autorizados para ROL_0001: ['dashboard', 'comisiones', 'activaciones', 'comisiones-especiales', 'calculo', 'registrar-usuario', 'gestion-usuarios', 'reportes', 'gestion-reclamos', 'parametros-negocio', 'consulta-recargas']

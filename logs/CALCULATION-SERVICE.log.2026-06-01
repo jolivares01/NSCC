@@ -1,0 +1,11 @@
+2026-06-01 15:48:35 | INFO     | admin        | CALCULATION-SERVICE | Iniciando migración SQL360 -> PG desde 01.04.2026 hasta 30.04.2026
+2026-06-01 15:50:00 | INFO     | admin        | CALCULATION-SERVICE | SOLICITUD DE CÁLCULO: Periodo 2026-05-02
+2026-06-01 15:50:00 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando parámetros de multiplicación.
+2026-06-01 15:50:00 | INFO     | admin        | CALCULATION-SERVICE | Ejecutando Procedimientos Almacenados del Motor...
+2026-06-01 15:51:55 | INFO     | admin        | CALCULATION-SERVICE | Proceso de cálculo finalizado exitosamente para 2026-05-02
+2026-06-01 15:51:55 | DEBUG    | admin        | CALCULATION-SERVICE | Consultando lista de agentes para publicación.
+2026-06-01 15:51:55 | INFO     | admin        | CALCULATION-SERVICE | Lista de publicación cargada: 359 agentes encontrados.
+2026-06-01 15:52:23 | INFO     | admin        | CALCULATION-SERVICE | Iniciando publicación para periodo 2026-05-02. Total agentes: 359
+2026-06-01 15:52:23 | DEBUG    | admin        | CALCULATION-SERVICE | Ejecutando sp_operations_history...
+2026-06-01 15:52:24 | DEBUG    | admin        | CALCULATION-SERVICE | Actualizando flag de publicación para 359 agentes.
+2026-06-01 15:52:26 | INFO     | admin        | CALCULATION-SERVICE | Publicación exitosa para el periodo 2026-05-02
