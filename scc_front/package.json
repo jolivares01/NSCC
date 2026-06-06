@@ -18,7 +18,7 @@
     "chart.js": "2.9.4",
     "eslint-plugin-vue": "9.11.0",
     "register-service-worker": "^1.7.2",
-    "vue": "2.7.14",
+    "vue": "2.7.16",
     "vue-chartjs": "3.5.1",
     "vue-i18n": "8.28.2",
     "vue-router": "3.6.5",
@@ -40,7 +40,14 @@
     "sass": "1.62.1",
     "sass-loader": "10.2.0",
     "vue-cli-plugin-i18n": "2.3.2",
-    "vue-template-compiler": "2.7.14"
+    "vue-template-compiler": "2.7.16"
+  },
+  "overrides": {
+    "vue": "2.7.16",
+    "vue-template-compiler": "2.7.16",
+    "cross-spawn": "^6.0.6",
+    "serialize-javascript": "^6.0.2",
+    "postcss": "^8.4.31"
   },
   "browserslist": [
     "> 1%",
