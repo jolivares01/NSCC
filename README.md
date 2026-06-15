@@ -63,3 +63,15 @@ SCC_PROJECT_ROOT/
 │   └── postgres-statefulset.yaml
 │
 └── docker-compose.yml        
+
+
+# Comandos Docker
+
+# 1. Compilar todo el ecosistema (Front, Gateway y los 8 servicios)
+docker compose build
+
+# 2. Levantar toda la suite en segundo plano inyectando el .env oficial
+docker compose --env-file .env up -d
+
+# 3. Monitorear que los 10 contenedores estén corriendo en producción
+docker compose ps

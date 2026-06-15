@@ -1,5 +1,16 @@
 version: '3.8'
 
+# --- PLANTILLA DE CONFIGURACIÓN PARA MICROSERVICIOS ---
+x-common-env: &pg_config
+  environment:
+    POSTGRES_USER: ${POSTGRES_USER}
+    POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    POSTGRES_HOST: ${POSTGRES_HOST}
+    POSTGRES_DB: ${POSTGRES_DB}
+    POSTGRES_PORT: ${POSTGRES_PORT}
+    DB_SCHEMA: ${DB_SCHEMA}
+    TZ: ${TZ}
+
 services:
   # --- INFRAESTRUCTURA: BASE DE DATOS LOCAL ---
   db_postgres:
@@ -37,84 +48,114 @@ services:
     networks:
       - scc_network
 
-  # --- PLANTILLA DE CONFIGURACIÓN PARA MICROSERVICIOS ---
-  # Usamos esto para no repetir las variables de Postgres en cada servicio
-  x-common-env: &pg_config
-    POSTGRES_USER: ${POSTGRES_USER}
-    POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
-    POSTGRES_HOST: ${POSTGRES_HOST}
-    POSTGRES_DB: ${POSTGRES_DB}
-    POSTGRES_PORT: ${POSTGRES_PORT}
-    DB_SCHEMA: ${DB_SCHEMA}
-    TZ: ${TZ}
-
-  # --- MICROSERVICIOS ---
+  # --- MICROSERVICIOS (Contexto unificado en la raíz para heredar el requirements.txt) ---
   auth-service:
-    build: ./scc_services/auth_service
+    build:
+      context: .
+      dockerfile: scc_services/auth_service/Dockerfile
     container_name: scc_auth
-    environment: *pg_config
-    depends_on: [db_postgres]
-    networks: [scc_network]
+    <<: *pg_config
+    depends_on:
+      - db_postgres
+    networks:
+      - scc_network
 
   user-service:
-    build: ./scc_services/user_service
+    build:
+      context: .
+      dockerfile: scc_services/user_service/Dockerfile
     container_name: scc_users
-    environment: *pg_config
-    depends_on: [db_postgres]
-    networks: [scc_network]
+    <<: *pg_config
+    depends_on:
+      - db_postgres
+    networks:
+      - scc_network
 
   calculation-service:
-    build: ./scc_services/calculation_service
+    build:
+      context: .
+      dockerfile: scc_services/calculation_service/Dockerfile
     container_name: scc_calculation
+    <<: *pg_config
     environment:
-      <<: *pg_config
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_HOST: ${POSTGRES_HOST}
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_PORT: ${POSTGRES_PORT}
+      DB_SCHEMA: ${DB_SCHEMA}
+      TZ: ${TZ}
       ORA_CRM_USER: ${ORA_CRM_USER}
       ORA_CRM_PASS: ${ORA_CRM_PASS}
       ORA_CRM_DSN: ${ORA_CRM_DSN}
       ORA_SQL_USER: ${ORA_SQL_USER}
       ORA_SQL_PASS: ${ORA_SQL_PASS}
       ORA_SQL_DSN: ${ORA_SQL_DSN}
-    depends_on: [db_postgres]
-    networks: [scc_network]
+    depends_on:
+      - db_postgres
+    networks:
+      - scc_network
 
   business-rules-service:
-    build: ./scc_services/business_rules_service
+    build:
+      context: .
+      dockerfile: scc_services/business_rules_service/Dockerfile
     container_name: scc_business_rules
-    environment: *pg_config
-    depends_on: [db_postgres]
-    networks: [scc_network]
+    <<: *pg_config
+    depends_on:
+      - db_postgres
+    networks:
+      - scc_network
 
   claims-service:
-    build: ./scc_services/claims_service
+    build:
+      context: .
+      dockerfile: scc_services/claims_service/Dockerfile
     container_name: scc_claims
-    environment: *pg_config
-    depends_on: [db_postgres]
-    networks: [scc_network]
+    <<: *pg_config
+    depends_on:
+      - db_postgres
+    networks:
+      - scc_network
 
   dashboard-service:
-    build: ./scc_services/dashboard_service
+    build:
+      context: .
+      dockerfile: scc_services/dashboard_service/Dockerfile
     container_name: scc_dashboard
-    environment: *pg_config
-    depends_on: [db_postgres]
-    networks: [scc_network]
+    <<: *pg_config
+    depends_on:
+      - db_postgres
+    networks:
+      - scc_network
 
   report-service:
-    build: ./scc_services/report_service
+    build:
+      context: .
+      dockerfile: scc_services/report_service/Dockerfile
     container_name: scc_reports
-    environment: *pg_config
-    depends_on: [db_postgres]
-    networks: [scc_network]
+    <<: *pg_config
+    depends_on:
+      - db_postgres
+    networks:
+      - scc_network
 
   rol-service:
-    build: ./scc_services/rol_services
+    build:
+      context: .
+      dockerfile: scc_services/rol_services/Dockerfile
     container_name: scc_roles
-    environment: *pg_config
-    depends_on: [db_postgres]
-    networks: [scc_network]
+    <<: *pg_config
+    depends_on:
+      - db_postgres
+    networks:
+      - scc_network
 
   # --- FRONT END ---
   scc-front:
-    build: ./scc_front
+    build:
+      context: ./scc_front
+      dockerfile: Dockerfile
     container_name: scc_frontend
     ports:
       - "80:80"
