@@ -1,4 +1,4 @@
-#!C:\Users\E24455144\OneDrive - CORPORACION DIGITEL, C.A\Documents\Desarrollos Soporte CRM\NSCC-main\NSCC-main\api_gateway\venv\Scripts\python.exe
+#!C:\Users\Joliv\OneDrive\Documentos\desarrollos\NSCC\NSCC\api_gateway\venv\Scripts\python.exe
 
 ##############################################################################
 #
