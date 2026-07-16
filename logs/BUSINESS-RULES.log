@@ -1,26 +1,10 @@
-2026-06-02 09:20:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
-2026-06-02 09:20:19 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 24
-2026-06-02 09:20:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
-2026-06-02 09:20:19 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
-2026-06-02 09:20:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
-2026-06-02 09:20:19 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 19
-2026-06-02 09:20:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de planes.
-2026-06-02 09:20:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
-2026-06-02 09:20:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
-2026-06-02 09:20:19 | DEBUG    | E24455144    | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.
-2026-06-02 09:21:07 | DEBUG    | E24455144    | BUSINESS-RULES  | Petición de actualización de servicio recibida: {'id_service': 'P-0047', 'channel': 'AA', 'amount_to_pay': '3', 'amount_percentage': '30', 'change_who': 'E24455144', 'is_active': False}
-2026-06-02 09:21:07 | INFO     | E24455144    | BUSINESS-RULES  | Servicio P-0047 actualizado por E24455144. Estado activo: False
-2026-06-02 09:21:07 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
-2026-06-02 09:21:07 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
-2026-06-02 09:21:07 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
-2026-06-02 09:21:07 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 24
-2026-06-02 09:21:07 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 19
-2026-06-02 09:21:07 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
-2026-06-02 09:21:18 | DEBUG    | E24455144    | BUSINESS-RULES  | Petición de actualización de servicio recibida: {'id_service': 'P-0047', 'channel': 'AA', 'amount_to_pay': '3', 'amount_percentage': '30', 'change_who': 'E24455144', 'is_active': True}
-2026-06-02 09:21:18 | INFO     | E24455144    | BUSINESS-RULES  | Servicio P-0047 actualizado por E24455144. Estado activo: True
-2026-06-02 09:21:18 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de planes comisionables.
-2026-06-02 09:21:18 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 24
-2026-06-02 09:21:18 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando lista de servicios comisionables.
-2026-06-02 09:21:18 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
-2026-06-02 09:21:18 | DEBUG    | E24455144    | BUSINESS-RULES  | Consultando reglas generales de negocio.
-2026-06-02 09:21:18 | INFO     | E24455144    | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 19
+2026-07-14 23:50:17 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de planes comisionables.
+2026-07-14 23:50:17 | INFO     | admin        | BUSINESS-RULES  | Consulta de planes exitosa. Registros obtenidos: 24
+2026-07-14 23:50:17 | DEBUG    | admin        | BUSINESS-RULES  | Consultando lista de servicios comisionables.
+2026-07-14 23:50:17 | INFO     | admin        | BUSINESS-RULES  | Consulta de servicios exitosa. Registros obtenidos: 75
+2026-07-14 23:50:17 | DEBUG    | admin        | BUSINESS-RULES  | Consultando reglas generales de negocio.
+2026-07-14 23:50:17 | INFO     | admin        | BUSINESS-RULES  | Consulta de reglas generales exitosa. Total: 19
+2026-07-14 23:50:17 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de planes.
+2026-07-14 23:50:17 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo maestro de servicios.
+2026-07-14 23:50:17 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de canales autorizados.
+2026-07-14 23:50:17 | DEBUG    | admin        | BUSINESS-RULES  | Cargando catálogo de tipos de órdenes.

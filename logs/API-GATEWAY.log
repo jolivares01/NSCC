@@ -1,66 +1,24 @@
-2026-06-06 14:18:28 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
-2026-06-06 14:18:30 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
-2026-06-06 14:19:06 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/dashboard/metrics
-2026-06-06 14:19:06 | DEBUG    | E24455144    | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 14:19:06 | INFO     | E24455144    | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 175.17ms
-2026-06-06 14:19:07 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/dashboard/metrics | STATUS: 200 | TIEMPO: 950.07ms
-2026-06-06 14:19:18 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/auth/login
-2026-06-06 14:19:18 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/auth/login | STATUS: 200 | TIEMPO: 448.31ms
-2026-06-06 14:19:18 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/roles/permissions/ROL_0001
-2026-06-06 14:19:18 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/roles/permissions/ROL_0001 | STATUS: 200 | TIEMPO: 51.68ms
-2026-06-06 14:19:18 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/dashboard/metrics
-2026-06-06 14:19:18 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 14:19:18 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.56ms
-2026-06-06 14:19:19 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/dashboard/metrics | STATUS: 200 | TIEMPO: 776.62ms
-2026-06-06 14:19:23 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/dashboard/metrics
-2026-06-06 14:19:24 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/dashboard/metrics | STATUS: 200 | TIEMPO: 797.55ms
-2026-06-06 14:19:49 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 14:19:49 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 10.00ms
-2026-06-06 14:20:19 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 14:20:19 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.00ms
-2026-06-06 14:20:49 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 14:20:49 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
-2026-06-06 14:21:19 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 14:21:19 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.38ms
-2026-06-06 14:21:49 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 14:21:49 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.24ms
-2026-06-06 14:22:19 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 14:22:19 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.48ms
-2026-06-06 14:22:49 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 14:22:49 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 3.01ms
-2026-06-06 14:23:20 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 14:23:20 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 2.01ms
-2026-06-06 14:24:15 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
-2026-06-06 14:24:15 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
-2026-06-06 14:24:22 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
-2026-06-06 14:24:23 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
-2026-06-06 14:24:41 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
-2026-06-06 14:24:41 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
-2026-06-06 14:24:48 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
-2026-06-06 14:24:49 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
-2026-06-06 15:00:15 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
-2026-06-06 15:00:15 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
-2026-06-06 15:00:41 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
-2026-06-06 15:00:47 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
-2026-06-06 15:01:48 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
-2026-06-06 15:01:48 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
-2026-06-06 15:02:12 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
-2026-06-06 15:02:18 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
-2026-06-06 15:05:45 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
-2026-06-06 15:05:45 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
-2026-06-06 15:05:54 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
-2026-06-06 15:05:55 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
-2026-06-06 15:20:57 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/auth/login
-2026-06-06 15:20:58 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/auth/login | STATUS: 200 | TIEMPO: 487.25ms
-2026-06-06 15:20:58 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/roles/permissions/ROL_0001
-2026-06-06 15:20:58 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/roles/permissions/ROL_0001 | STATUS: 200 | TIEMPO: 29.71ms
-2026-06-06 15:20:58 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/dashboard/metrics
-2026-06-06 15:20:58 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 15:20:58 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 286.98ms
-2026-06-06 15:20:59 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/dashboard/metrics | STATUS: 200 | TIEMPO: 770.09ms
-2026-06-06 15:21:28 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 15:21:28 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 8.82ms
-2026-06-06 15:21:58 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
-2026-06-06 15:21:58 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.00ms
-2026-06-06 15:22:14 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
-2026-06-06 15:22:14 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
+2026-07-16 00:04:05 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
+2026-07-16 00:04:08 | ERROR    | SYSTEM       | API-GATEWAY     | SISTEMA: Error al establecer el pool de conexiones: [Errno 11001] getaddrinfo failed
+2026-07-16 00:05:42 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
+2026-07-16 00:05:42 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
+2026-07-16 00:06:01 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
+2026-07-16 00:06:01 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
+2026-07-16 00:06:53 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /docs
+2026-07-16 00:06:53 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /docs | STATUS: 200 | TIEMPO: 1.03ms
+2026-07-16 00:06:53 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /openapi.json
+2026-07-16 00:06:53 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /openapi.json | STATUS: 200 | TIEMPO: 129.98ms
+2026-07-16 00:07:06 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/auth/login
+2026-07-16 00:07:06 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/auth/login | STATUS: 200 | TIEMPO: 458.10ms
+2026-07-16 00:42:40 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
+2026-07-16 00:42:40 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
+2026-07-16 00:42:47 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
+2026-07-16 00:42:48 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
+2026-07-16 00:42:51 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
+2026-07-16 00:42:51 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
+2026-07-16 00:52:32 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
+2026-07-16 00:52:32 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
+2026-07-16 00:52:45 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/auth/login
+2026-07-16 00:52:46 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/auth/login | STATUS: 200 | TIEMPO: 406.53ms
+2026-07-16 00:53:02 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
+2026-07-16 00:53:02 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.

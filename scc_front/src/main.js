@@ -24,7 +24,7 @@
  // --- CONFIGURACIÓN GLOBAL DE AXIOS Y JWT ---
  
  // 2. URL Base del Gateway (Ajusta el puerto si es necesario)
- axios.defaults.baseURL = 'http://localhost:8000';
+ axios.defaults.baseURL = 'http://localhost:8080';
  
  // 3. Interceptor de Petición: Envía el token en cada llamada
  axios.interceptors.request.use(config => {

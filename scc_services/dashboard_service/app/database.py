@@ -1,7 +1,6 @@
 import asyncpg
 from fastapi import Request
-#from app.core.config import settings # Importamos nuestra nueva configuración
-from .core.config import settings
+from scc_services.core.config import settings
 # Variable global para el shutdown
 db_pool = None
 

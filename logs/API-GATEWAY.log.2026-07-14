@@ -1,0 +1,68 @@
+2026-07-14 22:18:27 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
+2026-07-14 22:18:28 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
+2026-07-14 22:19:00 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /
+2026-07-14 22:19:00 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET / | STATUS: 200 | TIEMPO: 102.79ms
+2026-07-14 22:19:00 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /favicon.ico
+2026-07-14 22:19:00 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /favicon.ico | STATUS: 404 | TIEMPO: 0.99ms
+2026-07-14 22:26:07 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/auth/login
+2026-07-14 22:26:08 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/auth/login | STATUS: 500 | TIEMPO: 451.73ms
+2026-07-14 22:26:58 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
+2026-07-14 22:26:58 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
+2026-07-14 22:27:11 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
+2026-07-14 22:27:11 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
+2026-07-14 22:27:16 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/auth/login
+2026-07-14 22:27:16 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/auth/login | STATUS: 500 | TIEMPO: 51.70ms
+2026-07-14 22:27:47 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
+2026-07-14 22:27:47 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
+2026-07-14 22:28:00 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
+2026-07-14 22:28:01 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
+2026-07-14 22:28:05 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/auth/login
+2026-07-14 22:28:05 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/auth/login | STATUS: 500 | TIEMPO: 323.16ms
+2026-07-14 22:29:20 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
+2026-07-14 22:29:20 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
+2026-07-14 22:29:25 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
+2026-07-14 22:29:25 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
+2026-07-14 22:30:07 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/auth/login
+2026-07-14 22:30:08 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/auth/login | STATUS: 500 | TIEMPO: 299.87ms
+2026-07-14 23:27:30 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
+2026-07-14 23:27:30 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.
+2026-07-14 23:48:56 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Iniciando API Gateway...
+2026-07-14 23:48:57 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Pool de conexiones PostgreSQL establecido correctamente.
+2026-07-14 23:49:15 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/auth/login
+2026-07-14 23:49:15 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/auth/login | STATUS: 200 | TIEMPO: 402.26ms
+2026-07-14 23:49:15 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/roles/permissions/ROL_0001
+2026-07-14 23:49:15 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/roles/permissions/ROL_0001 | STATUS: 200 | TIEMPO: 67.74ms
+2026-07-14 23:49:15 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/dashboard/metrics
+2026-07-14 23:49:16 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-07-14 23:49:16 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 33.21ms
+2026-07-14 23:49:16 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/dashboard/metrics | STATUS: 200 | TIEMPO: 1001.88ms
+2026-07-14 23:49:33 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-07-14 23:49:33 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 7.18ms
+2026-07-14 23:50:01 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: POST /api/v1/reports/comisiones-agente
+2026-07-14 23:50:03 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-07-14 23:50:03 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.93ms
+2026-07-14 23:50:03 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: POST /api/v1/reports/comisiones-agente | STATUS: 200 | TIEMPO: 1847.35ms
+2026-07-14 23:50:08 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/dashboard/metrics
+2026-07-14 23:50:09 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-07-14 23:50:09 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 1.88ms
+2026-07-14 23:50:09 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/dashboard/metrics | STATUS: 200 | TIEMPO: 706.25ms
+2026-07-14 23:50:12 | DEBUG    | SYSTEM       | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/dashboard/metrics
+2026-07-14 23:50:12 | INFO     | SYSTEM       | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/dashboard/metrics | STATUS: 200 | TIEMPO: 589.65ms
+2026-07-14 23:50:17 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/claims/notifications-count
+2026-07-14 23:50:17 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/claims/notifications-count | STATUS: 200 | TIEMPO: 4.19ms
+2026-07-14 23:50:17 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/business-rules/plans
+2026-07-14 23:50:17 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/business-rules/plans | STATUS: 200 | TIEMPO: 28.74ms
+2026-07-14 23:50:17 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/business-rules/services
+2026-07-14 23:50:17 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/business-rules/services | STATUS: 200 | TIEMPO: 12.38ms
+2026-07-14 23:50:17 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/business-rules/general-rules
+2026-07-14 23:50:17 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/business-rules/general-rules | STATUS: 200 | TIEMPO: 10.26ms
+2026-07-14 23:50:17 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/business-rules/catalog/plans
+2026-07-14 23:50:17 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/business-rules/catalog/plans | STATUS: 200 | TIEMPO: 13.71ms
+2026-07-14 23:50:17 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/business-rules/catalog/services
+2026-07-14 23:50:17 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/business-rules/catalog/services | STATUS: 200 | TIEMPO: 13.99ms
+2026-07-14 23:50:17 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/business-rules/catalog/channels
+2026-07-14 23:50:17 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/business-rules/catalog/channels | STATUS: 200 | TIEMPO: 7.42ms
+2026-07-14 23:50:17 | DEBUG    | admin        | API-GATEWAY     | OPERACIÓN INICIADA: GET /api/v1/business-rules/catalog/order-types
+2026-07-14 23:50:17 | INFO     | admin        | API-GATEWAY     | OPERACIÓN COMPLETADA: GET /api/v1/business-rules/catalog/order-types | STATUS: 200 | TIEMPO: 6.21ms
+2026-07-14 23:50:31 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Apagando API Gateway...
+2026-07-14 23:50:32 | INFO     | SYSTEM       | API-GATEWAY     | SISTEMA: Conexiones cerradas.

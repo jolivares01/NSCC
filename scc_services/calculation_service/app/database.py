@@ -1,7 +1,7 @@
 import asyncpg
 import oracledb
 from fastapi import Request
-from .core.config import settings
+from scc_services.core.config import settings
 
 # --- MUNDO POSTGRES (Async) ---
 async def create_db_pool(app):

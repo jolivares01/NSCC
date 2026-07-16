@@ -1,18 +1,20 @@
 version: '3.8'
 
-# --- PLANTILLA DE CONFIGURACIÓN PARA MICROSERVICIOS ---
+# --- PLANTILLA DE CONFIGURACIÓN ---
 x-common-env: &pg_config
+  env_file: 
+    - .env
   environment:
-    POSTGRES_USER: ${POSTGRES_USER}
-    POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
-    POSTGRES_HOST: ${POSTGRES_HOST}
-    POSTGRES_DB: ${POSTGRES_DB}
-    POSTGRES_PORT: ${POSTGRES_PORT}
-    DB_SCHEMA: ${DB_SCHEMA}
-    TZ: ${TZ}
+    - POSTGRES_USER=${POSTGRES_USER}
+    - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+    - POSTGRES_HOST=db_postgres
+    - POSTGRES_DB=${POSTGRES_DB}
+    - POSTGRES_PORT=5432
+    - DB_SCHEMA=${DB_SCHEMA}
+    - TZ=${TZ}
 
 services:
-  # --- INFRAESTRUCTURA: BASE DE DATOS LOCAL ---
+  # --- INFRAESTRUCTURA: BASE DE DATOS ---
   db_postgres:
     image: postgres:15-alpine
     container_name: scc_db_postgres
@@ -22,10 +24,15 @@ services:
       - POSTGRES_DB=${POSTGRES_DB}
     ports:
       - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
     networks:
       - scc_network
 
-  # --- API GATEWAY (Entrypoint) ---
+  # --- API GATEWAY ---
   api-gateway:
     build:
       context: .
@@ -33,136 +40,91 @@ services:
     container_name: scc_api_gateway
     ports:
       - "8080:8080"
+    <<: *pg_config
     environment:
       - SECRET_KEY=${SECRET_KEY}
       - ALGORITHM=${ALGORITHM}
-      - POSTGRES_USER=${POSTGRES_USER}
-      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
-      - POSTGRES_HOST=${POSTGRES_HOST}
-      - POSTGRES_DB=${POSTGRES_DB}
-      - POSTGRES_PORT=${POSTGRES_PORT}
-      - DB_SCHEMA=${DB_SCHEMA}
-      - TZ=${TZ}
+      # Reutilizamos las variables del template y sobrescribimos el host
+      - POSTGRES_HOST=db_postgres
     depends_on:
-      - db_postgres
+      db_postgres:
+        condition: service_healthy
     networks:
       - scc_network
 
-  # --- MICROSERVICIOS (Contexto unificado en la raíz para heredar el requirements.txt) ---
+  # --- MICROSERVICIOS ---
   auth-service:
-    build:
-      context: .
-      dockerfile: scc_services/auth_service/Dockerfile
+    build: { context: ., dockerfile: scc_services/auth_service/Dockerfile }
     container_name: scc_auth
     <<: *pg_config
-    depends_on:
-      - db_postgres
-    networks:
-      - scc_network
+    depends_on: { db_postgres: { condition: service_healthy } }
+    networks: [scc_network]
 
   user-service:
-    build:
-      context: .
-      dockerfile: scc_services/user_service/Dockerfile
+    build: { context: ., dockerfile: scc_services/user_service/Dockerfile }
     container_name: scc_users
     <<: *pg_config
-    depends_on:
-      - db_postgres
-    networks:
-      - scc_network
+    depends_on: { db_postgres: { condition: service_healthy } }
+    networks: [scc_network]
 
   calculation-service:
-    build:
-      context: .
-      dockerfile: scc_services/calculation_service/Dockerfile
+    build: { context: ., dockerfile: scc_services/calculation_service/Dockerfile }
     container_name: scc_calculation
     <<: *pg_config
     environment:
-      POSTGRES_USER: ${POSTGRES_USER}
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
-      POSTGRES_HOST: ${POSTGRES_HOST}
-      POSTGRES_DB: ${POSTGRES_DB}
-      POSTGRES_PORT: ${POSTGRES_PORT}
-      DB_SCHEMA: ${DB_SCHEMA}
-      TZ: ${TZ}
-      ORA_CRM_USER: ${ORA_CRM_USER}
-      ORA_CRM_PASS: ${ORA_CRM_PASS}
-      ORA_CRM_DSN: ${ORA_CRM_DSN}
-      ORA_SQL_USER: ${ORA_SQL_USER}
-      ORA_SQL_PASS: ${ORA_SQL_PASS}
-      ORA_SQL_DSN: ${ORA_SQL_DSN}
-    depends_on:
-      - db_postgres
-    networks:
-      - scc_network
+      - POSTGRES_HOST=db_postgres
+      - ORA_CRM_USER=${ORA_CRM_USER}
+      - ORA_CRM_PASS=${ORA_CRM_PASS}
+      - ORA_CRM_DSN=${ORA_CRM_DSN}
+      - ORA_SQL_USER=${ORA_SQL_USER}
+      - ORA_SQL_PASS=${ORA_SQL_PASS}
+      - ORA_SQL_DSN=${ORA_SQL_DSN}
+    depends_on: { db_postgres: { condition: service_healthy } }
+    networks: [scc_network]
 
   business-rules-service:
-    build:
-      context: .
-      dockerfile: scc_services/business_rules_service/Dockerfile
+    build: { context: ., dockerfile: scc_services/business_rules_service/Dockerfile }
     container_name: scc_business_rules
     <<: *pg_config
-    depends_on:
-      - db_postgres
-    networks:
-      - scc_network
+    depends_on: { db_postgres: { condition: service_healthy } }
+    networks: [scc_network]
 
   claims-service:
-    build:
-      context: .
-      dockerfile: scc_services/claims_service/Dockerfile
+    build: { context: ., dockerfile: scc_services/claims_service/Dockerfile }
     container_name: scc_claims
     <<: *pg_config
-    depends_on:
-      - db_postgres
-    networks:
-      - scc_network
+    depends_on: { db_postgres: { condition: service_healthy } }
+    networks: [scc_network]
 
   dashboard-service:
-    build:
-      context: .
-      dockerfile: scc_services/dashboard_service/Dockerfile
+    build: { context: ., dockerfile: scc_services/dashboard_service/Dockerfile }
     container_name: scc_dashboard
     <<: *pg_config
-    depends_on:
-      - db_postgres
-    networks:
-      - scc_network
+    depends_on: { db_postgres: { condition: service_healthy } }
+    networks: [scc_network]
 
   report-service:
-    build:
-      context: .
-      dockerfile: scc_services/report_service/Dockerfile
+    build: { context: ., dockerfile: scc_services/report_service/Dockerfile }
     container_name: scc_reports
     <<: *pg_config
-    depends_on:
-      - db_postgres
-    networks:
-      - scc_network
+    depends_on: { db_postgres: { condition: service_healthy } }
+    networks: [scc_network]
 
   rol-service:
-    build:
-      context: .
-      dockerfile: scc_services/rol_services/Dockerfile
+    build: { context: ., dockerfile: scc_services/rol_services/Dockerfile }
     container_name: scc_roles
     <<: *pg_config
-    depends_on:
-      - db_postgres
-    networks:
-      - scc_network
+    depends_on: { db_postgres: { condition: service_healthy } }
+    networks: [scc_network]
 
   # --- FRONT END ---
   scc-front:
-    build:
-      context: ./scc_front
-      dockerfile: Dockerfile
+    build: { context: ./scc_front, dockerfile: Dockerfile }
     container_name: scc_frontend
     ports:
       - "80:80"
-    depends_on:
-      - api-gateway
-    networks:
-      - scc_network
+    depends_on: [api-gateway]
+    networks: [scc_network]
 
 networks:
   scc_network:

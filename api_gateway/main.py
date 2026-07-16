@@ -11,7 +11,8 @@ from fastapi import FastAPI, Request
 from starlette.middleware.cors import CORSMiddleware
 
 # --- IMPORTACIÓN DE CONFIGURACIÓN, LOGGER Y CONTEXTO ---
-from api_gateway.config import settings
+#from api_gateway.config import settings
+from scc_services.core.config import settings
 from api_gateway.utils.logger_config import setup_logger, user_context
 
 # Importación de servicios (Routers)

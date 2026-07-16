@@ -1,0 +1,20 @@
+2026-06-06 14:19:06 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-06
+2026-06-06 14:19:06 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-06-06 14:19:06 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-06-06 14:19:06 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-06-06 14:19:07 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-06
+2026-06-06 14:19:18 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-06
+2026-06-06 14:19:18 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-06-06 14:19:18 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-06-06 14:19:19 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-06-06 14:19:19 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-06
+2026-06-06 14:19:23 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-04
+2026-06-06 14:19:23 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-06-06 14:19:23 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-06-06 14:19:24 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-06-06 14:19:24 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-04
+2026-06-06 15:20:58 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Solicitud de métricas recibida. Periodo: 2026-06
+2026-06-06 15:20:58 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: operaciones_dia
+2026-06-06 15:20:58 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: tecnologia
+2026-06-06 15:20:58 | DEBUG    | SYSTEM       | DASHBOARD-SERVICE | Ejecutando consulta analítica: comisionables
+2026-06-06 15:20:59 | INFO     | SYSTEM       | DASHBOARD-SERVICE | Métricas generadas correctamente para el periodo 2026-06
